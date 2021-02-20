@@ -1,0 +1,257 @@
+manufacturer,device,patchset,displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,creator-short,creator,creator-proximity,original-patchname
+Access,Virus A,Factory,A0,Overture,0,,0,,,,,1,1,K,Unknown (K),1,Overture K
+Access,Virus A,Factory,A1,First,0,,1,,,,,1,2,K,Unknown (K),1,First K
+Access,Virus A,Factory,A2,Virus,0,,2,,,Arp,,1,3,K,Unknown (K),1,Virus K
+Access,Virus A,Factory,A3,V-Pad 1,0,,3,,,,,1,4,K,Unknown (K),1,V-Pad 1 K
+Access,Virus A,Factory,A4,V-Birth1,0,,4,,,,,1,5,K,Unknown (K),1,V-Birth1 K
+Access,Virus A,Factory,A5,V-Birth1,0,,5,,,,,1,6,K,Unknown (K),1,V-Birth1 K
+Access,Virus A,Factory,A6,V-Birth2,0,,6,,,,,1,7,K,Unknown (K),1,V-Birth2 K
+Access,Virus A,Factory,A7,RavePad1,0,,7,,,,,1,8,K,Unknown (K),1,RavePad1 K
+Access,Virus A,Factory,A8,RavePad2,0,,8,,,,,1,9,K,Unknown (K),1,RavePad2 K
+Access,Virus A,Factory,A9,Compres2,0,,9,,,,,1,10,K,Unknown (K),1,Compres2 K
+Access,Virus A,Factory,A10,Basics,0,,10,,,,,1,11,,,,
+Access,Virus A,Factory,A11,PP?-PAD,0,,11,,,Pad,,1,12,RP,Rob Papen,1,PP?-PAD RP
+Access,Virus A,Factory,A12,NO-SEQ,0,,12,,,,,1,13,RP,Rob Papen,1,NO-SEQ RP
+Access,Virus A,Factory,A13,FusionBrs,0,,13,,,,,1,14,,,,
+Access,Virus A,Factory,A14,V-Pad 2,0,,14,,,Pad,,1,15,K,Unknown (K),1,V-Pad 2 K
+Access,Virus A,Factory,A15,Vi-bass,0,,15,,,Bass,,1,16,RP,Rob Papen,1,Vi-bass RP
+Access,Virus A,Factory,A16,VI-SYNC,0,,16,,,,,1,17,RP,Rob Papen,1,VI-SYNC RP
+Access,Virus A,Factory,A17,ZZ-ROB,0,,17,,,,,1,18,RP,Rob Papen,1,ZZ-ROB RP
+Access,Virus A,Factory,A18,Polaris,0,,18,,,,,1,19,,,,
+Access,Virus A,Factory,A19,Compress,0,,19,,,,,1,20,K,Unknown (K),1,Compress K
+Access,Virus A,Factory,A20,SatSync,0,,20,,,,,1,21,K,Unknown (K),1,SatSync K
+Access,Virus A,Factory,A21,VIP-PAD,0,,21,,,Pad,,1,22,RP,Rob Papen,1,VIP-PAD RP
+Access,Virus A,Factory,A22,ZZ-bass,0,,22,,,Bass,,1,23,RP,Rob Papen,1,ZZ-bass RP
+Access,Virus A,Factory,A23,XOBASS,0,,23,,,Bass,,1,24,RP,Rob Papen,1,XOBASS RP
+Access,Virus A,Factory,A24,SeqBass 2,0,,24,,,Bass,,1,25,,,,
+Access,Virus A,Factory,A25,PickBass 2,0,,25,,,Bass,,1,26,,,,
+Access,Virus A,Factory,A26,No Age,0,,26,,,,,1,27,,,,
+Access,Virus A,Factory,A27,Bass-MAN,0,,27,,,Bass,,1,28,,,,
+Access,Virus A,Factory,A28,PAD-777,0,,28,,,Pad,,1,29,RP,Rob Papen,1,PAD-777 RP
+Access,Virus A,Factory,A29,WangTang,0,,29,,,,,1,30,,,,
+Access,Virus A,Factory,A30,Virus 2,0,,30,,,Arp,,1,31,K,Unknown (K),1,Virus 2 K
+Access,Virus A,Factory,A31,D-SOCK,0,,31,,,,,1,32,RP,Rob Papen,1,D-SOCK RP
+Access,Virus A,Factory,A32,Clockwork,0,,32,,,,,1,33,,,,
+Access,Virus A,Factory,A33,Cybercussn,0,,33,,,,,1,34,,,,
+Access,Virus A,Factory,A34,Shivatron,0,,34,,,,,1,35,,,,
+Access,Virus A,Factory,A35,V-Resoni,0,,35,,,,,1,36,K,Unknown (K),1,V-Resoni K
+Access,Virus A,Factory,A36,Whew!,0,,36,,,,,1,37,,,,
+Access,Virus A,Factory,A37,TechnoArp,0,,37,,,Arp,,1,38,,,,
+Access,Virus A,Factory,A38,Strongs,0,,38,,,Strings,,1,39,,,,
+Access,Virus A,Factory,A39,Tension...,0,,39,,,,,1,40,,,,
+Access,Virus A,Factory,A40,Penicillin,0,,40,,,,,1,41,,,,
+Access,Virus A,Factory,A41,Bellthing,0,,41,,,,,1,42,,,,
+Access,Virus A,Factory,A42,V-Church,0,,42,,,Organ,,1,43,K,Unknown (K),1,V-Church K
+Access,Virus A,Factory,A43,HOLLAND,0,,43,,,,,1,44,RP,Rob Papen,1,HOLLAND RP
+Access,Virus A,Factory,A44,PEG Horns,0,,44,,,,,1,45,,,,
+Access,Virus A,Factory,A45,Fluffy,0,,45,,,,,1,46,,,,
+Access,Virus A,Factory,A46,Jet*Lag,0,,46,,,,,1,47,,,,
+Access,Virus A,Factory,A47,Basics,0,,47,,,,,1,48,,,,
+Access,Virus A,Factory,A48,InfectLead,0,,48,,,Lead,,1,49,,,,
+Access,Virus A,Factory,A49,Melodies,0,,49,,,,,1,50,,,,
+Access,Virus A,Factory,A50,Infected,0,,50,,,,,1,51,,,,
+Access,Virus A,Factory,A51,Sitar,0,,51,,,,,1,52,,,,
+Access,Virus A,Factory,A52,V-Orgel,0,,52,,,Organ,,1,53,K,Unknown (K),1,V-Orgel K
+Access,Virus A,Factory,A53,Cutoff,0,,53,,,,,1,54,K,Unknown (K),1,Cutoff K
+Access,Virus A,Factory,A54,V-Birth3,0,,54,,,,,1,55,K,Unknown (K),1,V-Birth3 K
+Access,Virus A,Factory,A55,V-Reso2,0,,55,,,,,1,56,K,Unknown (K),1,V-Reso2 K
+Access,Virus A,Factory,A56,V-Pad 1,0,,56,,,Pad,,1,57,K,Unknown (K),1,V-Pad 1 K
+Access,Virus A,Factory,A57,PPG Bass,0,,57,,,Bass,,1,58,,,,
+Access,Virus A,Factory,A58,Zoober,0,,58,,,,,1,59,,,,
+Access,Virus A,Factory,A59,Pad-Shop 2,0,,59,,,Pad,,1,60,,,,
+Access,Virus A,Factory,A60,USA,0,,60,,,Lead,,1,61,RP,Rob Papen,1,USA RP
+Access,Virus A,Factory,A61,BoomB,0,,61,,,,,1,62,RP,Rob Papen,1,BoomB RP
+Access,Virus A,Factory,A62,Clockshop,0,,62,,,,,1,63,,,,
+Access,Virus A,Factory,A63,ZZ-YOU,0,,63,,,,,1,64,RP,Rob Papen,1,ZZ-YOU RP
+Access,Virus A,Factory,A64,S.Stevens,0,,64,,,,,1,65,,,,
+Access,Virus A,Factory,A65,Spinett,0,,65,,,,,1,66,,,,
+Access,Virus A,Factory,A66,SteelDrum,0,,66,,,Drum,,1,67,,,,
+Access,Virus A,Factory,A67,MoogBass 1,0,,67,,,Bass,,1,68,,,,
+Access,Virus A,Factory,A68,MoogBass 2,0,,68,,,Bass,,1,69,,,,
+Access,Virus A,Factory,A69,PercVox,0,,69,,,,,1,70,,,,
+Access,Virus A,Factory,A70,PhaseStrng,0,,70,,,,,1,71,,,,
+Access,Virus A,Factory,A71,MoogBass3,0,,71,,,Bass,,1,72,,,,
+Access,Virus A,Factory,A72,PPG Bass2,0,,72,,,Bass,,1,73,,,,
+Access,Virus A,Factory,A73,S&H Arp,0,,73,,,Arp,,1,74,,,,
+Access,Virus A,Factory,A74,J.Arnold,0,,74,,,,,1,75,,,,
+Access,Virus A,Factory,A75,SpaceChor2,0,,75,,,,,1,76,,,,
+Access,Virus A,Factory,A76,Arpegiator,0,,76,,,Arp,,1,77,,,,
+Access,Virus A,Factory,A77,Arpeg 2,0,,77,,,Arp,,1,78,,,,
+Access,Virus A,Factory,A78,Ufo 1,0,,78,,,,,1,79,,,,
+Access,Virus A,Factory,A79,Thing !,0,,79,,,,,1,80,,,,
+Access,Virus A,Factory,A80,Ufo 2,0,,80,,,,,1,81,,,,
+Access,Virus A,Factory,A81,Arpeggia,0,,81,,,Arp,,1,82,,,,
+Access,Virus A,Factory,A82,Rave 2,0,,82,,,,,1,83,,,,
+Access,Virus A,Factory,A83,Adrenalin1,0,,83,,,,,1,84,,,,
+Access,Virus A,Factory,A84,Adrenalin2,0,,84,,,,,1,85,,,,
+Access,Virus A,Factory,A85,ResoBS,0,,85,,,Bass,,1,86,,,,
+Access,Virus A,Factory,A86,BD12,0,,86,,,Drum,,1,87,,,,
+Access,Virus A,Factory,A87,BD10,0,,87,,,Drum,,1,88,,,,
+Access,Virus A,Factory,A88,ARP KCK,0,,88,,,Drum,,1,89,RP,Rob Papen,1,ARP KCK RP
+Access,Virus A,Factory,A89,V-KICK,0,,89,,,Drum,,1,90,RP,Rob Papen,1,V-KICK RP
+Access,Virus A,Factory,A90,909 KCK,0,,90,,,Drum,,1,91,RP,Rob Papen,1,909 KCK RP
+Access,Virus A,Factory,A91,908 KCK,0,,91,,,Drum,,1,92,RP,Rob Papen,1,908 KCK RP
+Access,Virus A,Factory,A92,BD 1 <C3>,0,,92,,,Drum,,1,93,,,,
+Access,Virus A,Factory,A93,BD 2 (C3),0,,93,,,Drum,,1,94,,,,
+Access,Virus A,Factory,A94,BD 3 (C3),0,,94,,,Drum,,1,95,,,,
+Access,Virus A,Factory,A95,BD 4 (C3),0,,95,,,Drum,,1,96,,,,
+Access,Virus A,Factory,A96,BD 5 (C3),0,,96,,,Drum,,1,97,,,,
+Access,Virus A,Factory,A97,BD 6 (C3),0,,97,,,Drum,,1,98,,,,
+Access,Virus A,Factory,A98,BD 7 (C3),0,,98,,,Drum,,1,99,,,,
+Access,Virus A,Factory,A99,V-snare,0,,99,,,Drum,,1,100,RP,Rob Papen,1,V-snare RP
+Access,Virus A,Factory,A100,SNR 1,0,,100,,,Drum,,1,101,,,,
+Access,Virus A,Factory,A101,SNR 2,0,,101,,,Drum,,1,102,,,,
+Access,Virus A,Factory,A102,FM SNR,0,,102,,,Drum,,1,103,,,,
+Access,Virus A,Factory,A103,SNR 3,0,,103,,,Drum,,1,104,,,,
+Access,Virus A,Factory,A104,Snr4,0,,104,,,Drum,,1,105,,,,
+Access,Virus A,Factory,A105,C-HIHAT,0,,105,,,Drum,,1,106,RP,Rob Papen,1,C-HIHAT RP
+Access,Virus A,Factory,A106,O-HIHAT,0,,106,,,Drum,,1,107,RP,Rob Papen,1,O-HIHAT RP
+Access,Virus A,Factory,A107,HH 2,0,,107,,,Drum,,1,108,,,,
+Access,Virus A,Factory,A108,HH 3,0,,108,,,Drum,,1,109,,,,
+Access,Virus A,Factory,A109,ARP HH,0,,109,,,Drum,,1,110,,,,
+Access,Virus A,Factory,A110,HH 1,0,,110,,,Drum,,1,111,,,,
+Access,Virus A,Factory,A111,TOM-TOM,0,,111,,,Drum,,1,112,RP,Rob Papen,1,TOM-TOM RP
+Access,Virus A,Factory,A112,SLAP-IT,0,,112,,,Drum,,1,113,RP,Rob Papen,1,SLAP-IT RP
+Access,Virus A,Factory,A113,Block,0,,113,,,Drum,,1,114,,,,
+Access,Virus A,Factory,A114,Snip,0,,114,,,Drum,,1,115,,,,
+Access,Virus A,Factory,A115,Conga,0,,115,,,Drum,,1,116,,,,
+Access,Virus A,Factory,A116,Wood,0,,116,,,Drum,,1,117,,,,
+Access,Virus A,Factory,A117,Stick,0,,117,,,Drum,,1,118,,,,
+Access,Virus A,Factory,A118,V-CUSS,0,,118,,,,,1,119,RP,Rob Papen,1,V-CUSS RP
+Access,Virus A,Factory,A119,OctaSectn2,0,,119,,,,,1,120,,,,
+Access,Virus A,Factory,A120,V-Jump,0,,120,,,,,1,121,K,Unknown (K),1,V-Jump K
+Access,Virus A,Factory,A121,Sacralizer,0,,121,,,,,1,122,,,,
+Access,Virus A,Factory,A122,Klicklead,0,,122,,,,,1,123,,,,
+Access,Virus A,Factory,A123,Dangle,0,,123,,,,,1,124,,,,
+Access,Virus A,Factory,A124,Pin-Piano,0,,124,,,,,1,125,,,,
+Access,Virus A,Factory,A125,>>INPUT<<,0,,125,,,,,1,126,,,,
+Access,Virus A,Factory,A126,- Init -,0,,126,,,,,1,127,,,,
+Access,Virus A,Factory,A127,- Start -,0,,127,,,,,1,128,,,,
+Access,Virus A,Factory,B0,Low,1,,0,,,Bass,,2,1,,,,
+Access,Virus A,Factory,B1,Sci-fi1,1,,1,,,,,2,2,K,Unknown (K),1,Sci-fi1 K
+Access,Virus A,Factory,B2,NEU *UTZ,1,,2,,,,,2,3,,,,
+Access,Virus A,Factory,B3,AION,1,,3,,,,,2,4,RP,Rob Papen,1,AION RP
+Access,Virus A,Factory,B4,R'DAM,1,,4,,,,,2,5,RP,Rob Papen,1,R'DAM RP
+Access,Virus A,Factory,B5,ABC-1,1,,5,,,,,2,6,RP,Rob Papen,1,ABC-1 RP
+Access,Virus A,Factory,B6,Sci-Fi 2,1,,6,,,,,2,7,,,,
+Access,Virus A,Factory,B7,ACTion,1,,7,,,,,2,8,,,,
+Access,Virus A,Factory,B8,Orc,1,,8,,,,,2,9,,,,
+Access,Virus A,Factory,B9,Resonator,1,,9,,,,,2,10,,,,
+Access,Virus A,Factory,B10,SatSync,1,,10,,,,,2,11,K,Unknown (K),1,SatSync K
+Access,Virus A,Factory,B11,- Dream \,1,,11,,,,,2,12,,,,
+Access,Virus A,Factory,B12,UFO 3,1,,12,,,,,2,13,,,,
+Access,Virus A,Factory,B13,BluePAD,1,,13,,,,,2,14,RP,Rob Papen,1,BluePAD RP
+Access,Virus A,Factory,B14,V-Perc 1,1,,14,,,,,2,15,,,,
+Access,Virus A,Factory,B15,Spaz meC*:,1,,15,,,,,2,16,,,,
+Access,Virus A,Factory,B16,GEE-PAD,1,,16,,,,,2,17,RP,Rob Papen,1,GEE-PAD RP
+Access,Virus A,Factory,B17,- STAR \,1,,17,,,,,2,18,,,,
+Access,Virus A,Factory,B18,What...,1,,18,,,,,2,19,RP,Rob Papen,1,What... RP
+Access,Virus A,Factory,B19,CRISPY,1,,19,,,,,2,20,,,,
+Access,Virus A,Factory,B20,Bass-MAN2,1,,20,,,Bass,,2,21,,,,
+Access,Virus A,Factory,B21,Syn 4,1,,21,,,,,2,22,,,,
+Access,Virus A,Factory,B22,PPG-PAD,1,,22,,,Pad,,2,23,,,,
+Access,Virus A,Factory,B23,Ice House,1,,23,,,,,2,24,,,,
+Access,Virus A,Factory,B24,Zippy 2,1,,24,,,,,2,25,,,,
+Access,Virus A,Factory,B25,Welard !,1,,25,,,,,2,26,,,,
+Access,Virus A,Factory,B26,BIG.F1SH,1,,26,,,,,2,27,,,,
+Access,Virus A,Factory,B27,DarkMatter,1,,27,,,,,2,28,,,,
+Access,Virus A,Factory,B28,RINGPAD,1,,28,,,Pad,,2,29,,,,
+Access,Virus A,Factory,B29,BASS !,1,,29,,,Bass,,2,30,RP,Rob Papen,1,BASS ! RP
+Access,Virus A,Factory,B30,FASE 6,1,,30,,,,,2,31,RP,Rob Papen,1,FASE 6 RP
+Access,Virus A,Factory,B31,FLUTE,1,,31,,,,,2,32,RP,Rob Papen,1,FLUTE RP
+Access,Virus A,Factory,B32,Sea,1,,32,,,,,2,33,RP,Rob Papen,1,Sea RP
+Access,Virus A,Factory,B33,BASS X,1,,33,,,Bass,,2,34,RP,Rob Papen,1,BASS X RP
+Access,Virus A,Factory,B34,HI-PAD,1,,34,,,,,2,35,RP,Rob Papen,1,HI-PAD RP
+Access,Virus A,Factory,B35,SAW BEE,1,,35,,,,,2,36,RP,Rob Papen,1,SAW BEE RP
+Access,Virus A,Factory,B36,Uck Muk,1,,36,,,,,2,37,RP,Rob Papen,1,Uck Muk RP
+Access,Virus A,Factory,B37,IQ-PAD,1,,37,,,,,2,38,RP,Rob Papen,1,IQ-PAD RP
+Access,Virus A,Factory,B38,DANCIO2,1,,38,,,,,2,39,RP,Rob Papen,1,DANCIO2 RP
+Access,Virus A,Factory,B39,PIZZ,1,,39,,,,,2,40,RP,Rob Papen,1,PIZZ RP
+Access,Virus A,Factory,B40,ROB-PAD,1,,40,,,Pad,,2,41,RP,Rob Papen,1,ROB-PAD RP
+Access,Virus A,Factory,B41,PITCH-PAD,1,,41,,,Pad,,2,42,,,,
+Access,Virus A,Factory,B42,SYNVIRN,1,,42,,,,,2,43,RP,Rob Papen,1,SYNVIRN RP
+Access,Virus A,Factory,B43,PIZZ 2,1,,43,,,,,2,44,RP,Rob Papen,1,PIZZ 2 RP
+Access,Virus A,Factory,B44,Luise,1,,44,,,,,2,45,K,Unknown (K),1,Luise K
+Access,Virus A,Factory,B45,MOOGY,1,,45,,,,,2,46,RP,Rob Papen,1,MOOGY RP
+Access,Virus A,Factory,B46,V-BRASS,1,,46,,,,,2,47,RP,Rob Papen,1,V-BRASS RP
+Access,Virus A,Factory,B47,CoolPorta,1,,47,,,,,2,48,,,,
+Access,Virus A,Factory,B48,MOOBASS,1,,48,,,,,2,49,RP,Rob Papen,1,MOOBASS RP
+Access,Virus A,Factory,B49,BASS-ON,1,,49,,,Bass,,2,50,RP,Rob Papen,1,BASS-ON RP
+Access,Virus A,Factory,B50,DIGIT,1,,50,,,,,2,51,RP,Rob Papen,1,DIGIT RP
+Access,Virus A,Factory,B51,VORGAN,1,,51,,,Organ,,2,52,RP,Rob Papen,1,VORGAN RP
+Access,Virus A,Factory,B52,Seq 1,1,,52,,,,,2,53,,,,
+Access,Virus A,Factory,B53,543 SEQ,1,,53,,,,,2,54,RP,Rob Papen,1,543 SEQ RP
+Access,Virus A,Factory,B54,MINI-M,1,,54,,,,,2,55,RP,Rob Papen,1,MINI-M RP
+Access,Virus A,Factory,B55,WAVEN,1,,55,,,,,2,56,RP,Rob Papen,1,WAVEN RP
+Access,Virus A,Factory,B56,KL IMBA P,1,,56,,,,,2,57,,,,
+Access,Virus A,Factory,B57,ViBee 1,1,,57,,,,,2,58,RP,Rob Papen,1,ViBee 1 RP
+Access,Virus A,Factory,B58,TS-PAD,1,,58,,,,,2,59,RP,Rob Papen,1,TS-PAD RP
+Access,Virus A,Factory,B59,V-HARP,1,,59,,,,,2,60,RP,Rob Papen,1,V-HARP RP
+Access,Virus A,Factory,B60,UNDERO,1,,60,,,,,2,61,RP,Rob Papen,1,UNDERO RP
+Access,Virus A,Factory,B61,WAVEN 2,1,,61,,,,,2,62,RP,Rob Papen,1,WAVEN 2 RP
+Access,Virus A,Factory,B62,ViBee 2,1,,62,,,,,2,63,RP,Rob Papen,1,ViBee 2 RP
+Access,Virus A,Factory,B63,Unlimit,1,,63,,,Lead,,2,64,RP,Rob Papen,1,Unlimit RP
+Access,Virus A,Factory,B64,VX-BASS,1,,64,,,Bass,,2,65,RP,Rob Papen,1,VX-BASS RP
+Access,Virus A,Factory,B65,X-FATTY,1,,65,,,,,2,66,RP,Rob Papen,1,X-FATTY RP
+Access,Virus A,Factory,B66,SWELLAD,1,,66,,,,,2,67,RP,Rob Papen,1,SWELLAD RP
+Access,Virus A,Factory,B67,VELOOR,1,,67,,,,,2,68,RP,Rob Papen,1,VELOOR RP
+Access,Virus A,Factory,B68,WHIST,1,,68,,,,,2,69,RP,Rob Papen,1,WHIST RP
+Access,Virus A,Factory,B69,DANGER,1,,69,,,,,2,70,RP,Rob Papen,1,DANGER RP
+Access,Virus A,Factory,B70,ViBee 3,1,,70,,,,,2,71,RP,Rob Papen,1,ViBee 3 RP
+Access,Virus A,Factory,B71,HQ-PAD,1,,71,,,,,2,72,RP,Rob Papen,1,HQ-PAD RP
+Access,Virus A,Factory,B72,CHEAPO,1,,72,,,,,2,73,RP,Rob Papen,1,CHEAPO RP
+Access,Virus A,Factory,B73,ACCYBAS,1,,73,,,,,2,74,RP,Rob Papen,1,ACCYBAS RP
+Access,Virus A,Factory,B74,FX 303,1,,74,,,,,2,75,RP,Rob Papen,1,FX 303 RP
+Access,Virus A,Factory,B75,MUSSET,1,,75,,,,,2,76,RP,Rob Papen,1,MUSSET RP
+Access,Virus A,Factory,B76,LOW-BAS,1,,76,,,Bass,,2,77,RP,Rob Papen,1,LOW-BAS RP
+Access,Virus A,Factory,B77,A-FLUTE,1,,77,,,,,2,78,RP,Rob Papen,1,A-FLUTE RP
+Access,Virus A,Factory,B78,TECH,1,,78,,,,,2,79,RP,Rob Papen,1,TECH RP
+Access,Virus A,Factory,B79,Harmonix,1,,79,,,,,2,80,,,,
+Access,Virus A,Factory,B80,V-550,1,,80,,,,,2,81,RP,Rob Papen,1,V-550 RP
+Access,Virus A,Factory,B81,DCC-BAS,1,,81,,,Bass,,2,82,RP,Rob Papen,1,DCC-BAS RP
+Access,Virus A,Factory,B82,GR-300,1,,82,,,,,2,83,RP,Rob Papen,1,GR-300 RP
+Access,Virus A,Factory,B83,FUZZY,1,,83,,,,,2,84,RP,Rob Papen,1,FUZZY RP
+Access,Virus A,Factory,B84,WING,1,,84,,,,,2,85,RP,Rob Papen,1,WING RP
+Access,Virus A,Factory,B85,T-BASS,1,,85,,,Bass,,2,86,RP,Rob Papen,1,T-BASS RP
+Access,Virus A,Factory,B86,SYN-KEY,1,,86,,1,Arp,,2,87,RP,Rob Papen,1,SYN-KEY RP
+Access,Virus A,Factory,B87,V-ORG,1,,87,,,Organ,,2,88,RP,Rob Papen,1,V-ORG RP
+Access,Virus A,Factory,B88,X-CLAVI,1,,88,,,,,2,89,RP,Rob Papen,1,X-CLAVI RP
+Access,Virus A,Factory,B89,BASSE-Y,1,,89,,,,,2,90,RP,Rob Papen,1,BASSE-Y RP
+Access,Virus A,Factory,B90,V-550-2,1,,90,,,,,2,91,RP,Rob Papen,1,V-550-2 RP
+Access,Virus A,Factory,B91,S-BASS,1,,91,,,,,2,92,RP,Rob Papen,1,S-BASS RP
+Access,Virus A,Factory,B92,JUNO-99,1,,92,,,,,2,93,RP,Rob Papen,1,JUNO-99 RP
+Access,Virus A,Factory,B93,- Space \,1,,93,,,,,2,94,,,,
+Access,Virus A,Factory,B94,ZWAP,1,,94,,,,,2,95,RP,Rob Papen,1,ZWAP RP
+Access,Virus A,Factory,B95,NOWSEQ 2,1,,95,,,,,2,96,,,,
+Access,Virus A,Factory,B96,PICTURE,1,,96,,,,,2,97,RP,Rob Papen,1,PICTURE RP
+Access,Virus A,Factory,B97,CLICKO,1,,97,,,,,2,98,RP,Rob Papen,1,CLICKO RP
+Access,Virus A,Factory,B98,SO-SOFT,1,,98,,,,,2,99,RP,Rob Papen,1,SO-SOFT RP
+Access,Virus A,Factory,B99,VARP,1,,99,,,,,2,100,RP,Rob Papen,1,VARP RP
+Access,Virus A,Factory,B100,Chop Orga2,1,,100,,,Organ,,2,101,,,,
+Access,Virus A,Factory,B101,Waily,1,,101,,,,,2,102,,,,
+Access,Virus A,Factory,B102,Wino Bench,1,,102,,,,,2,103,,,,
+Access,Virus A,Factory,B103,Seq,1,,103,,,,,2,104,,,,
+Access,Virus A,Factory,B104,E1,1,,104,,,,,2,105,,,,
+Access,Virus A,Factory,B105,SCREAM,1,,105,,,,,2,106,RP,Rob Papen,1,SCREAM RP
+Access,Virus A,Factory,B106,Spaz me!,1,,106,,,,,2,107,,,,
+Access,Virus A,Factory,B107,OutSpace,1,,107,,,,,2,108,,,,
+Access,Virus A,Factory,B108,Sci-fi2,1,,108,,,,,2,109,K,Unknown (K),1,Sci-fi2 K
+Access,Virus A,Factory,B109,V-Perc 2,1,,109,,,,,2,110,,,,
+Access,Virus A,Factory,B110,H-BASS,1,,110,,,Bass,,2,111,RP,Rob Papen,1,H-BASS RP
+Access,Virus A,Factory,B111,ABC-2,1,,111,,,,,2,112,RP,Rob Papen,1,ABC-2 RP
+Access,Virus A,Factory,B112,VACIN,1,,112,,,,,2,113,RP,Rob Papen,1,VACIN RP
+Access,Virus A,Factory,B113,RIMBA,1,,113,,,,,2,114,RP,Rob Papen,1,RIMBA RP
+Access,Virus A,Factory,B114,WATTY,1,,114,,,,,2,115,RP,Rob Papen,1,WATTY RP
+Access,Virus A,Factory,B115,V-ELEC,1,,115,,,,,2,116,RP,Rob Papen,1,V-ELEC RP
+Access,Virus A,Factory,B116,808 COW,1,,116,,,Drum,,2,117,RP,Rob Papen,1,808 COW RP
+Access,Virus A,Factory,B117,TIMBA,1,,117,,,,,2,118,RP,Rob Papen,1,TIMBA RP
+Access,Virus A,Factory,B118,POTTY,1,,118,,,,,2,119,RP,Rob Papen,1,POTTY RP
+Access,Virus A,Factory,B119,V-12,1,,119,,,,,2,120,RP,Rob Papen,1,V-12 RP
+Access,Virus A,Factory,B120,V-WURL,1,,120,,,,,2,121,RP,Rob Papen,1,V-WURL RP
+Access,Virus A,Factory,B121,@-LEAD,1,,121,,,,,2,122,RP,Rob Papen,1,@-LEAD RP
+Access,Virus A,Factory,B122,KRAFT,1,,122,,,,,2,123,RP,Rob Papen,1,KRAFT RP
+Access,Virus A,Factory,B123,TB-V03,1,,123,,,,,2,124,RP,Rob Papen,1,TB-V03 RP
+Access,Virus A,Factory,B124,TECH-NO,1,,124,,,,,2,125,RP,Rob Papen,1,TECH-NO RP
+Access,Virus A,Factory,B125,WEX TEX,1,,125,,,,,2,126,RP,Rob Papen,1,WEX TEX RP
+Access,Virus A,Factory,B126,SEA-PAD,1,,126,,,Pad,,2,127,RP,Rob Papen,1,SEA-PAD RP
+Access,Virus A,Factory,B127,SNxRexx,1,,127,,,Drum,,2,128,RP,Rob Papen,1,SNxRexx RP

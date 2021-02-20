@@ -1,0 +1,65 @@
+manufacturer,device,patchset,displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange
+Roland,System-1,Factory presets,1.1,Bazz,0,,0,,,,,1,1
+Roland,System-1,Factory presets,1.2,Deep bazz,0,,1,,,Bass,,1,2
+Roland,System-1,Factory presets,1.3,Digi bass,0,,2,,,Bass,,1,3
+Roland,System-1,Factory presets,1.4,Warp Digi Bass,0,,3,,,Bass,,1,4
+Roland,System-1,Factory presets,1.5,Thrrp,0,,4,,,,,1,5
+Roland,System-1,Factory presets,1.6,FM Bass,0,,5,,,Bass,,1,6
+Roland,System-1,Factory presets,1.7,Super Saw bass,0,,6,,,Bass,,1,7
+Roland,System-1,Factory presets,1.8,More Bass,0,,7,,,Bass,,1,8
+Roland,System-1,Factory presets,2.1,SQU Bell,1,,0,,,,,2,1
+Roland,System-1,Factory presets,2.2,Fanfare,1,,1,,,,,2,2
+Roland,System-1,Factory presets,2.3,Suspicious,1,,2,,,,,2,3
+Roland,System-1,Factory presets,2.4,Trump,1,,3,,,,,2,4
+Roland,System-1,Factory presets,2.5,Tmtrump,1,,4,,,,,2,5
+Roland,System-1,Factory presets,2.6,Trumped,1,,5,,,,,2,6
+Roland,System-1,Factory presets,2.7,V2,1,,6,,,,,2,7
+Roland,System-1,Factory presets,2.8,Dumarp,1,,7,,,,,2,8
+Roland,System-1,Factory presets,3.1,Requiem,2,,0,,,,,3,1
+Roland,System-1,Factory presets,3.2,Crackon,2,,1,,,,,3,2
+Roland,System-1,Factory presets,3.3,FM Arp,2,,2,,,,,3,3
+Roland,System-1,Factory presets,3.4,Wack Wack,2,,3,,,,,3,4
+Roland,System-1,Factory presets,3.5,Synk'd,2,,4,,,,,3,5
+Roland,System-1,Factory presets,3.6,Digi Arp,2,,5,,,Arp,,3,6
+Roland,System-1,Factory presets,3.7,Corbells,2,,6,,,,,3,7
+Roland,System-1,Factory presets,3.8,Thump,2,,7,,,,,3,8
+Roland,System-1,Factory presets,4.1,Thumper,3,,0,,,,,4,1
+Roland,System-1,Factory presets,4.2,Arpordian,3,,1,,,,,4,2
+Roland,System-1,Factory presets,4.3,Sawsaphone,3,,2,,,,,4,3
+Roland,System-1,Factory presets,4.4,Brasser,3,,3,,,,,4,4
+Roland,System-1,Factory presets,4.5,Noiseless,3,,4,,,,,4,5
+Roland,System-1,Factory presets,4.6,Squared,3,,5,,,,,4,6
+Roland,System-1,Factory presets,4.7,Square Bell,3,,6,,,,,4,7
+Roland,System-1,Factory presets,4.8,Genny,3,,7,,,,,4,8
+Roland,System-1,Factory presets,5.1,Synth String,4,,0,,,,,5,1
+Roland,System-1,Factory presets,5.2,Cut String,4,,1,,,,,5,2
+Roland,System-1,Factory presets,5.3,Full String,4,,2,,,,,5,3
+Roland,System-1,Factory presets,5.4,Deep String,4,,3,,,,,5,4
+Roland,System-1,Factory presets,5.5,Slow String,4,,4,,,,,5,5
+Roland,System-1,Factory presets,5.6,Rave String,4,,5,,,,,5,6
+Roland,System-1,Factory presets,5.7,Genned Up,4,,6,,,,,5,7
+Roland,System-1,Factory presets,5.8,Splunklink,4,,7,,,,,5,8
+Roland,System-1,Factory presets,6.1,No Monica!,5,,0,,,,,6,1
+Roland,System-1,Factory presets,6.2,Noboe,5,,1,,,,,6,2
+Roland,System-1,Factory presets,6.3,Waahgon,5,,2,,,,,6,3
+Roland,System-1,Factory presets,6.4,Growler,5,,3,,,,,6,4
+Roland,System-1,Factory presets,6.5,Etherwirld,5,,4,,,,,6,5
+Roland,System-1,Factory presets,6.6,Wobbler,5,,5,,,,,6,6
+Roland,System-1,Factory presets,6.7,And Back Again,5,,6,,,,,6,7
+Roland,System-1,Factory presets,6.8,Left Off,5,,7,,,,,6,8
+Roland,System-1,Factory presets,7.1,BassOrgan,6,,0,,,,,7,1
+Roland,System-1,Factory presets,7.2,Softbrass,6,,1,,,,,7,2
+Roland,System-1,Factory presets,7.3,FM Bell,6,,2,,,,,7,3
+Roland,System-1,Factory presets,7.4,Cut Me Off,6,,3,,,,,7,4
+Roland,System-1,Factory presets,7.5,RevOrgan,6,,4,,,Organ,,7,5
+Roland,System-1,Factory presets,7.6,Drone,6,,5,,,,,7,6
+Roland,System-1,Factory presets,7.7,OOH,6,,6,,,,,7,7
+Roland,System-1,Factory presets,7.8,WahAah,6,,7,,,,,7,8
+Roland,System-1,Factory presets,8.1,BuzzArp,7,,0,,,,,8,1
+Roland,System-1,Factory presets,8.2,Squarp,7,,1,,,,,8,2
+Roland,System-1,Factory presets,8.3,Rumble String,7,,2,,,,,8,3
+Roland,System-1,Factory presets,8.4,Sub Blip,7,,3,,,,,8,4
+Roland,System-1,Factory presets,8.5,Forbidden Planet,7,,4,,,,,8,5
+Roland,System-1,Factory presets,8.6,Scifi Buzz,7,,5,,,,,8,6
+Roland,System-1,Factory presets,8.7,Magic Fly,7,,6,,,,,8,7
+Roland,System-1,Factory presets,8.8,Awaaay,7,,7,,,,,8,8

@@ -1,0 +1,1025 @@
+manufacturer,device,patchset,displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,creator-short,creator,creator-proximity,original-patchname
+Waldorf,Blofeld,Factory Presets 2012,A001,Start Up,0,,0,,,Arp,1,,1,T,Tsching (Holger Steinbrink),7,Start Up       T
+Waldorf,Blofeld,Factory Presets 2012,A002,70s Pad,0,,1,,,Pad,1,,2,T,Tsching (Holger Steinbrink),8,70s Pad        T
+Waldorf,Blofeld,Factory Presets 2012,A003,Tschingeling,0,,2,,,Arp,1,,3,SCD,Something Completely Different (Boele Gerkes),1,Tschingeling SCD
+Waldorf,Blofeld,Factory Presets 2012,A004,XT Close,0,,3,,,Keys,1,,4,SCD,Something Completely Different (Boele Gerkes),5,XT Close     SCD
+Waldorf,Blofeld,Factory Presets 2012,A005,Digital JP4,0,,4,,,Arp,1,,5,SCD,Something Completely Different (Boele Gerkes),2,Digital JP4  SCD
+Waldorf,Blofeld,Factory Presets 2012,A006,BloChoir,0,,5,,,Pad,1,,6,T,Tsching (Holger Steinbrink),7,BloChoir       T
+Waldorf,Blofeld,Factory Presets 2012,A007,Sync Different,0,,6,,,Lead,1,,7,T,Tsching (Holger Steinbrink),1,Sync Different T
+Waldorf,Blofeld,Factory Presets 2012,A008,TearsFromComb,0,,7,,,Keys,1,,8,SCD,Something Completely Different (Boele Gerkes),0,TearsFromCombSCD
+Waldorf,Blofeld,Factory Presets 2012,A009,Click Bass,0,,8,,,Bass,1,,9,T,Tsching (Holger Steinbrink),5,Click Bass     T
+Waldorf,Blofeld,Factory Presets 2012,A010,Myst 6,0,,9,,,Atmo,1,,10,T,Tsching (Holger Steinbrink),9,Myst 6         T
+Waldorf,Blofeld,Factory Presets 2012,A011,Sander Lead,0,,10,,,Lead,1,,11,T,Tsching (Holger Steinbrink),4,Sander Lead    T
+Waldorf,Blofeld,Factory Presets 2012,A012,Bladerunner,0,,11,,,Poly,1,,12,T,Tsching (Holger Steinbrink),4,Bladerunner    T
+Waldorf,Blofeld,Factory Presets 2012,A013,BloStrings,0,,12,,,Pad,1,,13,T,Tsching (Holger Steinbrink),5,BloStrings     T
+Waldorf,Blofeld,Factory Presets 2012,A014,ArpDelayLFO?,0,,13,,,Arp,1,,14,SCD,Something Completely Different (Boele Gerkes),1,ArpDelayLFO? SCD
+Waldorf,Blofeld,Factory Presets 2012,A015,Dahlbeck Bass,0,,14,,,Bass,1,,15,T,Tsching (Holger Steinbrink),2,Dahlbeck Bass  T
+Waldorf,Blofeld,Factory Presets 2012,A016,CopiedByLargo,0,,15,,,Atmo,1,,16,T,Tsching (Holger Steinbrink),2,CopiedByLargo  T
+Waldorf,Blofeld,Factory Presets 2012,A017,JustResonance,0,,16,,,Arp,1,,17,SCD,Something Completely Different (Boele Gerkes),0,JustResonanceSCD
+Waldorf,Blofeld,Factory Presets 2012,A018,IntensiveCare,0,,17,,,Poly,1,,18,SCD,Something Completely Different (Boele Gerkes),0,IntensiveCareSCD
+Waldorf,Blofeld,Factory Presets 2012,A019,Planet Ice,0,,18,,,Pad,1,,19,T,Tsching (Holger Steinbrink),5,Planet Ice     T
+Waldorf,Blofeld,Factory Presets 2012,A020,Pad Brown,0,,19,,,Pad,1,,20,T,Tsching (Holger Steinbrink),6,Pad Brown      T
+Waldorf,Blofeld,Factory Presets 2012,A021,Rasenflaeche,0,,20,,,Pad,1,,21,T,Tsching (Holger Steinbrink),3,Rasenflaeche   T
+Waldorf,Blofeld,Factory Presets 2012,A022,PWM<->SWM,0,,21,,,Pad,1,,22,SCD,Something Completely Different (Boele Gerkes),4,PWM<->SWM    SCD
+Waldorf,Blofeld,Factory Presets 2012,A023,SuperPulse,0,,22,,,Pad,1,,23,SCD,Something Completely Different (Boele Gerkes),3,SuperPulse   SCD
+Waldorf,Blofeld,Factory Presets 2012,A024,Eyes Wide Open,0,,23,,,Pad,1,,24,T,Tsching (Holger Steinbrink),1,Eyes Wide Open T
+Waldorf,Blofeld,Factory Presets 2012,A025,BriteWhitePad,0,,24,,,Pad,1,,25,T,Tsching (Holger Steinbrink),2,BriteWhitePad  T
+Waldorf,Blofeld,Factory Presets 2012,A026,Chronos,0,,25,,,Pad,1,,26,T,Tsching (Holger Steinbrink),8,Chronos        T
+Waldorf,Blofeld,Factory Presets 2012,A027,Ambientity,0,,26,,,Pad,1,,27,T,Tsching (Holger Steinbrink),5,Ambientity     T
+Waldorf,Blofeld,Factory Presets 2012,A028,Lothlorien,0,,27,,,Pad,1,,28,T,Tsching (Holger Steinbrink),5,Lothlorien     T
+Waldorf,Blofeld,Factory Presets 2012,A029,Boelissimo,0,,28,,,Pad,1,,29,T,Tsching (Holger Steinbrink),5,Boelissimo     T
+Waldorf,Blofeld,Factory Presets 2012,A030,Inglorious Pad,0,,29,,,Pad,1,,30,T,Tsching (Holger Steinbrink),1,Inglorious Pad T
+Waldorf,Blofeld,Factory Presets 2012,A031,PitchShifter,0,,30,,,Pad,1,,31,SCD,Something Completely Different (Boele Gerkes),1,PitchShifter SCD
+Waldorf,Blofeld,Factory Presets 2012,A032,X-File Pad,0,,31,,,Pad,1,,32,T,Tsching (Holger Steinbrink),5,X-File Pad     T
+Waldorf,Blofeld,Factory Presets 2012,A033,AmbienTable,0,,32,,,Pad,1,,33,T,Tsching (Holger Steinbrink),4,AmbienTable    T
+Waldorf,Blofeld,Factory Presets 2012,A034,ShortWave,0,,33,,,Pad,1,,34,T,Tsching (Holger Steinbrink),6,ShortWave      T
+Waldorf,Blofeld,Factory Presets 2012,A035,CS100,0,,34,,,Pad,1,,35,T,Tsching (Holger Steinbrink),9,CS100          T
+Waldorf,Blofeld,Factory Presets 2012,A036,Slightly Pad,0,,35,,,Pad,1,,36,T,Tsching (Holger Steinbrink),3,Slightly Pad   T
+Waldorf,Blofeld,Factory Presets 2012,A037,FlyingDutchman,0,,36,,,Pad,1,,37,T,Tsching (Holger Steinbrink),1,FlyingDutchman T
+Waldorf,Blofeld,Factory Presets 2012,A038,BoelesBrass,0,,37,,,Pad,1,,38,SCD,Something Completely Different (Boele Gerkes),1,BoelesBrass SCD
+Waldorf,Blofeld,Factory Presets 2012,A039,Phase 5,0,,38,,,Pad,1,,39,T,Tsching (Holger Steinbrink),8,Phase 5        T
+Waldorf,Blofeld,Factory Presets 2012,A040,RingCon,0,,39,,,Pad,1,,40,T,Tsching (Holger Steinbrink),8,RingCon        T
+Waldorf,Blofeld,Factory Presets 2012,A041,LeadING,0,,40,,,Lead,1,,41,T,Tsching (Holger Steinbrink),8,LeadING        T
+Waldorf,Blofeld,Factory Presets 2012,A042,Chord Hose,0,,41,,,Lead,1,,42,T,Tsching (Holger Steinbrink),5,Chord Hose     T
+Waldorf,Blofeld,Factory Presets 2012,A043,Chordalis,0,,42,,,Lead,1,,43,T,Tsching (Holger Steinbrink),6,Chordalis      T
+Waldorf,Blofeld,Factory Presets 2012,A044,Deadmau5 Chord,0,,43,,,Lead,1,,44,T,Tsching (Holger Steinbrink),1,Deadmau5 Chord T
+Waldorf,Blofeld,Factory Presets 2012,A045,JigSaw,0,,44,,,Lead,1,,45,T,Tsching (Holger Steinbrink),9,JigSaw         T
+Waldorf,Blofeld,Factory Presets 2012,A046,Fat Pig,0,,45,,,Lead,1,,46,T,Tsching (Holger Steinbrink),8,Fat Pig        T
+Waldorf,Blofeld,Factory Presets 2012,A047,Leadgut,0,,46,,,Lead,1,,47,T,Tsching (Holger Steinbrink),8,Leadgut        T
+Waldorf,Blofeld,Factory Presets 2012,A048,Crying Lead,0,,47,,,Lead,1,,48,T,Tsching (Holger Steinbrink),4,Crying Lead    T
+Waldorf,Blofeld,Factory Presets 2012,A049,AggLead,0,,48,,,Lead,1,,49,T,Tsching (Holger Steinbrink),8,AggLead        T
+Waldorf,Blofeld,Factory Presets 2012,A050,Overdrive,0,,49,,,Lead,1,,50,T,Tsching (Holger Steinbrink),6,Overdrive      T
+Waldorf,Blofeld,Factory Presets 2012,A051,Lead Keen,0,,50,,,Lead,1,,51,T,Tsching (Holger Steinbrink),6,Lead Keen      T
+Waldorf,Blofeld,Factory Presets 2012,A052,Van Doorn,0,,51,,,Lead,1,,52,T,Tsching (Holger Steinbrink),6,Van Doorn      T
+Waldorf,Blofeld,Factory Presets 2012,A053,Gummi Lead,0,,52,,,Lead,1,,53,T,Tsching (Holger Steinbrink),5,Gummi Lead     T
+Waldorf,Blofeld,Factory Presets 2012,A054,Static Leads,0,,53,,,Lead,1,,54,T,Tsching (Holger Steinbrink),3,Static Leads   T
+Waldorf,Blofeld,Factory Presets 2012,A055,Sync By FM,0,,54,,,Lead,1,,55,SCD,Something Completely Different (Boele Gerkes),3,Sync By FM   SCD
+Waldorf,Blofeld,Factory Presets 2012,A056,Enganged,0,,55,,,Lead,1,,56,T,Tsching (Holger Steinbrink),7,Enganged       T
+Waldorf,Blofeld,Factory Presets 2012,A057,Hummer,0,,56,,,Bass,1,,57,T,Tsching (Holger Steinbrink),9,Hummer         T
+Waldorf,Blofeld,Factory Presets 2012,A058,Old School,0,,57,,,Lead,1,,58,T,Tsching (Holger Steinbrink),5,Old School     T
+Waldorf,Blofeld,Factory Presets 2012,A059,Handjob,0,,58,,,Lead,1,,59,T,Tsching (Holger Steinbrink),8,Handjob        T
+Waldorf,Blofeld,Factory Presets 2012,A060,Slipping Lead,0,,59,,,Lead,1,,60,T,Tsching (Holger Steinbrink),2,Slipping Lead  T
+Waldorf,Blofeld,Factory Presets 2012,A061,Glidelis,0,,60,,,Mono,1,,61,SCD,Something Completely Different (Boele Gerkes),5,Glidelis     SCD
+Waldorf,Blofeld,Factory Presets 2012,A062,Rave On,0,,61,,,Lead,1,,62,T,Tsching (Holger Steinbrink),8,Rave On        T
+Waldorf,Blofeld,Factory Presets 2012,A063,SynChaos,0,,62,,,Lead,1,,63,T,Tsching (Holger Steinbrink),7,SynChaos       T
+Waldorf,Blofeld,Factory Presets 2012,A064,Airy Lead,0,,63,,,Lead,1,,64,T,Tsching (Holger Steinbrink),6,Airy Lead      T
+Waldorf,Blofeld,Factory Presets 2012,A065,Airy Lead 2,0,,64,,,Lead,1,,65,T,Tsching (Holger Steinbrink),4,Airy Lead 2    T
+Waldorf,Blofeld,Factory Presets 2012,A066,Tiestofeld,0,,65,,,Arp,1,,66,SCD,Something Completely Different (Boele Gerkes),3,Tiestofeld   SCD
+Waldorf,Blofeld,Factory Presets 2012,A067,ARPollinaris,0,,66,,,Arp,1,,67,T,Tsching (Holger Steinbrink),3,ARPollinaris   T
+Waldorf,Blofeld,Factory Presets 2012,A068,Driving Line,0,,67,,,Arp,1,,68,T,Tsching (Holger Steinbrink),3,Driving Line   T
+Waldorf,Blofeld,Factory Presets 2012,A069,TD 2010,0,,68,,,Arp,1,,69,SCD,Something Completely Different (Boele Gerkes),6,TD 2010      SCD
+Waldorf,Blofeld,Factory Presets 2012,A070,Sawmodulation,0,,69,,,Arp,1,,70,SCD,Something Completely Different (Boele Gerkes),0,SawmodulationSCD
+Waldorf,Blofeld,Factory Presets 2012,A071,Bram A.,0,,70,,,Arp,1,,71,SCD,Something Completely Different (Boele Gerkes),6,Bram A.      SCD
+Waldorf,Blofeld,Factory Presets 2012,A072,Laidback,0,,71,,,Arp,1,,72,SCD,Something Completely Different (Boele Gerkes),5,Laidback     SCD
+Waldorf,Blofeld,Factory Presets 2012,A073,Reseq,0,,72,,,Arp,1,,73,SCD,Something Completely Different (Boele Gerkes),8,Reseq        SCD
+Waldorf,Blofeld,Factory Presets 2012,A074,S&H Drive,0,,73,,,Arp,1,,74,SCD,Something Completely Different (Boele Gerkes),4,S&H Drive    SCD
+Waldorf,Blofeld,Factory Presets 2012,A075,Mouth Arp,0,,74,,,Arp,1,,75,SCD,Something Completely Different (Boele Gerkes),4,Mouth Arp    SCD
+Waldorf,Blofeld,Factory Presets 2012,A076,ADHD,0,,75,,,Arp,1,,76,SCD,Something Completely Different (Boele Gerkes),9,ADHD         SCD
+Waldorf,Blofeld,Factory Presets 2012,A077,mARPledust,0,,76,,,Arp,1,,77,T,Tsching (Holger Steinbrink),5,mARPledust     T
+Waldorf,Blofeld,Factory Presets 2012,A078,305 Bassline,0,,77,,,Arp,1,,78,T,Tsching (Holger Steinbrink),3,305 Bassline   T
+Waldorf,Blofeld,Factory Presets 2012,A079,WArpeggiator,0,,78,,,Arp,1,,79,T,Tsching (Holger Steinbrink),3,WArpeggiator   T
+Waldorf,Blofeld,Factory Presets 2012,A080,ARPower,0,,79,,,Arp,1,,80,T,Tsching (Holger Steinbrink),8,ARPower        T
+Waldorf,Blofeld,Factory Presets 2012,A081,Drumloop,0,,80,,,Arp,1,,81,T,Tsching (Holger Steinbrink),7,Drumloop       T
+Waldorf,Blofeld,Factory Presets 2012,A082,OnTheRun,0,,81,,,Arp,1,,82,T,Tsching (Holger Steinbrink),7,OnTheRun       T
+Waldorf,Blofeld,Factory Presets 2012,A083,LFO Delay 2,0,,82,,,Arp,1,,83,SCD,Something Completely Different (Boele Gerkes),2,LFO Delay 2  SCD
+Waldorf,Blofeld,Factory Presets 2012,A084,LFOWahDelay,0,,83,,,Arp,1,,84,SCD,Something Completely Different (Boele Gerkes),2,LFOWahDelay  SCD
+Waldorf,Blofeld,Factory Presets 2012,A085,The End,0,,84,,,Arp,1,,85,SCD,Something Completely Different (Boele Gerkes),6,The End      SCD
+Waldorf,Blofeld,Factory Presets 2012,A086,Deadmau5 Bass,0,,85,,,Bass,1,,86,T,Tsching (Holger Steinbrink),2,Deadmau5 Bass  T
+Waldorf,Blofeld,Factory Presets 2012,A087,Pulse Drive,0,,86,,,Bass,1,,87,T,Tsching (Holger Steinbrink),4,Pulse Drive    T
+Waldorf,Blofeld,Factory Presets 2012,A088,FM Bass,0,,87,,,Bass,1,,88,T,Tsching (Holger Steinbrink),8,FM Bass        T
+Waldorf,Blofeld,Factory Presets 2012,A089,Oizo Bass,0,,88,,,Bass,1,,89,T,Tsching (Holger Steinbrink),6,Oizo Bass      T
+Waldorf,Blofeld,Factory Presets 2012,A090,Pickup Bass,0,,89,,,Bass,1,,90,T,Tsching (Holger Steinbrink),4,Pickup Bass    T
+Waldorf,Blofeld,Factory Presets 2012,A091,BassTrap,0,,90,,,Bass,1,,91,SCD,Something Completely Different (Boele Gerkes),5,BassTrap     SCD
+Waldorf,Blofeld,Factory Presets 2012,A092,Wide Bass,0,,91,,,Bass,1,,92,T,Tsching (Holger Steinbrink),6,Wide Bass      T
+Waldorf,Blofeld,Factory Presets 2012,A093,Dirty Bass,0,,92,,,Bass,1,,93,T,Tsching (Holger Steinbrink),5,Dirty Bass     T
+Waldorf,Blofeld,Factory Presets 2012,A094,Rev Pulse Bass,0,,93,,,Bass,1,,94,T,Tsching (Holger Steinbrink),1,Rev Pulse Bass T
+Waldorf,Blofeld,Factory Presets 2012,A095,C64 Bass,0,,94,,,Bass,1,,95,T,Tsching (Holger Steinbrink),7,C64 Bass       T
+Waldorf,Blofeld,Factory Presets 2012,A096,Tranceptor,0,,95,,,Seq,1,,96,T,Tsching (Holger Steinbrink),5,Tranceptor     T
+Waldorf,Blofeld,Factory Presets 2012,A097,Short Trance,0,,96,,,Seq,1,,97,T,Tsching (Holger Steinbrink),3,Short Trance   T
+Waldorf,Blofeld,Factory Presets 2012,A098,Sauron Pad,0,,97,,,Pad,1,,98,T,Tsching (Holger Steinbrink),5,Sauron Pad     T
+Waldorf,Blofeld,Factory Presets 2012,A099,Ghost On Mars,0,,98,,,Atmo,1,,99,T,Tsching (Holger Steinbrink),2,Ghost On Mars  T
+Waldorf,Blofeld,Factory Presets 2012,A100,ImpulseResp.,0,,99,,,Atmo,1,,100,SCD,Something Completely Different (Boele Gerkes),1,ImpulseResp. SCD
+Waldorf,Blofeld,Factory Presets 2012,A101,CombDeBoele,0,,100,,,Atmo,1,,101,SCD,Something Completely Different (Boele Gerkes),2,CombDeBoele  SCD
+Waldorf,Blofeld,Factory Presets 2012,A102,SpaceDigde,0,,101,,,Atmo,1,,102,T,Tsching (Holger Steinbrink),5,SpaceDigde     T
+Waldorf,Blofeld,Factory Presets 2012,A103,The 1980s,0,,102,,,Poly,1,,103,T,Tsching (Holger Steinbrink),6,The 1980s      T
+Waldorf,Blofeld,Factory Presets 2012,A104,Pulse3+,0,,103,,,Poly,1,,104,SCD,Something Completely Different (Boele Gerkes),6,Pulse3+      SCD
+Waldorf,Blofeld,Factory Presets 2012,A105,Dig. Modular,0,,104,,,Poly,1,,105,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
+Waldorf,Blofeld,Factory Presets 2012,A106,VA*FM,0,,105,,,Keys,1,,106,SCD,Something Completely Different (Boele Gerkes),8,VA*FM        SCD
+Waldorf,Blofeld,Factory Presets 2012,A107,PPGenious,0,,106,,,Keys,1,,107,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
+Waldorf,Blofeld,Factory Presets 2012,A108,TriangleDance,0,,107,,,Keys,1,,108,SCD,Something Completely Different (Boele Gerkes),0,TriangleDanceSCD
+Waldorf,Blofeld,Factory Presets 2012,A109,Wave Voices,0,,108,,,Keys,1,,109,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
+Waldorf,Blofeld,Factory Presets 2012,A110,Piano E,0,,109,,,Keys,1,,110,SCD,Something Completely Different (Boele Gerkes),6,Piano E      SCD
+Waldorf,Blofeld,Factory Presets 2012,A111,SimpleSeq,0,,110,,,Keys,1,,111,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
+Waldorf,Blofeld,Factory Presets 2012,A112,Chopshop3.0,0,,111,,,Keys,1,,112,SCD,Something Completely Different (Boele Gerkes),2,Chopshop3.0  SCD
+Waldorf,Blofeld,Factory Presets 2012,A113,OrganClav,0,,112,,,Keys,1,,113,T,Tsching (Holger Steinbrink),6,OrganClav      T
+Waldorf,Blofeld,Factory Presets 2012,A114,Wit Licht,0,,113,,,Keys,1,,114,SCD,Something Completely Different (Boele Gerkes),4,Wit Licht    SCD
+Waldorf,Blofeld,Factory Presets 2012,A115,Morphorgan,0,,114,,,Keys,1,,115,T,Tsching (Holger Steinbrink),5,Morphorgan     T
+Waldorf,Blofeld,Factory Presets 2012,A116,My Keys,0,,115,,,Poly,1,,116,SCD,Something Completely Different (Boele Gerkes),6,My Keys      SCD
+Waldorf,Blofeld,Factory Presets 2012,A117,Warning,0,,116,,,Keys,1,,117,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
+Waldorf,Blofeld,Factory Presets 2012,A118,InYourRoom,0,,117,,,Keys,1,,118,SCD,Something Completely Different (Boele Gerkes),3,InYourRoom   SCD
+Waldorf,Blofeld,Factory Presets 2012,A119,Bad Highpass,0,,118,,,Keys,1,,119,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
+Waldorf,Blofeld,Factory Presets 2012,A120,ChildOfMine,0,,119,,,Keys,1,,120,SCD,Something Completely Different (Boele Gerkes),2,ChildOfMine  SCD
+Waldorf,Blofeld,Factory Presets 2012,A121,2 Cats,0,,120,,,Keys,1,,121,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
+Waldorf,Blofeld,Factory Presets 2012,A122,PPG 2,0,,121,,,Poly,1,,122,SCD,Something Completely Different (Boele Gerkes),8,PPG 2        SCD
+Waldorf,Blofeld,Factory Presets 2012,A123,FlangerSaw,0,,122,,,Poly,1,,123,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
+Waldorf,Blofeld,Factory Presets 2012,A124,ChainSaw,0,,123,,,Keys,1,,124,SCD,Something Completely Different (Boele Gerkes),5,ChainSaw     SCD
+Waldorf,Blofeld,Factory Presets 2012,A125,BloAttack,0,,124,,,Keys,1,,125,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
+Waldorf,Blofeld,Factory Presets 2012,A126,Sines,0,,125,,,Poly,1,,126,SCD,Something Completely Different (Boele Gerkes),8,Sines        SCD
+Waldorf,Blofeld,Factory Presets 2012,A127,BloodLife,0,,126,,,Poly,1,,127,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
+Waldorf,Blofeld,Factory Presets 2012,A128,Delerium,0,,127,,,Atmo,1,,128,T,Tsching (Holger Steinbrink),7,Delerium       T
+Waldorf,Blofeld,Factory Presets 2012,B001,RisePad,1,,0,,,Pad,2,,1,RL,Unknown (RL),1,RisePad RL
+Waldorf,Blofeld,Factory Presets 2012,B002,AmbientNodes,1,,1,,,Keys,2,,2,RL,Unknown (RL),1,AmbientNodes RL
+Waldorf,Blofeld,Factory Presets 2012,B003,JunoStack,1,,2,,,Poly,2,,3,RL,Unknown (RL),1,JunoStack RL
+Waldorf,Blofeld,Factory Presets 2012,B004,LayeredBass,1,,3,,,Bass,2,,4,RL,Unknown (RL),1,LayeredBass RL
+Waldorf,Blofeld,Factory Presets 2012,B005,FirstContact,1,,4,,,Arp,2,,5,RL,Unknown (RL),1,FirstContact RL
+Waldorf,Blofeld,Factory Presets 2012,B006,ElectroKitty,1,,5,,,Lead,2,,6,RL,Unknown (RL),1,ElectroKitty RL
+Waldorf,Blofeld,Factory Presets 2012,B007,AnoDomini,1,,6,,,Pad,2,,7,RL,Unknown (RL),1,AnoDomini RL
+Waldorf,Blofeld,Factory Presets 2012,B008,ClubbyOrgan,1,,7,,,Bass,2,,8,RL,Unknown (RL),1,ClubbyOrgan RL
+Waldorf,Blofeld,Factory Presets 2012,B009,DanceChord95,1,,8,,,Lead,2,,9,RL,Unknown (RL),1,DanceChord95 RL
+Waldorf,Blofeld,Factory Presets 2012,B010,RioLargo,1,,9,,,Arp,2,,10,RL,Unknown (RL),1,RioLargo RL
+Waldorf,Blofeld,Factory Presets 2012,B011,FunkyDisco,1,,10,,,Bass,2,,11,RL,Unknown (RL),1,FunkyDisco RL
+Waldorf,Blofeld,Factory Presets 2012,B012,UtopianPad,1,,11,,,Pad,2,,12,RL,Unknown (RL),1,UtopianPad RL
+Waldorf,Blofeld,Factory Presets 2012,B013,HardTrancer,1,,12,,,Lead,2,,13,RL,Unknown (RL),1,HardTrancer RL
+Waldorf,Blofeld,Factory Presets 2012,B014,TechnoChords,1,,13,,,Lead,2,,14,RL,Unknown (RL),1,TechnoChords RL
+Waldorf,Blofeld,Factory Presets 2012,B015,SquareWaver,1,,14,,,Bass,2,,15,RL,Unknown (RL),1,SquareWaver RL
+Waldorf,Blofeld,Factory Presets 2012,B016,ArpBells,1,,15,,,Arp,2,,16,RL,Unknown (RL),1,ArpBells RL
+Waldorf,Blofeld,Factory Presets 2012,B017,FakeGuitar,1,,16,,,Keys,2,,17,RL,Unknown (RL),1,FakeGuitar RL
+Waldorf,Blofeld,Factory Presets 2012,B018,Trance2K,1,,17,,,Pad,2,,18,RL,Unknown (RL),1,Trance2K RL
+Waldorf,Blofeld,Factory Presets 2012,B019,Hacienda,1,,18,,,Lead,2,,19,RL,Unknown (RL),1,Hacienda RL
+Waldorf,Blofeld,Factory Presets 2012,B020,BloChoir,1,,19,,,Lead,2,,20,RL,Unknown (RL),1,BloChoir RL
+Waldorf,Blofeld,Factory Presets 2012,B021,BassNation,1,,20,,,Bass,2,,21,RL,Unknown (RL),1,BassNation RL
+Waldorf,Blofeld,Factory Presets 2012,B022,MellowKeys,1,,21,,,Keys,2,,22,RL,Unknown (RL),1,MellowKeys RL
+Waldorf,Blofeld,Factory Presets 2012,B023,TotalTrance,1,,22,,,Arp,2,,23,RL,Unknown (RL),1,TotalTrance RL
+Waldorf,Blofeld,Factory Presets 2012,B024,PianoMan,1,,23,,,Keys,2,,24,RL,Unknown (RL),1,PianoMan RL
+Waldorf,Blofeld,Factory Presets 2012,B025,FloorBass,1,,24,,,Bass,2,,25,RL,Unknown (RL),1,FloorBass RL
+Waldorf,Blofeld,Factory Presets 2012,B026,AnotherWorld,1,,25,,,Pad,2,,26,RL,Unknown (RL),1,AnotherWorld RL
+Waldorf,Blofeld,Factory Presets 2012,B027,ClockWork,1,,26,,,Arp,2,,27,RL,Unknown (RL),1,ClockWork RL
+Waldorf,Blofeld,Factory Presets 2012,B028,SuperMario,1,,27,,,Lead,2,,28,RL,Unknown (RL),1,SuperMario RL
+Waldorf,Blofeld,Factory Presets 2012,B029,ClubDelays,1,,28,,,Lead,2,,29,RL,Unknown (RL),1,ClubDelays RL
+Waldorf,Blofeld,Factory Presets 2012,B030,TronicLead,1,,29,,,Lead,2,,30,RL,Unknown (RL),1,TronicLead RL
+Waldorf,Blofeld,Factory Presets 2012,B031,FireWire,1,,30,,,Arp,2,,31,RL,Unknown (RL),1,FireWire RL
+Waldorf,Blofeld,Factory Presets 2012,B032,DirtyRamirez,1,,31,,,Bass,2,,32,RL,Unknown (RL),1,DirtyRamirez RL
+Waldorf,Blofeld,Factory Presets 2012,B033,MerlinsPad,1,,32,,,Pad,2,,33,RL,Unknown (RL),1,MerlinsPad RL
+Waldorf,Blofeld,Factory Presets 2012,B034,DreamSaw,1,,33,,,Lead,2,,34,RL,Unknown (RL),1,DreamSaw RL
+Waldorf,Blofeld,Factory Presets 2012,B035,CosmicGates,1,,34,,,Arp,2,,35,RL,Unknown (RL),1,CosmicGates RL
+Waldorf,Blofeld,Factory Presets 2012,B036,ElectroPulse,1,,35,,,Lead,2,,36,RL,Unknown (RL),1,ElectroPulse RL
+Waldorf,Blofeld,Factory Presets 2012,B037,SquelchBass,1,,36,,,Bass,2,,37,RL,Unknown (RL),1,SquelchBass RL
+Waldorf,Blofeld,Factory Presets 2012,B038,TechnoDawn,1,,37,,,Pad,2,,38,RL,Unknown (RL),1,TechnoDawn RL
+Waldorf,Blofeld,Factory Presets 2012,B039,Orchestral,1,,38,,,Lead,2,,39,RL,Unknown (RL),1,Orchestral RL
+Waldorf,Blofeld,Factory Presets 2012,B040,StarGazer,1,,39,,,Arp,2,,40,RL,Unknown (RL),1,StarGazer RL
+Waldorf,Blofeld,Factory Presets 2012,B041,PartyLikeAlex,1,,40,,,Bass,2,,41,RL,Unknown (RL),1,PartyLikeAlex RL
+Waldorf,Blofeld,Factory Presets 2012,B042,DanceMaster,1,,41,,,Lead,2,,42,RL,Unknown (RL),1,DanceMaster RL
+Waldorf,Blofeld,Factory Presets 2012,B043,HeavenlyVox,1,,42,,,Pad,2,,43,RL,Unknown (RL),1,HeavenlyVox RL
+Waldorf,Blofeld,Factory Presets 2012,B044,PartyLead,1,,43,,,Lead,2,,44,RL,Unknown (RL),1,PartyLead RL
+Waldorf,Blofeld,Factory Presets 2012,B045,HouseClassic,1,,44,,,Lead,2,,45,RL,Unknown (RL),1,HouseClassic RL
+Waldorf,Blofeld,Factory Presets 2012,B046,ClubUK,1,,45,,,Arp,2,,46,RL,Unknown (RL),1,ClubUK RL
+Waldorf,Blofeld,Factory Presets 2012,B047,TrashBass,1,,46,,,Bass,2,,47,RL,Unknown (RL),1,TrashBass RL
+Waldorf,Blofeld,Factory Presets 2012,B048,SadStrings,1,,47,,,Pad,2,,48,RL,Unknown (RL),1,SadStrings RL
+Waldorf,Blofeld,Factory Presets 2012,B049,RezzoPoly,1,,48,,,Poly,2,,49,RL,Unknown (RL),1,RezzoPoly RL
+Waldorf,Blofeld,Factory Presets 2012,B050,MrMiles,1,,49,,,Keys,2,,50,RL,Unknown (RL),1,MrMiles RL
+Waldorf,Blofeld,Factory Presets 2012,B051,SamplerVox,1,,50,,,Lead,2,,51,RL,Unknown (RL),1,SamplerVox RL
+Waldorf,Blofeld,Factory Presets 2012,B052,TunnelPad,1,,51,,,Pad,2,,52,RL,Unknown (RL),1,TunnelPad RL
+Waldorf,Blofeld,Factory Presets 2012,B053,ElectroSaw,1,,52,,,Bass,2,,53,RL,Unknown (RL),1,ElectroSaw RL
+Waldorf,Blofeld,Factory Presets 2012,B054,TranceMelody,1,,53,,,Arp,2,,54,RL,Unknown (RL),1,TranceMelody RL
+Waldorf,Blofeld,Factory Presets 2012,B055,DancePizz,1,,54,,,Lead,2,,55,RL,Unknown (RL),1,DancePizz RL
+Waldorf,Blofeld,Factory Presets 2012,B056,DigitalDance,1,,55,,,Lead,2,,56,RL,Unknown (RL),1,DigitalDance RL
+Waldorf,Blofeld,Factory Presets 2012,B057,SlowingDown,1,,56,,,Arp,2,,57,RL,Unknown (RL),1,SlowingDown RL
+Waldorf,Blofeld,Factory Presets 2012,B058,303AutoGlide,1,,57,,,Bass,2,,58,RL,Unknown (RL),1,303AutoGlide RL
+Waldorf,Blofeld,Factory Presets 2012,B059,PhazedOut,1,,58,,,Lead,2,,59,RL,Unknown (RL),1,PhazedOut RL
+Waldorf,Blofeld,Factory Presets 2012,B060,MiniLead,1,,59,,,Lead,2,,60,RL,Unknown (RL),1,MiniLead RL
+Waldorf,Blofeld,Factory Presets 2012,B061,Neptune,1,,60,,,Pad,2,,61,RL,Unknown (RL),1,Neptune RL
+Waldorf,Blofeld,Factory Presets 2012,B062,Back2Detroit,1,,61,,,Lead,2,,62,RL,Unknown (RL),1,Back2Detroit RL
+Waldorf,Blofeld,Factory Presets 2012,B063,RetroKeys,1,,62,,,Poly,2,,63,RL,Unknown (RL),1,RetroKeys RL
+Waldorf,Blofeld,Factory Presets 2012,B064,PowerCore,1,,63,,,Lead,2,,64,RL,Unknown (RL),1,PowerCore RL
+Waldorf,Blofeld,Factory Presets 2012,B065,Infected,1,,64,,,Seq,2,,65,RL,Unknown (RL),1,Infected RL
+Waldorf,Blofeld,Factory Presets 2012,B066,Pikey,1,,65,,,Keys,2,,66,RL,Unknown (RL),1,Pikey RL
+Waldorf,Blofeld,Factory Presets 2012,B067,TechnoFX,1,,66,,,FX,2,,67,RL,Unknown (RL),1,TechnoFX RL
+Waldorf,Blofeld,Factory Presets 2012,B068,AfterDark,1,,67,,,Lead,2,,68,RL,Unknown (RL),1,AfterDark RL
+Waldorf,Blofeld,Factory Presets 2012,B069,FlangePad,1,,68,,,Pad,2,,69,RL,Unknown (RL),1,FlangePad RL
+Waldorf,Blofeld,Factory Presets 2012,B070,EuroClassic,1,,69,,,Lead,2,,70,RL,Unknown (RL),1,EuroClassic RL
+Waldorf,Blofeld,Factory Presets 2012,B071,HouseMeUp,1,,70,,,Lead,2,,71,RL,Unknown (RL),1,HouseMeUp RL
+Waldorf,Blofeld,Factory Presets 2012,B072,Motivator,1,,71,,,Arp,2,,72,RL,Unknown (RL),1,Motivator RL
+Waldorf,Blofeld,Factory Presets 2012,B073,TuffBass,1,,72,,,Bass,2,,73,RL,Unknown (RL),1,TuffBass RL
+Waldorf,Blofeld,Factory Presets 2012,B074,DarkSweeper,1,,73,,,Lead,2,,74,RL,Unknown (RL),1,DarkSweeper RL
+Waldorf,Blofeld,Factory Presets 2012,B075,DeepBlue,1,,74,,,Pad,2,,75,RL,Unknown (RL),1,DeepBlue RL
+Waldorf,Blofeld,Factory Presets 2012,B076,NuElectro,1,,75,,,Lead,2,,76,RL,Unknown (RL),1,NuElectro RL
+Waldorf,Blofeld,Factory Presets 2012,B077,NiteCrawler,1,,76,,,Keys,2,,77,RL,Unknown (RL),1,NiteCrawler RL
+Waldorf,Blofeld,Factory Presets 2012,B078,Time2Groove,1,,77,,,Arp,2,,78,RL,Unknown (RL),1,Time2Groove RL
+Waldorf,Blofeld,Factory Presets 2012,B079,Planetarium,1,,78,,,Pad,2,,79,RL,Unknown (RL),1,Planetarium RL
+Waldorf,Blofeld,Factory Presets 2012,B080,DiscoBass,1,,79,,,Bass,2,,80,RL,Unknown (RL),1,DiscoBass RL
+Waldorf,Blofeld,Factory Presets 2012,B081,NoseBleeder,1,,80,,,Arp,2,,81,RL,Unknown (RL),1,NoseBleeder RL
+Waldorf,Blofeld,Factory Presets 2012,B082,OldSkool,1,,81,,,Lead,2,,82,RL,Unknown (RL),1,OldSkool RL
+Waldorf,Blofeld,Factory Presets 2012,B083,Slither,1,,82,,,Lead,2,,83,RL,Unknown (RL),1,Slither RL
+Waldorf,Blofeld,Factory Presets 2012,B084,SuperSquare,1,,83,,,Lead,2,,84,RL,Unknown (RL),1,SuperSquare RL
+Waldorf,Blofeld,Factory Presets 2012,B085,RemixKeys,1,,84,,,Lead,2,,85,RL,Unknown (RL),1,RemixKeys RL
+Waldorf,Blofeld,Factory Presets 2012,B086,DangerZone,1,,85,,,Lead,2,,86,RL,Unknown (RL),1,DangerZone RL
+Waldorf,Blofeld,Factory Presets 2012,B087,SnapAttack,1,,86,,,Bass,2,,87,RL,Unknown (RL),1,SnapAttack RL
+Waldorf,Blofeld,Factory Presets 2012,B088,Pitch&Slide,1,,87,,,Lead,2,,88,RL,Unknown (RL),1,Pitch&Slide RL
+Waldorf,Blofeld,Factory Presets 2012,B089,LiquidSaws,1,,88,,,Lead,2,,89,RL,Unknown (RL),1,LiquidSaws RL
+Waldorf,Blofeld,Factory Presets 2012,B090,Icelandic,1,,89,,,Pad,2,,90,RL,Unknown (RL),1,Icelandic RL
+Waldorf,Blofeld,Factory Presets 2012,B091,Avatar,1,,90,,,Pad,2,,91,RL,Unknown (RL),1,Avatar RL
+Waldorf,Blofeld,Factory Presets 2012,B092,Seduction,1,,91,,,Bass,2,,92,RL,Unknown (RL),1,Seduction RL
+Waldorf,Blofeld,Factory Presets 2012,B093,FollowMe,1,,92,,,Arp,2,,93,RL,Unknown (RL),1,FollowMe RL
+Waldorf,Blofeld,Factory Presets 2012,B094,DutchLead,1,,93,,,Lead,2,,94,RL,Unknown (RL),1,DutchLead RL
+Waldorf,Blofeld,Factory Presets 2012,B095,ElectricPiano,1,,94,,,Keys,2,,95,RL,Unknown (RL),1,ElectricPiano RL
+Waldorf,Blofeld,Factory Presets 2012,B096,WetElectro,1,,95,,,Bass,2,,96,RL,Unknown (RL),1,WetElectro RL
+Waldorf,Blofeld,Factory Presets 2012,B097,Airwave,1,,96,,,Pad,2,,97,RL,Unknown (RL),1,Airwave RL
+Waldorf,Blofeld,Factory Presets 2012,B098,RaveGenerator,1,,97,,,Lead,2,,98,RL,Unknown (RL),1,RaveGenerator RL
+Waldorf,Blofeld,Factory Presets 2012,B099,Amnesia,1,,98,,,Lead,2,,99,RL,Unknown (RL),1,Amnesia RL
+Waldorf,Blofeld,Factory Presets 2012,B100,PlayedLive,1,,99,,,Keys,2,,100,RL,Unknown (RL),1,PlayedLive RL
+Waldorf,Blofeld,Factory Presets 2012,B101,AcidHouse,1,,100,,,Bass,2,,101,RL,Unknown (RL),1,AcidHouse RL
+Waldorf,Blofeld,Factory Presets 2012,B102,TechnoBoy,1,,101,,,Lead,2,,102,RL,Unknown (RL),1,TechnoBoy RL
+Waldorf,Blofeld,Factory Presets 2012,B103,ClubRiffer,1,,102,,,Keys,2,,103,RL,Unknown (RL),1,ClubRiffer RL
+Waldorf,Blofeld,Factory Presets 2012,B104,TechnoBells,1,,103,,,Lead,2,,104,RL,Unknown (RL),1,TechnoBells RL
+Waldorf,Blofeld,Factory Presets 2012,B105,Evolution,1,,104,,,Lead,2,,105,RL,Unknown (RL),2,Evolution  RL
+Waldorf,Blofeld,Factory Presets 2012,B106,DelMar,1,,105,,,Pad,2,,106,RL,Unknown (RL),1,DelMar RL
+Waldorf,Blofeld,Factory Presets 2012,B107,HardEdge,1,,106,,,Arp,2,,107,RL,Unknown (RL),1,HardEdge RL
+Waldorf,Blofeld,Factory Presets 2012,B108,FatPulse,1,,107,,,Bass,2,,108,RL,Unknown (RL),1,FatPulse RL
+Waldorf,Blofeld,Factory Presets 2012,B109,KnockDelays,1,,108,,,Bass,2,,109,RL,Unknown (RL),1,KnockDelays RL
+Waldorf,Blofeld,Factory Presets 2012,B110,Siberia,1,,109,,,Pad,2,,110,RL,Unknown (RL),1,Siberia RL
+Waldorf,Blofeld,Factory Presets 2012,B111,TechnoEric,1,,110,,,Bass,2,,111,RL,Unknown (RL),1,TechnoEric RL
+Waldorf,Blofeld,Factory Presets 2012,B112,DanceClassic,1,,111,,,Keys,2,,112,RL,Unknown (RL),1,DanceClassic RL
+Waldorf,Blofeld,Factory Presets 2012,B113,OffShore44,1,,112,,,Arp,2,,113,RL,Unknown (RL),1,OffShore44 RL
+Waldorf,Blofeld,Factory Presets 2012,B114,Parisien,1,,113,,,Pad,2,,114,RL,Unknown (RL),1,Parisien RL
+Waldorf,Blofeld,Factory Presets 2012,B115,DeepHouse,1,,114,,,Bass,2,,115,RL,Unknown (RL),1,DeepHouse RL
+Waldorf,Blofeld,Factory Presets 2012,B116,MonstaBass,1,,115,,,Bass,2,,116,RL,Unknown (RL),1,MonstaBass RL
+Waldorf,Blofeld,Factory Presets 2012,B117,Ambience,1,,116,,,Pad,2,,117,RL,Unknown (RL),1,Ambience RL
+Waldorf,Blofeld,Factory Presets 2012,B118,XTBass,1,,117,,,Bass,2,,118,RL,Unknown (RL),1,XTBass RL
+Waldorf,Blofeld,Factory Presets 2012,B119,ModularFX,1,,118,,,FX,2,,119,RL,Unknown (RL),1,ModularFX RL
+Waldorf,Blofeld,Factory Presets 2012,B120,Organesque,1,,119,,,Keys,2,,120,RL,Unknown (RL),1,Organesque RL
+Waldorf,Blofeld,Factory Presets 2012,B121,PearlDrops,1,,120,,,Poly,2,,121,RL,Unknown (RL),1,PearlDrops RL
+Waldorf,Blofeld,Factory Presets 2012,B122,BattleStar,1,,121,,,Poly,2,,122,RL,Unknown (RL),1,BattleStar RL
+Waldorf,Blofeld,Factory Presets 2012,B123,AlienBass,1,,122,,,Bass,2,,123,RL,Unknown (RL),1,AlienBass RL
+Waldorf,Blofeld,Factory Presets 2012,B124,SuperWaves,1,,123,,,Lead,2,,124,RL,Unknown (RL),1,SuperWaves RL
+Waldorf,Blofeld,Factory Presets 2012,B125,Unchartered,1,,124,,,Pad,2,,125,RL,Unknown (RL),1,Unchartered RL
+Waldorf,Blofeld,Factory Presets 2012,B126,PlanetZod,1,,125,,,Pad,2,,126,RL,Unknown (RL),1,PlanetZod RL
+Waldorf,Blofeld,Factory Presets 2012,B127,Elevation,1,,126,,,Lead,2,,127,RL,Unknown (RL),1,Elevation RL
+Waldorf,Blofeld,Factory Presets 2012,B128,BassTrap,1,,127,,,Bass,2,,128,RL,Unknown (RL),1,BassTrap RL
+Waldorf,Blofeld,Factory Presets 2012,C001,The 1980s,2,,0,,,Poly,3,,1,T,Tsching (Holger Steinbrink),6,The 1980s      T
+Waldorf,Blofeld,Factory Presets 2012,C002,S1l4g3,2,,1,,,Lead,3,,2,CA,Unknown (CA),8,S1l4g3        CA
+Waldorf,Blofeld,Factory Presets 2012,C003,Dig. Modular,2,,2,,,Poly,3,,3,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
+Waldorf,Blofeld,Factory Presets 2012,C004,Shy T3ddy,2,,3,,,Keys,3,,4,CA,Unknown (CA),5,Shy T3ddy     CA
+Waldorf,Blofeld,Factory Presets 2012,C005,PPGenious,2,,4,,,Keys,3,,5,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
+Waldorf,Blofeld,Factory Presets 2012,C006,Torreblanca,2,,5,,,Lead,3,,6,CA,Unknown (CA),3,Torreblanca   CA
+Waldorf,Blofeld,Factory Presets 2012,C007,Wave Voices,2,,6,,,Keys,3,,7,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
+Waldorf,Blofeld,Factory Presets 2012,C008,Channel 1337,2,,7,,,Pad,3,,8,CA,Unknown (CA),2,Channel 1337  CA
+Waldorf,Blofeld,Factory Presets 2012,C009,SimpleSeq,2,,8,,,Keys,3,,9,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
+Waldorf,Blofeld,Factory Presets 2012,C010,404 Found,2,,9,,,Init,3,,10,CA,Unknown (CA),2,404 Found  CA
+Waldorf,Blofeld,Factory Presets 2012,C011,OrganClav,2,,10,,,Keys,3,,11,T,Tsching (Holger Steinbrink),6,OrganClav      T
+Waldorf,Blofeld,Factory Presets 2012,C012,Encinarejo,2,,11,,,Lead,3,,12,CA,Unknown (CA),4,Encinarejo    CA
+Waldorf,Blofeld,Factory Presets 2012,C013,Morphorgan,2,,12,,,Keys,3,,13,T,Tsching (Holger Steinbrink),5,Morphorgan     T
+Waldorf,Blofeld,Factory Presets 2012,C014,Vic 20,2,,13,,,Lead,3,,14,CA,Unknown (CA),8,Vic 20        CA
+Waldorf,Blofeld,Factory Presets 2012,C015,Warning,2,,14,,,Keys,3,,15,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
+Waldorf,Blofeld,Factory Presets 2012,C016,Jaws    CitCA y,2,,15,,,Init,3,,16,,,,
+Waldorf,Blofeld,Factory Presets 2012,C017,Bad Highpass,2,,16,,,Keys,3,,17,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
+Waldorf,Blofeld,Factory Presets 2012,C018,Bottle,2,,17,,,Lead,3,,18,CA,Unknown (CA),8,Bottle        CA
+Waldorf,Blofeld,Factory Presets 2012,C019,2 Cats,2,,18,,,Keys,3,,19,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
+Waldorf,Blofeld,Factory Presets 2012,C020,Sa Calobra,2,,19,,,Atmo,3,,20,CA,Unknown (CA),4,Sa Calobra    CA
+Waldorf,Blofeld,Factory Presets 2012,C021,FlangerSaw,2,,20,,,Poly,3,,21,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
+Waldorf,Blofeld,Factory Presets 2012,C022,Graja,2,,21,,,Bass,3,,22,CA,Unknown (CA),9,Graja         CA
+Waldorf,Blofeld,Factory Presets 2012,C023,BloAttack,2,,22,,,Keys,3,,23,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
+Waldorf,Blofeld,Factory Presets 2012,C024,Table FM,2,,23,,,Poly,3,,24,SCD,Something Completely Different (Boele Gerkes),5,Table FM     SCD
+Waldorf,Blofeld,Factory Presets 2012,C025,Glockenklang,2,,24,,,Keys,3,,25,T,Tsching (Holger Steinbrink),3,Glockenklang   T
+Waldorf,Blofeld,Factory Presets 2012,C026,Flowinx,2,,25,,,FX,3,,26,CA,Unknown (CA),7,Flowinx       CA
+Waldorf,Blofeld,Factory Presets 2012,C027,BloodLife,2,,26,,,Poly,3,,27,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
+Waldorf,Blofeld,Factory Presets 2012,C028,2Osc Sync,2,,27,,,Poly,3,,28,SCD,Something Completely Different (Boele Gerkes),4,2Osc Sync    SCD
+Waldorf,Blofeld,Factory Presets 2012,C029,Latmo,2,,28,,,Atmo,3,,29,T,Tsching (Holger Steinbrink),9,Latmo          T
+Waldorf,Blofeld,Factory Presets 2012,C030,Halloween,2,,29,,,Atmo,3,,30,T,Tsching (Holger Steinbrink),6,Halloween      T
+Waldorf,Blofeld,Factory Presets 2012,C031,Down to 5kHz,2,,30,,,Atmo,3,,31,T,Tsching (Holger Steinbrink),3,Down to 5kHz   T
+Waldorf,Blofeld,Factory Presets 2012,C032,Filter FM,2,,31,,,Atmo,3,,32,SCD,Something Completely Different (Boele Gerkes),4,Filter FM    SCD
+Waldorf,Blofeld,Factory Presets 2012,C033,Comb-at,2,,32,,,FX,3,,33,CA,Unknown (CA),7,Comb-at       CA
+Waldorf,Blofeld,Factory Presets 2012,C034,Borg Cubus,2,,33,,,Atmo,3,,34,T,Tsching (Holger Steinbrink),5,Borg Cubus     T
+Waldorf,Blofeld,Factory Presets 2012,C035,Relax3,2,,34,,,Atmo,3,,35,SCD,Something Completely Different (Boele Gerkes),7,Relax3       SCD
+Waldorf,Blofeld,Factory Presets 2012,C036,Mahlstrom,2,,35,,,Atmo,3,,36,T,Tsching (Holger Steinbrink),6,Mahlstrom      T
+Waldorf,Blofeld,Factory Presets 2012,C037,AM on Sinus,2,,36,,,Atmo,3,,37,SCD,Something Completely Different (Boele Gerkes),2,AM on Sinus  SCD
+Waldorf,Blofeld,Factory Presets 2012,C038,19/20,2,,37,,,FX,3,,38,T,Tsching (Holger Steinbrink),9,19/20          T
+Waldorf,Blofeld,Factory Presets 2012,C039,What?,2,,38,,,FX,3,,39,SCD,Something Completely Different (Boele Gerkes),8,What?        SCD
+Waldorf,Blofeld,Factory Presets 2012,C040,StefanIsMad,2,,39,,,FX,3,,40,SCD,Something Completely Different (Boele Gerkes),2,StefanIsMad  SCD
+Waldorf,Blofeld,Factory Presets 2012,C041,ReverseWhoosch,2,,40,,,FX,3,,41,T,Tsching (Holger Steinbrink),1,ReverseWhoosch T
+Waldorf,Blofeld,Factory Presets 2012,C042,50s Pad,2,,41,,,Pad,3,,42,T,Tsching (Holger Steinbrink),8,50s Pad        T
+Waldorf,Blofeld,Factory Presets 2012,C043,Deepspace 9,2,,42,,,Pad,3,,43,ST,Unknown (ST),3,Deepspace 9   ST
+Waldorf,Blofeld,Factory Presets 2012,C044,Chorus,2,,43,,,Pad,3,,44,WMF,Wolfram Franke,7,Chorus       WMF
+Waldorf,Blofeld,Factory Presets 2012,C045,HP PPG,2,,44,,,Pad,3,,45,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
+Waldorf,Blofeld,Factory Presets 2012,C046,"Hmm, lecker",2,,45,,,Pad,3,,46,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
+Waldorf,Blofeld,Factory Presets 2012,C047,Angel Pad,2,,46,,,Pad,3,,47,HS,Howard Scarr,5,Angel Pad     HS
+Waldorf,Blofeld,Factory Presets 2012,C048,Heaven,2,,47,,,Pad,3,,48,JL,Juho Lepisto,8,Heaven        JL
+Waldorf,Blofeld,Factory Presets 2012,C049,Blovachord,2,,48,,,Pad,3,,49,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
+Waldorf,Blofeld,Factory Presets 2012,C050,MeetInTheSky,2,,49,,,Pad,3,,50,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
+Waldorf,Blofeld,Factory Presets 2012,C051,Padings,2,,50,,,Pad,3,,51,HM,Hubertus Maas,7,Padings       HM
+Waldorf,Blofeld,Factory Presets 2012,C052,Om mani padme,2,,51,,,Pad,3,,52,HM,Hubertus Maas,1,Om mani padme HM
+Waldorf,Blofeld,Factory Presets 2012,C053,Raising Sun,2,,52,,,Pad,3,,53,T,Tsching (Holger Steinbrink),4,Raising Sun    T
+Waldorf,Blofeld,Factory Presets 2012,C054,Slow Wavetrip,2,,53,,,Pad,3,,54,T,Tsching (Holger Steinbrink),2,Slow Wavetrip  T
+Waldorf,Blofeld,Factory Presets 2012,C055,Brightseite,2,,54,,,Pad,3,,55,T,Tsching (Holger Steinbrink),4,Brightseite    T
+Waldorf,Blofeld,Factory Presets 2012,C056,LateNightPad,2,,55,,,Pad,3,,56,T,Tsching (Holger Steinbrink),3,LateNightPad   T
+Waldorf,Blofeld,Factory Presets 2012,C057,Angels Cry,2,,56,,,Pad,3,,57,JL,Juho Lepisto,4,Angels Cry    JL
+Waldorf,Blofeld,Factory Presets 2012,C058,Phalanx,2,,57,,,Pad,3,,58,ST,Unknown (ST),7,Phalanx       ST
+Waldorf,Blofeld,Factory Presets 2012,C059,The Bridge,2,,58,,,Pad,3,,59,SK,Unknown (SK),4,The Bridge    SK
+Waldorf,Blofeld,Factory Presets 2012,C060,ObiWahnPad,2,,59,,,Pad,3,,60,SK,Unknown (SK),4,ObiWahnPad    SK
+Waldorf,Blofeld,Factory Presets 2012,C061,Sonnenaufgang,2,,60,,,Pad,3,,61,T,Tsching (Holger Steinbrink),2,Sonnenaufgang  T
+Waldorf,Blofeld,Factory Presets 2012,C062,Queen-mom,2,,61,,,Pad,3,,62,HM,Hubertus Maas,5,Queen-mom     HM
+Waldorf,Blofeld,Factory Presets 2012,C063,DarkQuietPad,2,,62,,,Pad,3,,63,T,Tsching (Holger Steinbrink),3,DarkQuietPad   T
+Waldorf,Blofeld,Factory Presets 2012,C064,Geiler Lurch,2,,63,,,Pad,3,,64,T,Tsching (Holger Steinbrink),3,Geiler Lurch   T
+Waldorf,Blofeld,Factory Presets 2012,C065,Zeitlos,2,,64,,,Pad,3,,65,T,Tsching (Holger Steinbrink),8,Zeitlos        T
+Waldorf,Blofeld,Factory Presets 2012,C066,MI5 Pad,2,,65,,,Pad,3,,66,ugh,Uwe G. Hoenig,6,MI5 Pad      ugh
+Waldorf,Blofeld,Factory Presets 2012,C067,Octopussy Pad,2,,66,,,Pad,3,,67,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
+Waldorf,Blofeld,Factory Presets 2012,C068,Like Wool,2,,67,,,Pad,3,,68,HM,Hubertus Maas,5,Like Wool     HM
+Waldorf,Blofeld,Factory Presets 2012,C069,di-Fusion,2,,68,,,Pad,3,,69,T,Tsching (Holger Steinbrink),6,di-Fusion      T
+Waldorf,Blofeld,Factory Presets 2012,C070,Go to Pad,2,,69,,,Pad,3,,70,T,Tsching (Holger Steinbrink),6,Go to Pad      T
+Waldorf,Blofeld,Factory Presets 2012,C071,Kiddings,2,,70,,,Pad,3,,71,HM,Hubertus Maas,6,Kiddings      HM
+Waldorf,Blofeld,Factory Presets 2012,C072,Harsh Pad,2,,71,,,Pad,3,,72,T,Tsching (Holger Steinbrink),6,Harsh Pad      T
+Waldorf,Blofeld,Factory Presets 2012,C073,Broadway,2,,72,,,Pad,3,,73,ugh,Uwe G. Hoenig,5,Broadway     ugh
+Waldorf,Blofeld,Factory Presets 2012,C074,Neocrest,2,,73,,,Pad,3,,74,ST,Unknown (ST),6,Neocrest      ST
+Waldorf,Blofeld,Factory Presets 2012,C075,BandSpass,2,,74,,,Pad,3,,75,T,Tsching (Holger Steinbrink),6,BandSpass      T
+Waldorf,Blofeld,Factory Presets 2012,C076,Event Horizon,2,,75,,,Pad,3,,76,T,Tsching (Holger Steinbrink),2,Event Horizon  T
+Waldorf,Blofeld,Factory Presets 2012,C077,Long Sweep,2,,76,,,Pad,3,,77,T,Tsching (Holger Steinbrink),5,Long Sweep     T
+Waldorf,Blofeld,Factory Presets 2012,C078,DisharmonicPad,2,,77,,,Atmo,3,,78,T,Tsching (Holger Steinbrink),1,DisharmonicPad T
+Waldorf,Blofeld,Factory Presets 2012,C079,Goldfinger Pad,2,,78,,,Pad,3,,79,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
+Waldorf,Blofeld,Factory Presets 2012,C080,Wartofsky 2.0,2,,79,,,Pad,3,,80,T,Tsching (Holger Steinbrink),2,Wartofsky 2.0  T
+Waldorf,Blofeld,Factory Presets 2012,C081,S&H&Pad&Nice,2,,80,,,Pad,3,,81,WMF,Wolfram Franke,1,S&H&Pad&Nice WMF
+Waldorf,Blofeld,Factory Presets 2012,C082,Attacke,2,,81,,,Pad,3,,82,WMF,Wolfram Franke,6,Attacke      WMF
+Waldorf,Blofeld,Factory Presets 2012,C083,Moving,2,,82,,,Pad,3,,83,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
+Waldorf,Blofeld,Factory Presets 2012,C084,Q-rious?,2,,83,,,Pad,3,,84,WMF,Wolfram Franke,5,Q-rious?     WMF
+Waldorf,Blofeld,Factory Presets 2012,C085,Bioshock,2,,84,,,Pad,3,,85,JL,Juho Lepisto,6,Bioshock      JL
+Waldorf,Blofeld,Factory Presets 2012,C086,With Love,2,,85,,,Pad,3,,86,WMF,Wolfram Franke,4,With Love    WMF
+Waldorf,Blofeld,Factory Presets 2012,C087,Mellow Tron,2,,86,,,Pad,3,,87,TK,Unknown (TK),3,Mellow Tron   TK
+Waldorf,Blofeld,Factory Presets 2012,C088,JV HardBass,2,,87,,,Bass,3,,88,,,,
+Waldorf,Blofeld,Factory Presets 2012,C089,PredictaBass,2,,88,,,Bass,3,,89,WMF,Wolfram Franke,1,PredictaBass WMF
+Waldorf,Blofeld,Factory Presets 2012,C090,Phalanx Bass,2,,89,,,Bass,3,,90,,,,
+Waldorf,Blofeld,Factory Presets 2012,C091,BassterKeaton,2,,90,,,Bass,3,,91,T,Tsching (Holger Steinbrink),2,BassterKeaton  T
+Waldorf,Blofeld,Factory Presets 2012,C092,Narrow,2,,91,,,Bass,3,,92,,,,
+Waldorf,Blofeld,Factory Presets 2012,C093,Drum'n'Bass 1,2,,92,,,Bass,3,,93,,,,
+Waldorf,Blofeld,Factory Presets 2012,C094,Mars Mouse,2,,93,,,Bass,3,,94,,,,
+Waldorf,Blofeld,Factory Presets 2012,C095,Fonky Fonky,2,,94,,,Bass,3,,95,,,,
+Waldorf,Blofeld,Factory Presets 2012,C096,Frittenlos,2,,95,,,Bass,3,,96,,,,
+Waldorf,Blofeld,Factory Presets 2012,C097,Mo'Grass,2,,96,,,Bass,3,,97,,,,
+Waldorf,Blofeld,Factory Presets 2012,C098,Bassanova,2,,97,,,Bass,3,,98,,,,
+Waldorf,Blofeld,Factory Presets 2012,C099,2Step Bass,2,,98,,,Bass,3,,99,,,,
+Waldorf,Blofeld,Factory Presets 2012,C100,TockTock,2,,99,,,Bass,3,,100,,,,
+Waldorf,Blofeld,Factory Presets 2012,C101,Silicon Base,2,,100,,,Bass,3,,101,,,,
+Waldorf,Blofeld,Factory Presets 2012,C102,Ultra Sub 1,2,,101,,,Bass,3,,102,,,,
+Waldorf,Blofeld,Factory Presets 2012,C103,Ultra Sub 2,2,,102,,,Bass,3,,103,,,,
+Waldorf,Blofeld,Factory Presets 2012,C104,WhopWhop,2,,103,,,Bass,3,,104,,,,
+Waldorf,Blofeld,Factory Presets 2012,C105,Acrylic Bass,2,,104,,,Bass,3,,105,,,,
+Waldorf,Blofeld,Factory Presets 2012,C106,Ringmono,2,,105,,,Bass,3,,106,,,,
+Waldorf,Blofeld,Factory Presets 2012,C107,CascadeVCF,2,,106,,,Bass,3,,107,,,,
+Waldorf,Blofeld,Factory Presets 2012,C108,303 Wanna Be,2,,107,,,Bass,3,,108,,,,
+Waldorf,Blofeld,Factory Presets 2012,C109,Morph Bass,2,,108,,,Bass,3,,109,ST,Unknown (ST),4,Morph Bass    ST
+Waldorf,Blofeld,Factory Presets 2012,C110,Q-Timps,2,,109,,,Bass,3,,110,,,,
+Waldorf,Blofeld,Factory Presets 2012,C111,DeepHouse,2,,110,,,Keys,3,,111,SK,Unknown (SK),5,DeepHouse     SK
+Waldorf,Blofeld,Factory Presets 2012,C112,FM Roads,2,,111,,,Keys,3,,112,HS,Howard Scarr,6,FM Roads      HS
+Waldorf,Blofeld,Factory Presets 2012,C113,DX-ClassiQ,2,,112,,,Keys,3,,113,HS,Howard Scarr,4,DX-ClassiQ    HS
+Waldorf,Blofeld,Factory Presets 2012,C114,Hippy Freuds,2,,113,,,Keys,3,,114,HS,Howard Scarr,2,Hippy Freuds  HS
+Waldorf,Blofeld,Factory Presets 2012,C115,Shed,2,,114,,,Keys,3,,115,HM,Hubertus Maas,9,Shed          HM
+Waldorf,Blofeld,Factory Presets 2012,C116,Harpsi,2,,115,,,Keys,3,,116,HS,Howard Scarr,8,Harpsi        HS
+Waldorf,Blofeld,Factory Presets 2012,C117,Easy Piano,2,,116,,,Keys,3,,117,HS,Howard Scarr,4,Easy Piano    HS
+Waldorf,Blofeld,Factory Presets 2012,C118,Lounge Morph,2,,117,,,Keys,3,,118,HS,Howard Scarr,2,Lounge Morph  HS
+Waldorf,Blofeld,Factory Presets 2012,C119,BloodyFeld,2,,118,,,Keys,3,,119,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
+Waldorf,Blofeld,Factory Presets 2012,C120,ModWheelOrgan,2,,119,,,Keys,3,,120,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
+Waldorf,Blofeld,Factory Presets 2012,C121,Minor Chords,2,,120,,,Seq,3,,121,T,Tsching (Holger Steinbrink),3,Minor Chords   T
+Waldorf,Blofeld,Factory Presets 2012,C122,Ice Bells,2,,121,,,Seq,3,,122,SK,Unknown (SK),5,Ice Bells     SK
+Waldorf,Blofeld,Factory Presets 2012,C123,Bone Soup,2,,122,,,FX,3,,123,,,,
+Waldorf,Blofeld,Factory Presets 2012,C124,DCS3 Bubbles,2,,123,,,FX,3,,124,,,,
+Waldorf,Blofeld,Factory Presets 2012,C125,Flying Teapot,2,,124,,,FX,3,,125,,,,
+Waldorf,Blofeld,Factory Presets 2012,C126,Gastrology,2,,125,,,FX,3,,126,,,,
+Waldorf,Blofeld,Factory Presets 2012,C127,Into Mouth,2,,126,,,FX,3,,127,,,,
+Waldorf,Blofeld,Factory Presets 2012,C128,Whoosch,2,,127,,,FX,3,,128,T,Tsching (Holger Steinbrink),8,Whoosch        T
+Waldorf,Blofeld,Factory Presets 2012,D001,UltraFatPoly,3,,0,,,Poly,4,,1,WMF,Wolfram Franke,1,UltraFatPoly WMF
+Waldorf,Blofeld,Factory Presets 2012,D002,Brass Comp,3,,1,,,Poly,4,,2,HM,Hubertus Maas,4,Brass Comp    HM
+Waldorf,Blofeld,Factory Presets 2012,D003,Pussy Galore,3,,2,,,Poly,4,,3,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
+Waldorf,Blofeld,Factory Presets 2012,D004,Euro-Zeichen,3,,3,,,Poly,4,,4,HS,Howard Scarr,2,Euro-Zeichen  HS
+Waldorf,Blofeld,Factory Presets 2012,D005,Brassy House,3,,4,,,Poly,4,,5,SK,Unknown (SK),2,Brassy House  SK
+Waldorf,Blofeld,Factory Presets 2012,D006,BestOfThe80s,3,,5,,,Poly,4,,6,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
+Waldorf,Blofeld,Factory Presets 2012,D007,Classic Synth,3,,6,,,Poly,4,,7,T,Tsching (Holger Steinbrink),2,Classic Synth  T
+Waldorf,Blofeld,Factory Presets 2012,D008,WT mess,3,,7,,,Poly,4,,8,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
+Waldorf,Blofeld,Factory Presets 2012,D009,Leadrunner,3,,8,,,Poly,4,,9,HS,Howard Scarr,4,Leadrunner    HS
+Waldorf,Blofeld,Factory Presets 2012,D010,10VoicePS3100,3,,9,,,Poly,4,,10,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
+Waldorf,Blofeld,Factory Presets 2012,D011,Patagonia,3,,10,,,Poly,4,,11,HS,Howard Scarr,5,Patagonia     HS
+Waldorf,Blofeld,Factory Presets 2012,D012,Quintage,3,,11,,,Poly,4,,12,T,Tsching (Holger Steinbrink),7,Quintage       T
+Waldorf,Blofeld,Factory Presets 2012,D013,RoundTheHorn,3,,12,,,Poly,4,,13,HS,Howard Scarr,2,RoundTheHorn  HS
+Waldorf,Blofeld,Factory Presets 2012,D014,Net Profit,3,,13,,,Poly,4,,14,HS,Howard Scarr,4,Net Profit    HS
+Waldorf,Blofeld,Factory Presets 2012,D015,SyncMush,3,,14,,,Poly,4,,15,DocT,Stefan Trippler,4,SyncMush    DocT
+Waldorf,Blofeld,Factory Presets 2012,D016,Tron Flutes,3,,15,,,Poly,4,,16,HM,Hubertus Maas,3,Tron Flutes   HM
+Waldorf,Blofeld,Factory Presets 2012,D017,Qazzio,3,,16,,,Poly,4,,17,HS,Howard Scarr,8,Qazzio        HS
+Waldorf,Blofeld,Factory Presets 2012,D018,VintageSpring,3,,17,,,Poly,4,,18,WMF,Wolfram Franke,0,VintageSpringWMF
+Waldorf,Blofeld,Factory Presets 2012,D019,Zawichords,3,,18,,,Poly,4,,19,HS,Howard Scarr,4,Zawichords    HS
+Waldorf,Blofeld,Factory Presets 2012,D020,Spring Clean,3,,19,,,Poly,4,,20,HS,Howard Scarr,2,Spring Clean  HS
+Waldorf,Blofeld,Factory Presets 2012,D021,Papathanasiou,3,,20,,,Poly,4,,21,T,Tsching (Holger Steinbrink),2,Papathanasiou  T
+Waldorf,Blofeld,Factory Presets 2012,D022,FloorFilla,3,,21,,,Poly,4,,22,SK,Unknown (SK),4,FloorFilla    SK
+Waldorf,Blofeld,Factory Presets 2012,D023,Hyper,3,,22,,,Poly,4,,23,DocT,Stefan Trippler,7,Hyper       DocT
+Waldorf,Blofeld,Factory Presets 2012,D024,Dr. Motte,3,,23,,,Poly,4,,24,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
+Waldorf,Blofeld,Factory Presets 2012,D025,FilterFM Keys,3,,24,,,Poly,4,,25,T,Tsching (Holger Steinbrink),2,FilterFM Keys  T
+Waldorf,Blofeld,Factory Presets 2012,D026,80sFM Analog,3,,25,,,Poly,4,,26,SK,Unknown (SK),2,80sFM Analog  SK
+Waldorf,Blofeld,Factory Presets 2012,D027,Analog Lute,3,,26,,,Poly,4,,27,HS,Howard Scarr,3,Analog Lute   HS
+Waldorf,Blofeld,Factory Presets 2012,D028,D-NoiZer,3,,27,,,Poly,4,,28,SK,Unknown (SK),6,D-NoiZer      SK
+Waldorf,Blofeld,Factory Presets 2012,D029,Crawlers,3,,28,,,Poly,4,,29,SK,Unknown (SK),6,Crawlers      SK
+Waldorf,Blofeld,Factory Presets 2012,D030,Brownies,3,,29,,,Poly,4,,30,WMF,Wolfram Franke,5,Brownies     WMF
+Waldorf,Blofeld,Factory Presets 2012,D031,Late Ring,3,,30,,,Poly,4,,31,HS,Howard Scarr,5,Late Ring     HS
+Waldorf,Blofeld,Factory Presets 2012,D032,RingThemBells,3,,31,,,Poly,4,,32,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
+Waldorf,Blofeld,Factory Presets 2012,D033,TributeTo DX,3,,32,,,Poly,4,,33,WMF,Wolfram Franke,1,TributeTo DX WMF
+Waldorf,Blofeld,Factory Presets 2012,D034,WhatYouSay?,3,,33,,,Poly,4,,34,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
+Waldorf,Blofeld,Factory Presets 2012,D035,Atlantis,3,,34,,,Atmo,4,,35,T,Tsching (Holger Steinbrink),7,Atlantis       T
+Waldorf,Blofeld,Factory Presets 2012,D036,Atmostrobe,3,,35,,,Atmo,4,,36,T,Tsching (Holger Steinbrink),5,Atmostrobe     T
+Waldorf,Blofeld,Factory Presets 2012,D037,Background,3,,36,,,Atmo,4,,37,T,Tsching (Holger Steinbrink),5,Background     T
+Waldorf,Blofeld,Factory Presets 2012,D038,Baraka,3,,37,,,Atmo,4,,38,T,Tsching (Holger Steinbrink),9,Baraka         T
+Waldorf,Blofeld,Factory Presets 2012,D039,Beautiful Sky,3,,38,,,Atmo,4,,39,T,Tsching (Holger Steinbrink),2,Beautiful Sky  T
+Waldorf,Blofeld,Factory Presets 2012,D040,Clink Clash,3,,39,,,Atmo,4,,40,T,Tsching (Holger Steinbrink),4,Clink Clash    T
+Waldorf,Blofeld,Factory Presets 2012,D041,Comb Tree,3,,40,,,Atmo,4,,41,T,Tsching (Holger Steinbrink),6,Comb Tree      T
+Waldorf,Blofeld,Factory Presets 2012,D042,Drift,3,,41,,,Atmo,4,,42,,,,
+Waldorf,Blofeld,Factory Presets 2012,D043,Fear'n'Loath,3,,42,,,Atmo,4,,43,,,,
+Waldorf,Blofeld,Factory Presets 2012,D044,Flinker,3,,43,,,Atmo,4,,44,,,,
+Waldorf,Blofeld,Factory Presets 2012,D045,Orthanc,3,,44,,,Atmo,4,,45,T,Tsching (Holger Steinbrink),8,Orthanc        T
+Waldorf,Blofeld,Factory Presets 2012,D046,RePression,3,,45,,,Atmo,4,,46,T,Tsching (Holger Steinbrink),5,RePression     T
+Waldorf,Blofeld,Factory Presets 2012,D047,Royalties,3,,46,,,Atmo,4,,47,,,,
+Waldorf,Blofeld,Factory Presets 2012,D048,Biosphere,3,,47,,,Atmo,4,,48,T,Tsching (Holger Steinbrink),6,Biosphere      T
+Waldorf,Blofeld,Factory Presets 2012,D049,Spitzbergen,3,,48,,,Atmo,4,,49,T,Tsching (Holger Steinbrink),4,Spitzbergen    T
+Waldorf,Blofeld,Factory Presets 2012,D050,Stratosphere,3,,49,,,Atmo,4,,50,T,Tsching (Holger Steinbrink),3,Stratosphere   T
+Waldorf,Blofeld,Factory Presets 2012,D051,Swiss Atmo,3,,50,,,Atmo,4,,51,T,Tsching (Holger Steinbrink),5,Swiss Atmo     T
+Waldorf,Blofeld,Factory Presets 2012,D052,Upstream,3,,51,,,Atmo,4,,52,T,Tsching (Holger Steinbrink),7,Upstream       T
+Waldorf,Blofeld,Factory Presets 2012,D053,VeryCompleqs,3,,52,,,Atmo,4,,53,,,,
+Waldorf,Blofeld,Factory Presets 2012,D054,Waterworld,3,,53,,,Atmo,4,,54,T,Tsching (Holger Steinbrink),5,Waterworld     T
+Waldorf,Blofeld,Factory Presets 2012,D055,RingmodFart,3,,54,,,Atmo,4,,55,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
+Waldorf,Blofeld,Factory Presets 2012,D056,Vangelibells,3,,55,,,Atmo,4,,56,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
+Waldorf,Blofeld,Factory Presets 2012,D057,PolterBlofeld,3,,56,,,Atmo,4,,57,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
+Waldorf,Blofeld,Factory Presets 2012,D058,Ambishous,3,,57,,,Atmo,4,,58,,,,
+Waldorf,Blofeld,Factory Presets 2012,D059,ScaramangAtmo,3,,58,,,Atmo,4,,59,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
+Waldorf,Blofeld,Factory Presets 2012,D060,CS4O RingMod,3,,59,,,Mono,4,,60,T,Tsching (Holger Steinbrink),3,CS4O RingMod   T
+Waldorf,Blofeld,Factory Presets 2012,D061,ReSolotion,3,,60,,,Mono,4,,61,WMF,Wolfram Franke,3,ReSolotion   WMF
+Waldorf,Blofeld,Factory Presets 2012,D062,Anna Powers,3,,61,,,Mono,4,,62,HM,Hubertus Maas,3,Anna Powers   HM
+Waldorf,Blofeld,Factory Presets 2012,D063,HardSaw,3,,62,,,Lead,4,,63,ST,Unknown (ST),7,HardSaw       ST
+Waldorf,Blofeld,Factory Presets 2012,D064,X-Feels,3,,63,,,Mono,4,,64,,,,
+Waldorf,Blofeld,Factory Presets 2012,D065,Bach Whistler,3,,64,,,Mono,4,,65,,,,
+Waldorf,Blofeld,Factory Presets 2012,D066,Modulator,3,,65,,,Mono,4,,66,,,,
+Waldorf,Blofeld,Factory Presets 2012,D067,NoisyLead,3,,66,,,Mono,4,,67,,,,
+Waldorf,Blofeld,Factory Presets 2012,D068,Pulsar Solo,3,,67,,,Mono,4,,68,,,,
+Waldorf,Blofeld,Factory Presets 2012,D069,Starweed,3,,68,,,Mono,4,,69,,,,
+Waldorf,Blofeld,Factory Presets 2012,D070,Saw 1 Osc,3,,69,,,Lead,4,,70,WMF,Wolfram Franke,4,Saw 1 Osc    WMF
+Waldorf,Blofeld,Factory Presets 2012,D071,Old Squares,3,,70,,,Mono,4,,71,,,,
+Waldorf,Blofeld,Factory Presets 2012,D072,Crazy Parade,3,,71,,,Mono,4,,72,,,,
+Waldorf,Blofeld,Factory Presets 2012,D073,Monoguitar,3,,72,,,Mono,4,,73,,,,
+Waldorf,Blofeld,Factory Presets 2012,D074,Eff Emmd!,3,,73,,,Mono,4,,74,,,,
+Waldorf,Blofeld,Factory Presets 2012,D075,DiscoPhonic,3,,74,,,Mono,4,,75,,,,
+Waldorf,Blofeld,Factory Presets 2012,D076,Moany,3,,75,,,Mono,4,,76,,,,
+Waldorf,Blofeld,Factory Presets 2012,D077,MiniDuke Solo,3,,76,,,Mono,4,,77,,,,
+Waldorf,Blofeld,Factory Presets 2012,D078,FictionGuitar,3,,77,,,Mono,4,,78,,,,
+Waldorf,Blofeld,Factory Presets 2012,D079,Autobahn,3,,78,,,Mono,4,,79,jh,Joerg Huettner,6,Autobahn      jh
+Waldorf,Blofeld,Factory Presets 2012,D080,MoogSolo,3,,79,,,Mono,4,,80,HS,Howard Scarr,6,MoogSolo      HS
+Waldorf,Blofeld,Factory Presets 2012,D081,LA-Pipe,3,,80,,,Lead,4,,81,HS,Howard Scarr,7,LA-Pipe       HS
+Waldorf,Blofeld,Factory Presets 2012,D082,Clinics,3,,81,,,Lead,4,,82,WMF,Wolfram Franke,6,Clinics      WMF
+Waldorf,Blofeld,Factory Presets 2012,D083,Attacke,3,,82,,,Arp,4,,83,WMF,Wolfram Franke,6,Attacke      WMF
+Waldorf,Blofeld,Factory Presets 2012,D084,Expensive2,3,,83,,,Arp,4,,84,WMF,Wolfram Franke,3,Expensive2   WMF
+Waldorf,Blofeld,Factory Presets 2012,D085,ZZ-you,3,,84,,,Arp,4,,85,,,,
+Waldorf,Blofeld,Factory Presets 2012,D086,Juanita,3,,85,,,Arp,4,,86,T,Tsching (Holger Steinbrink),8,Juanita        T
+Waldorf,Blofeld,Factory Presets 2012,D087,Ricochet2008,3,,86,,,Arp,4,,87,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
+Waldorf,Blofeld,Factory Presets 2012,D088,Spiffing,3,,87,,,Arp,4,,88,,,,
+Waldorf,Blofeld,Factory Presets 2012,D089,StarSoldiers,3,,88,,,Arp,4,,89,,,,
+Waldorf,Blofeld,Factory Presets 2012,D090,Slow Pop,3,,89,,,Arp,4,,90,,,,
+Waldorf,Blofeld,Factory Presets 2012,D091,Space Arp 1,3,,90,,,Arp,4,,91,,,,
+Waldorf,Blofeld,Factory Presets 2012,D092,Space Arp 2,3,,91,,,Arp,4,,92,,,,
+Waldorf,Blofeld,Factory Presets 2012,D093,Goonraker,3,,92,,,Arp,4,,93,DocT,Stefan Trippler,3,Goonraker   DocT
+Waldorf,Blofeld,Factory Presets 2012,D094,Sierra Velone,3,,93,,,Arp,4,,94,,,,
+Waldorf,Blofeld,Factory Presets 2012,D095,Selbstlaeufer,3,,94,,,Arp,4,,95,T,Tsching (Holger Steinbrink),2,Selbstlaeufer  T
+Waldorf,Blofeld,Factory Presets 2012,D096,GeeGaGooQ,3,,95,,,Arp,4,,96,WMF,Wolfram Franke,4,GeeGaGooQ    WMF
+Waldorf,Blofeld,Factory Presets 2012,D097,PassPortament,3,,96,,,Arp,4,,97,,,,
+Waldorf,Blofeld,Factory Presets 2012,D098,cARPet,3,,97,,,Arp,4,,98,T,Tsching (Holger Steinbrink),9,cARPet         T
+Waldorf,Blofeld,Factory Presets 2012,D099,DeluXaflex,3,,98,,,Arp,4,,99,RJ,Unknown (RJ),4,DeluXaflex    RJ
+Waldorf,Blofeld,Factory Presets 2012,D100,E-Motion,3,,99,,,Arp,4,,100,,,,
+Waldorf,Blofeld,Factory Presets 2012,D101,AthmoDrops,3,,100,,,Arp,4,,101,,,,
+Waldorf,Blofeld,Factory Presets 2012,D102,1DrunkenStenz,3,,101,,,Arp,4,,102,,,,
+Waldorf,Blofeld,Factory Presets 2012,D103,Weirdo FX,3,,102,,,Arp,4,,103,,,,
+Waldorf,Blofeld,Factory Presets 2012,D104,Solaris,3,,103,,,Atmo,4,,104,,,,
+Waldorf,Blofeld,Factory Presets 2012,D105,SoundScapes 1,3,,104,,,Atmo,4,,105,,,,
+Waldorf,Blofeld,Factory Presets 2012,D106,Spektrum Pad,3,,105,,,Atmo,4,,106,,,,
+Waldorf,Blofeld,Factory Presets 2012,D107,Sphere,3,,106,,,Atmo,4,,107,,,,
+Waldorf,Blofeld,Factory Presets 2012,D108,Spitzbergen,3,,107,,,Atmo,4,,108,,,,
+Waldorf,Blofeld,Factory Presets 2012,D109,Stratosphere,3,,108,,,Atmo,4,,109,,,,
+Waldorf,Blofeld,Factory Presets 2012,D110,Swiss Atmo,3,,109,,,Atmo,4,,110,,,,
+Waldorf,Blofeld,Factory Presets 2012,D111,The 5th Atmo,3,,110,,,Atmo,4,,111,,,,
+Waldorf,Blofeld,Factory Presets 2012,D112,The Fog,3,,111,,,Atmo,4,,112,,,,
+Waldorf,Blofeld,Factory Presets 2012,D113,The Year 3000,3,,112,,,Atmo,4,,113,,,,
+Waldorf,Blofeld,Factory Presets 2012,D114,Thin Ice,3,,113,,,Atmo,4,,114,,,,
+Waldorf,Blofeld,Factory Presets 2012,D115,ThrillerOrgan,3,,114,,,Atmo,4,,115,,,,
+Waldorf,Blofeld,Factory Presets 2012,D116,Tire-Guy,3,,115,,,Atmo,4,,116,,,,
+Waldorf,Blofeld,Factory Presets 2012,D117,TschingHisCan,3,,116,,,Atmo,4,,117,,,,
+Waldorf,Blofeld,Factory Presets 2012,D118,Upstream,3,,117,,,Atmo,4,,118,,,,
+Waldorf,Blofeld,Factory Presets 2012,D119,ValeyPad,3,,118,,,Atmo,4,,119,,,,
+Waldorf,Blofeld,Factory Presets 2012,D120,Vanilla Sky,3,,119,,,Atmo,4,,120,,,,
+Waldorf,Blofeld,Factory Presets 2012,D121,Orthanc,3,,120,,,Atmo,4,,121,,,,
+Waldorf,Blofeld,Factory Presets 2012,D122,Lettland,3,,121,,,Atmo,4,,122,,,,
+Waldorf,Blofeld,Factory Presets 2012,D123,Wartofsky,3,,122,,,Pad,4,,123,T,Tsching (Holger Steinbrink),6,Wartofsky      T
+Waldorf,Blofeld,Factory Presets 2012,D124,Wavescapes 1,3,,123,,,Pad,4,,124,,,,
+Waldorf,Blofeld,Factory Presets 2012,D125,Wavescapes 2,3,,124,,,Pad,4,,125,,,,
+Waldorf,Blofeld,Factory Presets 2012,D126,Wavescapes 3,3,,125,,,Pad,4,,126,,,,
+Waldorf,Blofeld,Factory Presets 2012,D127,WideWarmWash,3,,126,,,Pad,4,,127,WMF,Wolfram Franke,1,WideWarmWash WMF
+Waldorf,Blofeld,Factory Presets 2012,D128,The Carpet,3,,127,,,Pad,4,,128,,,,
+Waldorf,Blofeld,Factory Presets 2012,E001,With Love,4,,0,,,Pad,5,,1,WMF,Wolfram Franke,4,With Love    WMF
+Waldorf,Blofeld,Factory Presets 2012,E002,ScaramangAtmo,4,,1,,,Atmo,5,,2,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
+Waldorf,Blofeld,Factory Presets 2012,E003,Handy,4,,2,,,Arp,5,,3,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),6,Handy      H2SCD
+Waldorf,Blofeld,Factory Presets 2012,E004,Angels Cry,4,,3,,,Pad,5,,4,JL,Juho Lepisto,4,Angels Cry    JL
+Waldorf,Blofeld,Factory Presets 2012,E005,Chorus,4,,4,,,Pad,5,,5,WMF,Wolfram Franke,7,Chorus       WMF
+Waldorf,Blofeld,Factory Presets 2012,E006,ModWheelOrgan,4,,5,,,Keys,5,,6,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
+Waldorf,Blofeld,Factory Presets 2012,E007,SyncMush,4,,6,,,Poly,5,,7,DocT,Stefan Trippler,4,SyncMush    DocT
+Waldorf,Blofeld,Factory Presets 2012,E008,Yummi,4,,7,,,Bass,5,,8,DocT,Stefan Trippler,7,Yummi       DocT
+Waldorf,Blofeld,Factory Presets 2012,E009,Pussy Galore,4,,8,,,Poly,5,,9,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
+Waldorf,Blofeld,Factory Presets 2012,E010,Clinics,4,,9,,,Lead,5,,10,WMF,Wolfram Franke,6,Clinics      WMF
+Waldorf,Blofeld,Factory Presets 2012,E011,CtrlAltDel,4,,10,,,Lead,5,,11,DocT,Stefan Trippler,2,CtrlAltDel  DocT
+Waldorf,Blofeld,Factory Presets 2012,E012,Tines&Bars,4,,11,,,Keys,5,,12,WMF,Wolfram Franke,3,Tines&Bars   WMF
+Waldorf,Blofeld,Factory Presets 2012,E013,Unstable,4,,12,,,Lead,5,,13,DocT,Stefan Trippler,4,Unstable    DocT
+Waldorf,Blofeld,Factory Presets 2012,E014,Deepspace 9,4,,13,,,Pad,5,,14,ST,Unknown (ST),3,Deepspace 9   ST
+Waldorf,Blofeld,Factory Presets 2012,E015,DrivingLicns,4,,14,,,Lead,5,,15,DocT,Stefan Trippler,0,DrivingLicnsDocT
+Waldorf,Blofeld,Factory Presets 2012,E016,FlangedHeaven,4,,15,,,Arp,5,,16,SCD,Something Completely Different (Boele Gerkes),0,FlangedHeavenSCD
+Waldorf,Blofeld,Factory Presets 2012,E017,Heaven,4,,16,,,Pad,5,,17,JL,Juho Lepisto,8,Heaven        JL
+Waldorf,Blofeld,Factory Presets 2012,E018,"Hmm, lecker",4,,17,,,Pad,5,,18,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
+Waldorf,Blofeld,Factory Presets 2012,E019,Horse Trip,4,,18,,,Arp,5,,19,SCD,Something Completely Different (Boele Gerkes),3,Horse Trip   SCD
+Waldorf,Blofeld,Factory Presets 2012,E020,Inversion,4,,19,,,Atmo,5,,20,DocT,Stefan Trippler,3,Inversion   DocT
+Waldorf,Blofeld,Factory Presets 2012,E021,JMX vs. DeLeon,4,,20,,,Poly,5,,21,,,,
+Waldorf,Blofeld,Factory Presets 2012,E022,LA Woman,4,,21,,,Keys,5,,22,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),3,LA Woman   H2SCD
+Waldorf,Blofeld,Factory Presets 2012,E023,Minor Chords,4,,22,,,Seq,5,,23,,,,
+Waldorf,Blofeld,Factory Presets 2012,E024,MoogSolo 2,4,,23,,,Mono,5,,24,,,,
+Waldorf,Blofeld,Factory Presets 2012,E025,OhMyLord,4,,24,,,Keys,5,,25,DocT,Stefan Trippler,4,OhMyLord    DocT
+Waldorf,Blofeld,Factory Presets 2012,E026,PPG Bells,4,,25,,,Poly,5,,26,WMF,Wolfram Franke,4,PPG Bells    WMF
+Waldorf,Blofeld,Factory Presets 2012,E027,PPGesus,4,,26,,,Pad,5,,27,SCD,Something Completely Different (Boele Gerkes),6,PPGesus      SCD
+Waldorf,Blofeld,Factory Presets 2012,E028,Quadratur,4,,27,,,Lead,5,,28,DocT,Stefan Trippler,3,Quadratur   DocT
+Waldorf,Blofeld,Factory Presets 2012,E029,RingmodFart,4,,28,,,FX,5,,29,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
+Waldorf,Blofeld,Factory Presets 2012,E030,Schnoerkelos,4,,29,,,Lead,5,,30,DocT,Stefan Trippler,0,SchnoerkelosDocT
+Waldorf,Blofeld,Factory Presets 2012,E031,Schulze?,4,,30,,,Arp,5,,31,SCD,Something Completely Different (Boele Gerkes),5,Schulze?     SCD
+Waldorf,Blofeld,Factory Presets 2012,E032,shArp,4,,31,,,Arp,5,,32,DocT,Stefan Trippler,7,shArp       DocT
+Waldorf,Blofeld,Factory Presets 2012,E033,Space Echo,4,,32,,,Keys,5,,33,SCD,Something Completely Different (Boele Gerkes),3,Space Echo   SCD
+Waldorf,Blofeld,Factory Presets 2012,E034,Synthline,4,,33,,,Pad,5,,34,JL,Juho Lepisto,5,Synthline     JL
+Waldorf,Blofeld,Factory Presets 2012,E035,Taken!,4,,34,,,Arp,5,,35,SCD,Something Completely Different (Boele Gerkes),7,Taken!       SCD
+Waldorf,Blofeld,Factory Presets 2012,E036,TouchyBugger,4,,35,,,Bass,5,,36,DocT,Stefan Trippler,0,TouchyBuggerDocT
+Waldorf,Blofeld,Factory Presets 2012,E037,UpperWarp,4,,36,,,Arp,5,,37,SCD,Something Completely Different (Boele Gerkes),4,UpperWarp    SCD
+Waldorf,Blofeld,Factory Presets 2012,E038,WhatYouSay?,4,,37,,,Poly,5,,38,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
+Waldorf,Blofeld,Factory Presets 2012,E039,WT mess,4,,38,,,Poly,5,,39,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
+Waldorf,Blofeld,Factory Presets 2012,E040,10VoicePS3100,4,,39,,,Poly,5,,40,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
+Waldorf,Blofeld,Factory Presets 2012,E041,ArcoStrings,4,,40,,,Pad,5,,41,TEK,"Till ""QWave"" Kopper",2,ArcoStrings  TEK
+Waldorf,Blofeld,Factory Presets 2012,E042,Blocked,4,,41,,,Keys,5,,42,SCD,Something Completely Different (Boele Gerkes),6,Blocked      SCD
+Waldorf,Blofeld,Factory Presets 2012,E043,Blolitzer,4,,42,,,Keys,5,,43,SCD,Something Completely Different (Boele Gerkes),4,Blolitzer    SCD
+Waldorf,Blofeld,Factory Presets 2012,E044,BloodyFeld,4,,43,,,Keys,5,,44,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
+Waldorf,Blofeld,Factory Presets 2012,E045,BloSync,4,,44,,,Lead,5,,45,DocT,Stefan Trippler,5,BloSync     DocT
+Waldorf,Blofeld,Factory Presets 2012,E046,Blovachord,4,,45,,,Pad,5,,46,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
+Waldorf,Blofeld,Factory Presets 2012,E047,Boele Keys,4,,46,,,Keys,5,,47,SCD,Something Completely Different (Boele Gerkes),3,Boele Keys   SCD
+Waldorf,Blofeld,Factory Presets 2012,E048,Bonker Bass,4,,47,,,Bass,5,,48,ST,Unknown (ST),3,Bonker Bass   ST
+Waldorf,Blofeld,Factory Presets 2012,E049,Camel Saw,4,,48,,,FX,5,,49,DocT,Stefan Trippler,3,Camel Saw   DocT
+Waldorf,Blofeld,Factory Presets 2012,E050,Cream S+H,4,,49,,,FX,5,,50,SCD,Something Completely Different (Boele Gerkes),4,Cream S+H    SCD
+Waldorf,Blofeld,Factory Presets 2012,E051,CS4O RingMod,4,,50,,,Mono,5,,51,,,,
+Waldorf,Blofeld,Factory Presets 2012,E052,DalaiDelayMa,4,,51,,,Arp,5,,52,SCD,Something Completely Different (Boele Gerkes),1,DalaiDelayMa SCD
+Waldorf,Blofeld,Factory Presets 2012,E053,Dirty Organ,4,,52,,,Keys,5,,53,SCD,Something Completely Different (Boele Gerkes),2,Dirty Organ  SCD
+Waldorf,Blofeld,Factory Presets 2012,E054,Dr.Blo,4,,53,,,Arp,5,,54,DocT,Stefan Trippler,6,Dr.Blo      DocT
+Waldorf,Blofeld,Factory Presets 2012,E055,Driven,4,,54,,,Bass,5,,55,DocT,Stefan Trippler,6,Driven      DocT
+Waldorf,Blofeld,Factory Presets 2012,E056,Euro Clubber,4,,55,,,Lead,5,,56,ST,Unknown (ST),2,Euro Clubber  ST
+Waldorf,Blofeld,Factory Presets 2012,E057,Flangelized,4,,56,,,Keys,5,,57,SCD,Something Completely Different (Boele Gerkes),2,Flangelized  SCD
+Waldorf,Blofeld,Factory Presets 2012,E058,Funky Bass,4,,57,,,Bass,5,,58,JL,Juho Lepisto,4,Funky Bass    JL
+Waldorf,Blofeld,Factory Presets 2012,E059,Goldfinger Pad,4,,58,,,Pad,5,,59,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
+Waldorf,Blofeld,Factory Presets 2012,E060,HardSaw,4,,59,,,Lead,5,,60,ST,Unknown (ST),7,HardSaw       ST
+Waldorf,Blofeld,Factory Presets 2012,E061,Heimweh,4,,60,,,Atmo,5,,61,DocT,Stefan Trippler,5,Heimweh     DocT
+Waldorf,Blofeld,Factory Presets 2012,E062,Honey House,4,,61,,,Bass,5,,62,,,,
+Waldorf,Blofeld,Factory Presets 2012,E063,Horny Bass,4,,62,,,Bass,5,,63,ST,Unknown (ST),4,Horny Bass    ST
+Waldorf,Blofeld,Factory Presets 2012,E064,HP PPG,4,,63,,,Pad,5,,64,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
+Waldorf,Blofeld,Factory Presets 2012,E065,Hyper,4,,64,,,Lead,5,,65,DocT,Stefan Trippler,7,Hyper       DocT
+Waldorf,Blofeld,Factory Presets 2012,E066,I'm Evil,4,,65,,,Bass,5,,66,WMF,Wolfram Franke,5,I'm Evil     WMF
+Waldorf,Blofeld,Factory Presets 2012,E067,Infinitesima,4,,66,,,Atmo,5,,67,DocT,Stefan Trippler,0,InfinitesimaDocT
+Waldorf,Blofeld,Factory Presets 2012,E068,Jankorgel,4,,67,,,Mono,5,,68,SCD,Something Completely Different (Boele Gerkes),4,Jankorgel    SCD
+Waldorf,Blofeld,Factory Presets 2012,E069,Leading,4,,68,,,Mono,5,,69,SCD,Something Completely Different (Boele Gerkes),6,Leading      SCD
+Waldorf,Blofeld,Factory Presets 2012,E070,Maximum Zorin,4,,69,,,Atmo,5,,70,T,Tsching (Holger Steinbrink),2,Maximum Zorin  T
+Waldorf,Blofeld,Factory Presets 2012,E071,MeetInTheSky,4,,70,,,Pad,5,,71,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
+Waldorf,Blofeld,Factory Presets 2012,E072,Meridian,4,,71,,,Keys,5,,72,DocT,Stefan Trippler,4,Meridian    DocT
+Waldorf,Blofeld,Factory Presets 2012,E073,Messing,4,,72,,,Poly,5,,73,DocT,Stefan Trippler,5,Messing     DocT
+Waldorf,Blofeld,Factory Presets 2012,E074,Minimal Bass,4,,73,,,Bass,5,,74,JL,Juho Lepisto,1,Minimal Bass JL
+Waldorf,Blofeld,Factory Presets 2012,E075,Morph Bass,4,,74,,,Bass,5,,75,ST,Unknown (ST),4,Morph Bass    ST
+Waldorf,Blofeld,Factory Presets 2012,E076,Moving,4,,75,,,Pad,5,,76,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
+Waldorf,Blofeld,Factory Presets 2012,E077,NearlyInTune,4,,76,,,Atmo,5,,77,SCD,Something Completely Different (Boele Gerkes),1,NearlyInTune SCD
+Waldorf,Blofeld,Factory Presets 2012,E078,Neocrest,4,,77,,,Pad,5,,78,ST,Unknown (ST),6,Neocrest      ST
+Waldorf,Blofeld,Factory Presets 2012,E079,Octopussy Pad,4,,78,,,Pad,5,,79,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
+Waldorf,Blofeld,Factory Presets 2012,E080,Organella,4,,79,,,Keys,5,,80,,,,
+Waldorf,Blofeld,Factory Presets 2012,E081,Partyhupe,4,,80,,,Lead,5,,81,ST,Unknown (ST),5,Partyhupe     ST
+Waldorf,Blofeld,Factory Presets 2012,E082,Pastry,4,,81,,,Atmo,5,,82,DocT,Stefan Trippler,6,Pastry      DocT
+Waldorf,Blofeld,Factory Presets 2012,E083,Persecutor,4,,82,,,Bass,5,,83,DocT,Stefan Trippler,2,Persecutor  DocT
+Waldorf,Blofeld,Factory Presets 2012,E084,Phalanx,4,,83,,,Pad,5,,84,ST,Unknown (ST),7,Phalanx       ST
+Waldorf,Blofeld,Factory Presets 2012,E085,Pick It Up!,4,,84,,,Poly,5,,85,SCD,Something Completely Different (Boele Gerkes),2,Pick It Up!  SCD
+Waldorf,Blofeld,Factory Presets 2012,E086,Pienzchen,4,,85,,,Poly,5,,86,DocT,Stefan Trippler,3,Pienzchen   DocT
+Waldorf,Blofeld,Factory Presets 2012,E087,Pigs X-Mod,4,,86,,,Poly,5,,87,TEK,"Till ""QWave"" Kopper",3,Pigs X-Mod   TEK
+Waldorf,Blofeld,Factory Presets 2012,E088,PlainBass,4,,87,,,Bass,5,,88,DocT,Stefan Trippler,3,PlainBass   DocT
+Waldorf,Blofeld,Factory Presets 2012,E089,PolterBlofeld,4,,88,,,FX,5,,89,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
+Waldorf,Blofeld,Factory Presets 2012,E090,Poly Lead,4,,89,,,Lead,5,,90,SCD,Something Completely Different (Boele Gerkes),4,Poly Lead    SCD
+Waldorf,Blofeld,Factory Presets 2012,E091,PPG Piano,4,,90,,,Keys,5,,91,SCD,Something Completely Different (Boele Gerkes),4,PPG Piano    SCD
+Waldorf,Blofeld,Factory Presets 2012,E092,PPG T40 like,4,,91,,,Bass,5,,92,TEK,"Till ""QWave"" Kopper",1,PPG T40 like TEK
+Waldorf,Blofeld,Factory Presets 2012,E093,PredictaBass,4,,92,,,Bass,5,,93,WMF,Wolfram Franke,1,PredictaBass WMF
+Waldorf,Blofeld,Factory Presets 2012,E094,Pressure,4,,93,,,Keys,5,,94,DocT,Stefan Trippler,4,Pressure    DocT
+Waldorf,Blofeld,Factory Presets 2012,E095,Principia,4,,94,,,FX,5,,95,DocT,Stefan Trippler,3,Principia   DocT
+Waldorf,Blofeld,Factory Presets 2012,E096,Pure,4,,95,,,Poly,5,,96,DocT,Stefan Trippler,8,Pure        DocT
+Waldorf,Blofeld,Factory Presets 2012,E097,Reset,4,,96,,,Lead,5,,97,DocT,Stefan Trippler,7,Reset       DocT
+Waldorf,Blofeld,Factory Presets 2012,E098,Ricochet2008,4,,97,,,Arp,5,,98,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
+Waldorf,Blofeld,Factory Presets 2012,E099,RingThemBells,4,,98,,,FX,5,,99,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
+Waldorf,Blofeld,Factory Presets 2012,E100,Robotic,4,,99,,,Pad,5,,100,JL,Juho Lepisto,7,Robotic       JL
+Waldorf,Blofeld,Factory Presets 2012,E101,Saw Orgy,4,,100,,,Pad,5,,101,SCD,Something Completely Different (Boele Gerkes),5,Saw Orgy     SCD
+Waldorf,Blofeld,Factory Presets 2012,E102,Seq 1,4,,101,,,Arp,5,,102,SCD,Something Completely Different (Boele Gerkes),8,Seq 1        SCD
+Waldorf,Blofeld,Factory Presets 2012,E103,Seven Ties,4,,102,,,Keys,5,,103,SCD,Something Completely Different (Boele Gerkes),3,Seven Ties   SCD
+Waldorf,Blofeld,Factory Presets 2012,E104,S&Hatmo,4,,103,,,Atmo,5,,104,,,,
+Waldorf,Blofeld,Factory Presets 2012,E105,Sobstuff,4,,104,,,Atmo,5,,105,DocT,Stefan Trippler,4,Sobstuff    DocT
+Waldorf,Blofeld,Factory Presets 2012,E106,Soft Brass 2,4,,105,,,Poly,5,,106,DocT,Stefan Trippler,0,Soft Brass 2DocT
+Waldorf,Blofeld,Factory Presets 2012,E107,SpatialDrive1,4,,106,,,Arp,5,,107,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive1SCD
+Waldorf,Blofeld,Factory Presets 2012,E108,SpatialDrive2,4,,107,,,Arp,5,,108,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive2SCD
+Waldorf,Blofeld,Factory Presets 2012,E109,Stenzelized,4,,108,,,Poly,5,,109,SCD,Something Completely Different (Boele Gerkes),2,Stenzelized  SCD
+Waldorf,Blofeld,Factory Presets 2012,E110,Stop Bass,4,,109,,,Arp,5,,110,SCD,Something Completely Different (Boele Gerkes),4,Stop Bass    SCD
+Waldorf,Blofeld,Factory Presets 2012,E111,SunOfTheDogs,4,,110,,,Atmo,5,,111,WMF,Wolfram Franke,1,SunOfTheDogs WMF
+Waldorf,Blofeld,Factory Presets 2012,E112,Supersaw,4,,111,,,Lead,5,,112,ST,Unknown (ST),6,Supersaw      ST
+Waldorf,Blofeld,Factory Presets 2012,E113,Tabloid,4,,112,,,Pad,5,,113,DocT,Stefan Trippler,5,Tabloid     DocT
+Waldorf,Blofeld,Factory Presets 2012,E114,Telenovela,4,,113,,,Poly,5,,114,DocT,Stefan Trippler,2,Telenovela  DocT
+Waldorf,Blofeld,Factory Presets 2012,E115,Thrill Arp,4,,114,,,Arp,5,,115,SCD,Something Completely Different (Boele Gerkes),3,Thrill Arp   SCD
+Waldorf,Blofeld,Factory Presets 2012,E116,Utmost,4,,115,,,Lead,5,,116,DocT,Stefan Trippler,6,Utmost      DocT
+Waldorf,Blofeld,Factory Presets 2012,E117,Variator,4,,116,,,Arp,5,,117,DocT,Stefan Trippler,4,Variator    DocT
+Waldorf,Blofeld,Factory Presets 2012,E118,Wave Mayhem,4,,117,,,Atmo,5,,118,DocT,Stefan Trippler,1,Wave Mayhem DocT
+Waldorf,Blofeld,Factory Presets 2012,E119,WavEpiano,4,,118,,,Keys,5,,119,SCD,Something Completely Different (Boele Gerkes),4,WavEpiano    SCD
+Waldorf,Blofeld,Factory Presets 2012,E120,West Wave,4,,119,,,Arp,5,,120,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),2,West Wave  H2SCD
+Waldorf,Blofeld,Factory Presets 2012,E121,AfterConcert,4,,120,,,FX,5,,121,SCD,Something Completely Different (Boele Gerkes),1,AfterConcert SCD
+Waldorf,Blofeld,Factory Presets 2012,E122,AnalogBass,4,,121,,,Bass,5,,122,SCD,Something Completely Different (Boele Gerkes),3,AnalogBass   SCD
+Waldorf,Blofeld,Factory Presets 2012,E123,Barbarie Brass,4,,122,,,Poly,5,,123,ST,Unknown (ST),0,Barbarie BrassST
+Waldorf,Blofeld,Factory Presets 2012,E124,Basster Keaton,4,,123,,,Bass,5,,124,,,,
+Waldorf,Blofeld,Factory Presets 2012,E125,Bend Me,4,,124,,,FX,5,,125,DocT,Stefan Trippler,5,Bend Me     DocT
+Waldorf,Blofeld,Factory Presets 2012,E126,Bioshock,4,,125,,,Pad,5,,126,JL,Juho Lepisto,6,Bioshock      JL
+Waldorf,Blofeld,Factory Presets 2012,E127,Blubber,4,,126,,,FX,5,,127,TEK,"Till ""QWave"" Kopper",6,Blubber      TEK
+Waldorf,Blofeld,Factory Presets 2012,E128,Diving Echos,4,,127,,,FX,5,,128,TEK,"Till ""QWave"" Kopper",1,Diving Echos TEK
+Waldorf,Blofeld,Factory Presets 2012,F001,Flups Bass,5,,0,,,Bass,6,,1,ST,Unknown (ST),4,Flups Bass    ST
+Waldorf,Blofeld,Factory Presets 2012,F002,Goonraker,5,,1,,,Arp,6,,2,DocT,Stefan Trippler,3,Goonraker   DocT
+Waldorf,Blofeld,Factory Presets 2012,F003,microQ Plus,5,,2,,,Poly,6,,3,,,,
+Waldorf,Blofeld,Factory Presets 2012,F004,MiniMoogThnd,5,,3,,,FX,6,,4,TEK,"Till ""QWave"" Kopper",1,MiniMoogThnd TEK
+Waldorf,Blofeld,Factory Presets 2012,F005,Octa Bass,5,,4,,,Bass,6,,5,ST,Unknown (ST),5,Octa Bass     ST
+Waldorf,Blofeld,Factory Presets 2012,F006,Porno Bass,5,,5,,,Bass,6,,6,ST,Unknown (ST),4,Porno Bass    ST
+Waldorf,Blofeld,Factory Presets 2012,F007,ReSolotion,5,,6,,,Mono,6,,7,WMF,Wolfram Franke,3,ReSolotion   WMF
+Waldorf,Blofeld,Factory Presets 2012,F008,Roadies Keyb,5,,7,,,Keys,6,,8,TEK,"Till ""QWave"" Kopper",1,Roadies Keyb TEK
+Waldorf,Blofeld,Factory Presets 2012,F009,Spynett,5,,8,,,Keys,6,,9,DocT,Stefan Trippler,5,Spynett     DocT
+Waldorf,Blofeld,Factory Presets 2012,F010,Tines,5,,9,,,Poly,6,,10,DocT,Stefan Trippler,7,Tines       DocT
+Waldorf,Blofeld,Factory Presets 2012,F011,Velo Drive,5,,10,,,Arp,6,,11,SCD,Something Completely Different (Boele Gerkes),3,Velo Drive   SCD
+Waldorf,Blofeld,Factory Presets 2012,F012,Vangelibells,5,,11,,,Atmo,6,,12,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
+Waldorf,Blofeld,Factory Presets 2012,F013,Bellflutes,5,,12,,,Keys,6,,13,,,,
+Waldorf,Blofeld,Factory Presets 2012,F014,Bellissimo,5,,13,,,Keys,6,,14,,,,
+Waldorf,Blofeld,Factory Presets 2012,F015,Bells'E.Piano,5,,14,,,Keys,6,,15,RZ,Unknown (RZ),1,Bells'E.Piano RZ
+Waldorf,Blofeld,Factory Presets 2012,F016,Cheap Organ,5,,15,,,Keys,6,,16,,,,
+Waldorf,Blofeld,Factory Presets 2012,F017,Chorgany,5,,16,,,Keys,6,,17,SK,Unknown (SK),6,Chorgany      SK
+Waldorf,Blofeld,Factory Presets 2012,F018,Combuder Orgs,5,,17,,,Keys,6,,18,SK,Unknown (SK),1,Combuder Orgs SK
+Waldorf,Blofeld,Factory Presets 2012,F019,Crunge Organ,5,,18,,,Keys,6,,19,SK,Unknown (SK),2,Crunge Organ  SK
+Waldorf,Blofeld,Factory Presets 2012,F020,DeepHouse,5,,19,,,Keys,6,,20,SK,Unknown (SK),5,DeepHouse     SK
+Waldorf,Blofeld,Factory Presets 2012,F021,Dirty Organ1,5,,20,,,Keys,6,,21,WMF,Wolfram Franke,1,Dirty Organ1 WMF
+Waldorf,Blofeld,Factory Presets 2012,F022,Driven Keys,5,,21,,,Keys,6,,22,,,,
+Waldorf,Blofeld,Factory Presets 2012,F023,Dull Bells,5,,22,,,Keys,6,,23,,,,
+Waldorf,Blofeld,Factory Presets 2012,F024,DX-ClassiQ,5,,23,,,Keys,6,,24,HS,Howard Scarr,4,DX-ClassiQ    HS
+Waldorf,Blofeld,Factory Presets 2012,F025,DX-Pipe,5,,24,,,Keys,6,,25,HS,Howard Scarr,7,DX-Pipe       HS
+Waldorf,Blofeld,Factory Presets 2012,F026,Easy Piano,5,,25,,,Keys,6,,26,HS,Howard Scarr,4,Easy Piano    HS
+Waldorf,Blofeld,Factory Presets 2012,F027,ElectricOrgan,5,,26,,,Keys,6,,27,,,,
+Waldorf,Blofeld,Factory Presets 2012,F028,ElectricPiano,5,,27,,,Keys,6,,28,,,,
+Waldorf,Blofeld,Factory Presets 2012,F029,Fat Sine Keys,5,,28,,,Keys,6,,29,,,,
+Waldorf,Blofeld,Factory Presets 2012,F030,FM KeysMelody,5,,29,,,Keys,6,,30,,,,
+Waldorf,Blofeld,Factory Presets 2012,F031,FM Roads,5,,30,,,Keys,6,,31,,,,
+Waldorf,Blofeld,Factory Presets 2012,F032,Full Organ,5,,31,,,Keys,6,,32,HS,Howard Scarr,4,Full Organ    HS
+Waldorf,Blofeld,Factory Presets 2012,F033,Glockenspiel,5,,32,,,Keys,6,,33,,,,
+Waldorf,Blofeld,Factory Presets 2012,F034,GS-Piano,5,,33,,,Keys,6,,34,HS,Howard Scarr,6,GS-Piano      HS
+Waldorf,Blofeld,Factory Presets 2012,F035,Harpsi,5,,34,,,Keys,6,,35,HS,Howard Scarr,8,Harpsi        HS
+Waldorf,Blofeld,Factory Presets 2012,F036,Hippy Freuds,5,,35,,,Keys,6,,36,HS,Howard Scarr,2,Hippy Freuds  HS
+Waldorf,Blofeld,Factory Presets 2012,F037,House,5,,36,,,Keys,6,,37,HM,Hubertus Maas,9,House         HM
+Waldorf,Blofeld,Factory Presets 2012,F038,Jazz Creeper,5,,37,,,Keys,6,,38,HS,Howard Scarr,2,Jazz Creeper  HS
+Waldorf,Blofeld,Factory Presets 2012,F039,LA-Pipe,5,,38,,,Lead,6,,39,HS,Howard Scarr,7,LA-Pipe       HS
+Waldorf,Blofeld,Factory Presets 2012,F040,LoFi Organ,5,,39,,,Keys,6,,40,SK,Unknown (SK),4,LoFi Organ    SK
+Waldorf,Blofeld,Factory Presets 2012,F041,Lounge Morph,5,,40,,,Keys,6,,41,HS,Howard Scarr,2,Lounge Morph  HS
+Waldorf,Blofeld,Factory Presets 2012,F042,Lower Steam,5,,41,,,Keys,6,,42,HS,Howard Scarr,3,Lower Steam   HS
+Waldorf,Blofeld,Factory Presets 2012,F043,Marimboid,5,,42,,,Keys,6,,43,HS,Howard Scarr,5,Marimboid     HS
+Waldorf,Blofeld,Factory Presets 2012,F044,Modern House,5,,43,,,Keys,6,,44,SK,Unknown (SK),2,Modern House  SK
+Waldorf,Blofeld,Factory Presets 2012,F045,Modern Keys,5,,44,,,Keys,6,,45,,,,
+Waldorf,Blofeld,Factory Presets 2012,F046,Noise Toys,5,,45,,,Keys,6,,46,HS,Howard Scarr,4,Noise Toys    HS
+Waldorf,Blofeld,Factory Presets 2012,F047,Ode to Joy,5,,46,,,Keys,6,,47,HS,Howard Scarr,4,Ode to Joy    HS
+Waldorf,Blofeld,Factory Presets 2012,F048,Oil Well,5,,47,,,Keys,6,,48,,,,
+Waldorf,Blofeld,Factory Presets 2012,F049,Organ #2,5,,48,,,Keys,6,,49,S,Stefan Stenzel,7,Organ #2       S
+Waldorf,Blofeld,Factory Presets 2012,F050,Quad-Square,5,,49,,,Keys,6,,50,,,,
+Waldorf,Blofeld,Factory Presets 2012,F051,Reso Organ,5,,50,,,Keys,6,,51,,,,
+Waldorf,Blofeld,Factory Presets 2012,F052,ResOrgan,5,,51,,,Keys,6,,52,SK,Unknown (SK),6,ResOrgan      SK
+Waldorf,Blofeld,Factory Presets 2012,F053,Rhodos Corso,5,,52,,,Keys,6,,53,WMF,Wolfram Franke,1,Rhodos Corso WMF
+Waldorf,Blofeld,Factory Presets 2012,F054,RhodosFlango,5,,53,,,Keys,6,,54,WMF,Wolfram Franke,1,RhodosFlango WMF
+Waldorf,Blofeld,Factory Presets 2012,F055,Rodesque,5,,54,,,Keys,6,,55,HS,Howard Scarr,6,Rodesque      HS
+Waldorf,Blofeld,Factory Presets 2012,F056,Schwebend,5,,55,,,Keys,6,,56,jh,Joerg Huettner,5,Schwebend     jh
+Waldorf,Blofeld,Factory Presets 2012,F057,Shed,5,,56,,,"Keys, Organ",6,,57,HM,Hubertus Maas,9,Shed          HM
+Waldorf,Blofeld,Factory Presets 2012,F058,Sick FM,5,,57,,,Keys,6,,58,SK,Unknown (SK),7,Sick FM       SK
+Waldorf,Blofeld,Factory Presets 2012,F059,SpaceChimes,5,,58,,,Keys,6,,59,SK,Unknown (SK),3,SpaceChimes   SK
+Waldorf,Blofeld,Factory Presets 2012,F060,The Oily Way,5,,59,,,Keys,6,,60,HS,Howard Scarr,2,The Oily Way  HS
+Waldorf,Blofeld,Factory Presets 2012,F061,Thin Organ,5,,60,,,Keys,6,,61,HS,Howard Scarr,4,Thin Organ    HS
+Waldorf,Blofeld,Factory Presets 2012,F062,Troubadour,5,,61,,,Keys,6,,62,,,,
+Waldorf,Blofeld,Factory Presets 2012,F063,Wartz Piano1,5,,62,,,Keys,6,,63,HM,Hubertus Maas,2,Wartz Piano1  HM
+Waldorf,Blofeld,Factory Presets 2012,F064,Wooden E,5,,63,,,Keys,6,,64,WMF,Wolfram Franke,5,Wooden E     WMF
+Waldorf,Blofeld,Factory Presets 2012,F065,Wurlitzer104b,5,,64,,,Keys,6,,65,HM,Hubertus Maas,1,Wurlitzer104b HM
+Waldorf,Blofeld,Factory Presets 2012,F066,Yamlitzer,5,,65,,,Keys,6,,66,,,,
+Waldorf,Blofeld,Factory Presets 2012,F067,7th Sense,5,,66,,,Poly,6,,67,SK,Unknown (SK),5,7th Sense     SK
+Waldorf,Blofeld,Factory Presets 2012,F068,80sFM Analog,5,,67,,,Poly,6,,68,SK,Unknown (SK),2,80sFM Analog  SK
+Waldorf,Blofeld,Factory Presets 2012,F069,Aggreppo,5,,68,,,Poly,6,,69,T,Tsching (Holger Steinbrink),7,Aggreppo       T
+Waldorf,Blofeld,Factory Presets 2012,F070,Analog Lute,5,,69,,,Poly,6,,70,HS,Howard Scarr,3,Analog Lute   HS
+Waldorf,Blofeld,Factory Presets 2012,F071,Analog Quest,5,,70,,,Poly,6,,71,SK,Unknown (SK),2,Analog Quest  SK
+Waldorf,Blofeld,Factory Presets 2012,F072,Aphazing,5,,71,,,Poly,6,,72,SK,Unknown (SK),6,Aphazing      SK
+Waldorf,Blofeld,Factory Presets 2012,F073,Bell like,5,,72,,,Poly,6,,73,RZ,Unknown (RZ),5,Bell like     RZ
+Waldorf,Blofeld,Factory Presets 2012,F074,BestOfThe80s,5,,73,,,Poly,6,,74,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
+Waldorf,Blofeld,Factory Presets 2012,F075,Blakes 7 Str,5,,74,,,Poly,6,,75,AT,Unknown (AT),2,Blakes 7 Str  AT
+Waldorf,Blofeld,Factory Presets 2012,F076,B-Lead,5,,75,,,Poly,6,,76,SK,Unknown (SK),8,B-Lead        SK
+Waldorf,Blofeld,Factory Presets 2012,F077,Bounty Synth,5,,76,,,Poly,6,,77,,,,
+Waldorf,Blofeld,Factory Presets 2012,F078,Brass Comp,5,,77,,,Poly,6,,78,HM,Hubertus Maas,4,Brass Comp    HM
+Waldorf,Blofeld,Factory Presets 2012,F079,Brass-lead,5,,78,,,Poly,6,,79,SCD,Something Completely Different (Boele Gerkes),3,Brass-lead   SCD
+Waldorf,Blofeld,Factory Presets 2012,F080,Brassy House,5,,79,,,Poly,6,,80,SK,Unknown (SK),2,Brassy House  SK
+Waldorf,Blofeld,Factory Presets 2012,F081,Bright Sync,5,,80,,,Poly,6,,81,,,,
+Waldorf,Blofeld,Factory Presets 2012,F082,Brownies,5,,81,,,Poly,6,,82,WMF,Wolfram Franke,5,Brownies     WMF
+Waldorf,Blofeld,Factory Presets 2012,F083,CareFull,5,,82,,,Poly,6,,83,RZ,Unknown (RZ),6,CareFull      RZ
+Waldorf,Blofeld,Factory Presets 2012,F084,Caspoly,5,,83,,,Poly,6,,84,WMF,Wolfram Franke,6,Caspoly      WMF
+Waldorf,Blofeld,Factory Presets 2012,F085,Chamber High,5,,84,,,Poly,6,,85,HS,Howard Scarr,2,Chamber High  HS
+Waldorf,Blofeld,Factory Presets 2012,F086,Chamber Low,5,,85,,,Poly,6,,86,HS,Howard Scarr,3,Chamber Low   HS
+Waldorf,Blofeld,Factory Presets 2012,F087,Chord-Hose,5,,86,,,Poly,6,,87,T,Tsching (Holger Steinbrink),5,Chord-Hose     T
+Waldorf,Blofeld,Factory Presets 2012,F088,Chord Revival,5,,87,,,Poly,6,,88,SK,Unknown (SK),1,Chord Revival SK
+Waldorf,Blofeld,Factory Presets 2012,F089,Classic Dance,5,,88,,,Poly,6,,89,,,,
+Waldorf,Blofeld,Factory Presets 2012,F090,Classic Synth,5,,89,,,Poly,6,,90,,,,
+Waldorf,Blofeld,Factory Presets 2012,F091,Clavinetro,5,,90,,,Poly,6,,91,jh,Joerg Huettner,4,Clavinetro    jh
+Waldorf,Blofeld,Factory Presets 2012,F092,Clock&Bells,5,,91,,,Poly,6,,92,RZ,Unknown (RZ),3,Clock&Bells   RZ
+Waldorf,Blofeld,Factory Presets 2012,F093,Combi Saws,5,,92,,,Poly,6,,93,SK,Unknown (SK),4,Combi Saws    SK
+Waldorf,Blofeld,Factory Presets 2012,F094,Compromise K,5,,93,,,Poly,6,,94,HM,Hubertus Maas,2,Compromise K  HM
+Waldorf,Blofeld,Factory Presets 2012,F095,Concertino,5,,94,,,Poly,6,,95,SCD,Something Completely Different (Boele Gerkes),3,Concertino   SCD
+Waldorf,Blofeld,Factory Presets 2012,F096,Cool Porta,5,,95,,,Poly,6,,96,HM,Hubertus Maas,4,Cool Porta    HM
+Waldorf,Blofeld,Factory Presets 2012,F097,Crawlers,5,,96,,,Poly,6,,97,SK,Unknown (SK),6,Crawlers      SK
+Waldorf,Blofeld,Factory Presets 2012,F098,Crispy Saw,5,,97,,,Poly,6,,98,SK,Unknown (SK),4,Crispy Saw    SK
+Waldorf,Blofeld,Factory Presets 2012,F099,CyberLeader,5,,98,,,Poly,6,,99,SK,Unknown (SK),3,CyberLeader   SK
+Waldorf,Blofeld,Factory Presets 2012,F100,Dawn Organ,5,,99,,,Poly,6,,100,,,,
+Waldorf,Blofeld,Factory Presets 2012,F101,Deep Synth,5,,100,,,Poly,6,,101,DK,Dirk Krause,4,Deep Synth    DK
+Waldorf,Blofeld,Factory Presets 2012,F102,Delead It!,5,,101,,,Poly,6,,102,SK,Unknown (SK),4,Delead It!    SK
+Waldorf,Blofeld,Factory Presets 2012,F103,DirtyLead,5,,102,,,Poly,6,,103,SK,Unknown (SK),5,DirtyLead     SK
+Waldorf,Blofeld,Factory Presets 2012,F104,D-NoiZer,5,,103,,,Poly,6,,104,SK,Unknown (SK),6,D-NoiZer      SK
+Waldorf,Blofeld,Factory Presets 2012,F105,DollarBells,5,,104,,,Poly,6,,105,ugh,Uwe G. Hoenig,2,DollarBells  ugh
+Waldorf,Blofeld,Factory Presets 2012,F106,Dr. Motte,5,,105,,,Poly,6,,106,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
+Waldorf,Blofeld,Factory Presets 2012,F107,Energee!,5,,106,,,Poly,6,,107,SK,Unknown (SK),6,Energee!      SK
+Waldorf,Blofeld,Factory Presets 2012,F108,Enough Power,5,,107,,,Poly,6,,108,T,Tsching (Holger Steinbrink),3,Enough Power   T
+Waldorf,Blofeld,Factory Presets 2012,F109,EthnoPerc,5,,108,,,Poly,6,,109,SK,Unknown (SK),5,EthnoPerc     SK
+Waldorf,Blofeld,Factory Presets 2012,F110,Euro-Zeichen,5,,109,,,Poly,6,,110,HS,Howard Scarr,2,Euro-Zeichen  HS
+Waldorf,Blofeld,Factory Presets 2012,F111,ExploreChords,5,,110,,,Poly,6,,111,SK,Unknown (SK),1,ExploreChords SK
+Waldorf,Blofeld,Factory Presets 2012,F112,Fat 8-Osc,5,,111,,,Poly,6,,112,SK,Unknown (SK),5,Fat 8-Osc     SK
+Waldorf,Blofeld,Factory Presets 2012,F113,Filigrano,5,,112,,,Poly,6,,113,SK,Unknown (SK),5,Filigrano     SK
+Waldorf,Blofeld,Factory Presets 2012,F114,FilterFM Keys,5,,113,,,Poly,6,,114,,,,
+Waldorf,Blofeld,Factory Presets 2012,F115,FloorFilla,5,,114,,,Poly,6,,115,SK,Unknown (SK),4,FloorFilla    SK
+Waldorf,Blofeld,Factory Presets 2012,F116,FM Chords,5,,115,,,Poly,6,,116,SK,Unknown (SK),5,FM Chords     SK
+Waldorf,Blofeld,Factory Presets 2012,F117,FM Melodies,5,,116,,,Poly,6,,117,,,,
+Waldorf,Blofeld,Factory Presets 2012,F118,FMod Saws,5,,117,,,Poly,6,,118,SK,Unknown (SK),5,FMod Saws     SK
+Waldorf,Blofeld,Factory Presets 2012,F119,FM-sono Saw,5,,118,,,Poly,6,,119,,,,
+Waldorf,Blofeld,Factory Presets 2012,F120,French,5,,119,,,Poly,6,,120,RZ,Unknown (RZ),8,French        RZ
+Waldorf,Blofeld,Factory Presets 2012,F121,Fun Man,5,,120,,,Poly,6,,121,,,,
+Waldorf,Blofeld,Factory Presets 2012,F122,Gated 80's,5,,121,,,Poly,6,,122,,,,
+Waldorf,Blofeld,Factory Presets 2012,F123,Gattaca,5,,122,,,Poly,6,,123,SK,Unknown (SK),7,Gattaca       SK
+Waldorf,Blofeld,Factory Presets 2012,F124,Gimme Five!,5,,123,,,Poly,6,,124,SK,Unknown (SK),3,Gimme Five!   SK
+Waldorf,Blofeld,Factory Presets 2012,F125,Glitter Power,5,,124,,,Poly,6,,125,HS,Howard Scarr,1,Glitter Power HS
+Waldorf,Blofeld,Factory Presets 2012,F126,Good Air,5,,125,,,Poly,6,,126,SK,Unknown (SK),6,Good Air      SK
+Waldorf,Blofeld,Factory Presets 2012,F127,High Sequence,5,,126,,,Poly,6,,127,jh,Joerg Huettner,1,High Sequence jh
+Waldorf,Blofeld,Factory Presets 2012,F128,HitMeQuick!,5,,127,,,Poly,6,,128,SK,Unknown (SK),3,HitMeQuick!   SK
+Waldorf,Blofeld,Factory Presets 2012,G001,Human Touch,6,,0,,,Poly,7,,1,SK,Unknown (SK),3,Human Touch   SK
+Waldorf,Blofeld,Factory Presets 2012,G002,Ice Bells,6,,1,,,Poly,7,,2,SK,Unknown (SK),5,Ice Bells     SK
+Waldorf,Blofeld,Factory Presets 2012,G003,Illbient Mind,6,,2,,,Poly,7,,3,,,,
+Waldorf,Blofeld,Factory Presets 2012,G004,It's Digital,6,,3,,,Poly,7,,4,,,,
+Waldorf,Blofeld,Factory Presets 2012,G005,Jembala,6,,4,,,Poly,7,,5,WMF,Wolfram Franke,6,Jembala      WMF
+Waldorf,Blofeld,Factory Presets 2012,G006,JMX jun.,6,,5,,,Poly,7,,6,,,,
+Waldorf,Blofeld,Factory Presets 2012,G007,Juno Soul,6,,6,,,Poly,7,,7,DK,Dirk Krause,5,Juno Soul     DK
+Waldorf,Blofeld,Factory Presets 2012,G008,KlingKlang'02,6,,7,,,Poly,7,,8,jh,Joerg Huettner,1,KlingKlang'02 jh
+Waldorf,Blofeld,Factory Presets 2012,G009,La Sirena,6,,8,,,Poly,7,,9,SK,Unknown (SK),5,La Sirena     SK
+Waldorf,Blofeld,Factory Presets 2012,G010,Late Ring,6,,9,,,Poly,7,,10,HS,Howard Scarr,5,Late Ring     HS
+Waldorf,Blofeld,Factory Presets 2012,G011,Leadrunner,6,,10,,,Poly,7,,11,,,,
+Waldorf,Blofeld,Factory Presets 2012,G012,Legal Resins,6,,11,,,Poly,7,,12,HS,Howard Scarr,2,Legal Resins  HS
+Waldorf,Blofeld,Factory Presets 2012,G013,LikeClinics,6,,12,,,Poly,7,,13,WMF,Wolfram Franke,2,LikeClinics  WMF
+Waldorf,Blofeld,Factory Presets 2012,G014,Liquid Mel,6,,13,,,Poly,7,,14,WMF,Wolfram Franke,3,Liquid Mel   WMF
+Waldorf,Blofeld,Factory Presets 2012,G015,Liquid Var,6,,14,,,Poly,7,,15,WMF,Wolfram Franke,3,Liquid Var   WMF
+Waldorf,Blofeld,Factory Presets 2012,G016,LoFi 1oscPoly,6,,15,,,Poly,7,,16,,,,
+Waldorf,Blofeld,Factory Presets 2012,G017,LoFi Lead,6,,16,,,Poly,7,,17,WMF,Wolfram Franke,4,LoFi Lead    WMF
+Waldorf,Blofeld,Factory Presets 2012,G018,Minor Chord,6,,17,,,Poly,7,,18,RZ,Unknown (RZ),3,Minor Chord   RZ
+Waldorf,Blofeld,Factory Presets 2012,G019,Modulizer,6,,18,,,Poly,7,,19,SK,Unknown (SK),5,Modulizer     SK
+Waldorf,Blofeld,Factory Presets 2012,G020,Move Sound,6,,19,,,Poly,7,,20,,,,
+Waldorf,Blofeld,Factory Presets 2012,G021,My Ol' House,6,,20,,,Poly,7,,21,SK,Unknown (SK),2,My Ol' House  SK
+Waldorf,Blofeld,Factory Presets 2012,G022,Net Profit,6,,21,,,Poly,7,,22,HS,Howard Scarr,4,Net Profit    HS
+Waldorf,Blofeld,Factory Presets 2012,G023,Neu * Utz,6,,22,,,Poly,7,,23,HM,Hubertus Maas,5,Neu * Utz     HM
+Waldorf,Blofeld,Factory Presets 2012,G024,NewClassicLd,6,,23,,,Poly,7,,24,SK,Unknown (SK),2,NewClassicLd  SK
+Waldorf,Blofeld,Factory Presets 2012,G025,No. 5 lives,6,,24,,,Poly,7,,25,T,Tsching (Holger Steinbrink),4,No. 5 lives    T
+Waldorf,Blofeld,Factory Presets 2012,G026,OB-One Knobi,6,,25,,,Poly,7,,26,HS,Howard Scarr,2,OB-One Knobi  HS
+Waldorf,Blofeld,Factory Presets 2012,G027,OBX Purple5,6,,26,,,Poly,7,,27,PROX,ProXenos,1,OBX Purple5 PROX
+Waldorf,Blofeld,Factory Presets 2012,G028,Old * Uck,6,,27,,,Poly,7,,28,HM,Hubertus Maas,5,Old * Uck     HM
+Waldorf,Blofeld,Factory Presets 2012,G029,Organistic,6,,28,,,Poly,7,,29,SK,Unknown (SK),4,Organistic    SK
+Waldorf,Blofeld,Factory Presets 2012,G030,Papathanasiou,6,,29,,,Poly,7,,30,,,,
+Waldorf,Blofeld,Factory Presets 2012,G031,Patagonia,6,,30,,,Poly,7,,31,HS,Howard Scarr,5,Patagonia     HS
+Waldorf,Blofeld,Factory Presets 2012,G032,PEG Horns,6,,31,,,Poly,7,,32,HM,Hubertus Maas,5,PEG Horns     HM
+Waldorf,Blofeld,Factory Presets 2012,G033,Phased FM,6,,32,,,Poly,7,,33,SK,Unknown (SK),5,Phased FM     SK
+Waldorf,Blofeld,Factory Presets 2012,G034,Play It Sam!,6,,33,,,Poly,7,,34,jh,Joerg Huettner,2,Play It Sam!  jh
+Waldorf,Blofeld,Factory Presets 2012,G035,Poly Flutes,6,,34,,,Poly,7,,35,HS,Howard Scarr,3,Poly Flutes   HS
+Waldorf,Blofeld,Factory Presets 2012,G036,PolySequencer,6,,35,,,Poly,7,,36,,,,
+Waldorf,Blofeld,Factory Presets 2012,G037,PowerLead,6,,36,,,Poly,7,,37,WMF,Wolfram Franke,4,PowerLead    WMF
+Waldorf,Blofeld,Factory Presets 2012,G038,Harp,6,,37,,,Poly,7,,38,,,,
+Waldorf,Blofeld,Factory Presets 2012,G039,PPG Nylons,6,,38,,,Poly,7,,39,PROX,ProXenos,2,PPG Nylons  PROX
+Waldorf,Blofeld,Factory Presets 2012,G040,Pure Keys,6,,39,,,Poly,7,,40,,,,
+Waldorf,Blofeld,Factory Presets 2012,G041,PWMaster,6,,40,,,Poly,7,,41,SK,Unknown (SK),6,PWMaster      SK
+Waldorf,Blofeld,Factory Presets 2012,G042,Qazzio,6,,41,,,Poly,7,,42,HS,Howard Scarr,8,Qazzio        HS
+Waldorf,Blofeld,Factory Presets 2012,G043,Qddicted!,6,,42,,,Poly,7,,43,SK,Unknown (SK),5,Qddicted!     SK
+Waldorf,Blofeld,Factory Presets 2012,G044,Qtronix,6,,43,,,Poly,7,,44,ugh,Uwe G. Hoenig,6,Qtronix      ugh
+Waldorf,Blofeld,Factory Presets 2012,G045,Quake FM,6,,44,,,Poly,7,,45,SK,Unknown (SK),6,Quake FM      SK
+Waldorf,Blofeld,Factory Presets 2012,G046,Quintage,6,,45,,,Poly,7,,46,T,Tsching (Holger Steinbrink),7,Quintage       T
+Waldorf,Blofeld,Factory Presets 2012,G047,Quinter 007,6,,46,,,Poly,7,,47,SK,Unknown (SK),3,Quinter 007   SK
+Waldorf,Blofeld,Factory Presets 2012,G048,RaveLover,6,,47,,,Poly,7,,48,SK,Unknown (SK),5,RaveLover     SK
+Waldorf,Blofeld,Factory Presets 2012,G049,Really Insane,6,,48,,,Poly,7,,49,,,,
+Waldorf,Blofeld,Factory Presets 2012,G050,Romeo,6,,49,,,Poly,7,,50,DK,Dirk Krause,9,Romeo         DK
+Waldorf,Blofeld,Factory Presets 2012,G051,RoundTheHorn,6,,50,,,Poly,7,,51,HS,Howard Scarr,2,RoundTheHorn  HS
+Waldorf,Blofeld,Factory Presets 2012,G052,SawTheLight,6,,51,,,Poly,7,,52,SK,Unknown (SK),3,SawTheLight   SK
+Waldorf,Blofeld,Factory Presets 2012,G053,Sax And Dregs,6,,52,,,Poly,7,,53,,,,
+Waldorf,Blofeld,Factory Presets 2012,G054,Schubduese,6,,53,,,Poly,7,,54,T,Tsching (Holger Steinbrink),5,Schubduese     T
+Waldorf,Blofeld,Factory Presets 2012,G055,ShatterWaves,6,,54,,,Poly,7,,55,SK,Unknown (SK),2,ShatterWaves  SK
+Waldorf,Blofeld,Factory Presets 2012,G056,Siegessaeule,6,,55,,,Poly,7,,56,T,Tsching (Holger Steinbrink),3,Siegessaeule   T
+Waldorf,Blofeld,Factory Presets 2012,G057,Simple Melo,6,,56,,,Poly,7,,57,jh,Joerg Huettner,3,Simple Melo   jh
+Waldorf,Blofeld,Factory Presets 2012,G058,Smash It!,6,,57,,,Poly,7,,58,SK,Unknown (SK),5,Smash It!     SK
+Waldorf,Blofeld,Factory Presets 2012,G059,Solo Harp,6,,58,,,Poly,7,,59,,,,
+Waldorf,Blofeld,Factory Presets 2012,G060,Speed,6,,59,,,Poly,7,,60,,,,
+Waldorf,Blofeld,Factory Presets 2012,G061,Spice,6,,60,,,Poly,7,,61,SK,Unknown (SK),9,Spice         SK
+Waldorf,Blofeld,Factory Presets 2012,G062,Spring Clean,6,,61,,,Poly,7,,62,,,,
+Waldorf,Blofeld,Factory Presets 2012,G063,Stabs!,6,,62,,,Poly,7,,63,,,,
+Waldorf,Blofeld,Factory Presets 2012,G064,Stack with you,6,,63,,,Poly,7,,64,,,,
+Waldorf,Blofeld,Factory Presets 2012,G065,SteaLead,6,,64,,,Poly,7,,65,SK,Unknown (SK),6,SteaLead      SK
+Waldorf,Blofeld,Factory Presets 2012,G066,String Poly,6,,65,,,Poly,7,,66,HS,Howard Scarr,3,String Poly   HS
+Waldorf,Blofeld,Factory Presets 2012,G067,String Thing,6,,66,,,Poly,7,,67,HS,Howard Scarr,2,String Thing  HS
+Waldorf,Blofeld,Factory Presets 2012,G068,Stuermer 1,6,,67,,,Poly,7,,68,WMF,Wolfram Franke,3,Stuermer 1   WMF
+Waldorf,Blofeld,Factory Presets 2012,G069,Stylotub,6,,68,,,Poly,7,,69,SK,Unknown (SK),6,Stylotub      SK
+Waldorf,Blofeld,Factory Presets 2012,G070,SyncCity,6,,69,,,Poly,7,,70,,,,
+Waldorf,Blofeld,Factory Presets 2012,G071,Synchronic,6,,70,,,Poly,7,,71,SK,Unknown (SK),4,Synchronic    SK
+Waldorf,Blofeld,Factory Presets 2012,G072,SynthPiano,6,,71,,,Poly,7,,72,SK,Unknown (SK),4,SynthPiano    SK
+Waldorf,Blofeld,Factory Presets 2012,G073,Synth X,6,,72,,,Poly,7,,73,,,,
+Waldorf,Blofeld,Factory Presets 2012,G074,Tea @ Eight,6,,73,,,Poly,7,,74,HS,Howard Scarr,3,Tea @ Eight   HS
+Waldorf,Blofeld,Factory Presets 2012,G075,Tech.Lead 1,6,,74,,,Poly,7,,75,,,,
+Waldorf,Blofeld,Factory Presets 2012,G076,Tech.Lead 2,6,,75,,,Poly,7,,76,,,,
+Waldorf,Blofeld,Factory Presets 2012,G077,TelephoneSyn,6,,76,,,Poly,7,,77,ugh,Uwe G. Hoenig,1,TelephoneSyn ugh
+Waldorf,Blofeld,Factory Presets 2012,G078,Telepromter,6,,77,,,Poly,7,,78,ugh,Uwe G. Hoenig,2,Telepromter  ugh
+Waldorf,Blofeld,Factory Presets 2012,G079,The Big 80s,6,,78,,,Poly,7,,79,,,,
+Waldorf,Blofeld,Factory Presets 2012,G080,The Cutter,6,,79,,,Poly,7,,80,SK,Unknown (SK),4,The Cutter    SK
+Waldorf,Blofeld,Factory Presets 2012,G081,Titanomania,6,,80,,,Poly,7,,81,SK,Unknown (SK),3,Titanomania   SK
+Waldorf,Blofeld,Factory Presets 2012,G082,TranceHarp,6,,81,,,Poly,7,,82,HM,Hubertus Maas,4,TranceHarp    HM
+Waldorf,Blofeld,Factory Presets 2012,G083,Trance Plant,6,,82,,,Poly,7,,83,HS,Howard Scarr,2,Trance Plant  HS
+Waldorf,Blofeld,Factory Presets 2012,G084,Trancer,6,,83,,,Poly,7,,84,SK,Unknown (SK),7,Trancer       SK
+Waldorf,Blofeld,Factory Presets 2012,G085,TrashCan!,6,,84,,,Poly,7,,85,SK,Unknown (SK),5,TrashCan!     SK
+Waldorf,Blofeld,Factory Presets 2012,G086,TributeTo DX,6,,85,,,Poly,7,,86,WMF,Wolfram Franke,1,TributeTo DX WMF
+Waldorf,Blofeld,Factory Presets 2012,G087,Tron Flutes,6,,86,,,Poly,7,,87,HM,Hubertus Maas,3,Tron Flutes   HM
+Waldorf,Blofeld,Factory Presets 2012,G088,Tsching Lead,6,,87,,,Poly,7,,88,T,Tsching (Holger Steinbrink),3,Tsching Lead   T
+Waldorf,Blofeld,Factory Presets 2012,G089,TuBerkel,6,,88,,,Poly,7,,89,DK,Dirk Krause,6,TuBerkel      DK
+Waldorf,Blofeld,Factory Presets 2012,G090,Typ Reso,6,,89,,,Poly,7,,90,RZ,Unknown (RZ),6,Typ Reso      RZ
+Waldorf,Blofeld,Factory Presets 2012,G091,UltraFatPoly,6,,90,,,Poly,7,,91,WMF,Wolfram Franke,1,UltraFatPoly WMF
+Waldorf,Blofeld,Factory Presets 2012,G092,UltraSynC,6,,91,,,Poly,7,,92,jh,Joerg Huettner,5,UltraSynC     jh
+Waldorf,Blofeld,Factory Presets 2012,G093,UltraWave,6,,92,,,Poly,7,,93,SK,Unknown (SK),5,UltraWave     SK
+Waldorf,Blofeld,Factory Presets 2012,G094,Unisono Bass,6,,93,,,Poly,7,,94,DK,Dirk Krause,2,Unisono Bass  DK
+Waldorf,Blofeld,Factory Presets 2012,G095,Utopia!,6,,94,,,Poly,7,,95,SK,Unknown (SK),7,Utopia!       SK
+Waldorf,Blofeld,Factory Presets 2012,G096,VeloFreak,6,,95,,,Poly,7,,96,jh,Joerg Huettner,5,VeloFreak     jh
+Waldorf,Blofeld,Factory Presets 2012,G097,Vintage Days,6,,96,,,Poly,7,,97,SK,Unknown (SK),2,Vintage Days  SK
+Waldorf,Blofeld,Factory Presets 2012,G098,VintageSpring,6,,97,,,Poly,7,,98,WMF,Wolfram Franke,0,VintageSpringWMF
+Waldorf,Blofeld,Factory Presets 2012,G099,Vitalica,6,,98,,,Poly,7,,99,SK,Unknown (SK),6,Vitalica      SK
+Waldorf,Blofeld,Factory Presets 2012,G100,Wank,6,,99,,,Poly,7,,100,WMF,Wolfram Franke,9,Wank         WMF
+Waldorf,Blofeld,Factory Presets 2012,G101,Wank Lead,6,,100,,,Poly,7,,101,WMF,Wolfram Franke,4,Wank Lead    WMF
+Waldorf,Blofeld,Factory Presets 2012,G102,Wanna Noise??,6,,101,,,Poly,7,,102,jh,Joerg Huettner,1,Wanna Noise?? jh
+Waldorf,Blofeld,Factory Presets 2012,G103,Warm PWM Lead,6,,102,,,Poly,7,,103,SK,Unknown (SK),1,Warm PWM Lead SK
+Waldorf,Blofeld,Factory Presets 2012,G104,Warm Verse,6,,103,,,Poly,7,,104,,,,
+Waldorf,Blofeld,Factory Presets 2012,G105,WaveLayer,6,,104,,,Poly,7,,105,SK,Unknown (SK),5,WaveLayer     SK
+Waldorf,Blofeld,Factory Presets 2012,G106,Wells'Tripod,6,,105,,,Poly,7,,106,WMF,Wolfram Franke,1,Wells'Tripod WMF
+Waldorf,Blofeld,Factory Presets 2012,G107,YourChords,6,,106,,,Poly,7,,107,SK,Unknown (SK),4,YourChords    SK
+Waldorf,Blofeld,Factory Presets 2012,G108,Zapper,6,,107,,,Poly,7,,108,SK,Unknown (SK),8,Zapper        SK
+Waldorf,Blofeld,Factory Presets 2012,G109,Zawichords,6,,108,,,Poly,7,,109,HS,Howard Scarr,4,Zawichords    HS
+Waldorf,Blofeld,Factory Presets 2012,G110,Zing Thing,6,,109,,,Poly,7,,110,HS,Howard Scarr,4,Zing Thing    HS
+Waldorf,Blofeld,Factory Presets 2012,G111,Zippy 2,6,,110,,,Poly,7,,111,HM,Hubertus Maas,7,Zippy 2       HM
+Waldorf,Blofeld,Factory Presets 2012,G112,Zombie Nation,6,,111,,,Poly,7,,112,T,Tsching (Holger Steinbrink),2,Zombie Nation  T
+Waldorf,Blofeld,Factory Presets 2012,G113,50s Pad,6,,112,,,Pad,7,,113,,,,
+Waldorf,Blofeld,Factory Presets 2012,G114,Airpad,6,,113,,,Pad,7,,114,,,,
+Waldorf,Blofeld,Factory Presets 2012,G115,AirSpacePad,6,,114,,,Pad,7,,115,SK,Unknown (SK),3,AirSpacePad   SK
+Waldorf,Blofeld,Factory Presets 2012,G116,AmbientSweep,6,,115,,,Pad,7,,116,SK,Unknown (SK),2,AmbientSweep  SK
+Waldorf,Blofeld,Factory Presets 2012,G117,Analog Pad 1,6,,116,,,Pad,7,,117,,,,
+Waldorf,Blofeld,Factory Presets 2012,G118,Analog Pad 2,6,,117,,,Pad,7,,118,,,,
+Waldorf,Blofeld,Factory Presets 2012,G119,Analog Pad 3,6,,118,,,Pad,7,,119,,,,
+Waldorf,Blofeld,Factory Presets 2012,G120,Angel Pad,6,,119,,,Pad,7,,120,,,,
+Waldorf,Blofeld,Factory Presets 2012,G121,Antarktis Pad,6,,120,,,Pad,7,,121,jh,Joerg Huettner,1,Antarktis Pad jh
+Waldorf,Blofeld,Factory Presets 2012,G122,Archangel,6,,121,,,Pad,7,,122,,,,
+Waldorf,Blofeld,Factory Presets 2012,G123,Attacke,6,,122,,,Pad,7,,123,WMF,Wolfram Franke,6,Attacke      WMF
+Waldorf,Blofeld,Factory Presets 2012,G124,BackStrings,6,,123,,,Pad,7,,124,WMF,Wolfram Franke,2,BackStrings  WMF
+Waldorf,Blofeld,Factory Presets 2012,G125,Bandpad,6,,124,,,Pad,7,,125,ugh,Uwe G. Hoenig,6,Bandpad      ugh
+Waldorf,Blofeld,Factory Presets 2012,G126,BandSpass,6,,125,,,Pad,7,,126,,,,
+Waldorf,Blofeld,Factory Presets 2012,G127,Bend Pad,6,,126,,,Pad,7,,127,,,,
+Waldorf,Blofeld,Factory Presets 2012,G128,Big Bad Pad,6,,127,,,Pad,7,,128,,,,
+Waldorf,Blofeld,Factory Presets 2012,H001,Captain Kirk,7,,0,,,FX,8,,1,,,,
+Waldorf,Blofeld,Factory Presets 2012,H002,ChopperSweep,7,,1,,,FX,8,,2,,,,
+Waldorf,Blofeld,Factory Presets 2012,H003,ComputerGames,7,,2,,,FX,8,,3,,,,
+Waldorf,Blofeld,Factory Presets 2012,H004,Cyber Farm,7,,3,,,FX,8,,4,,,,
+Waldorf,Blofeld,Factory Presets 2012,H005,DCS3 Bubbles,7,,4,,,FX,8,,5,,,,
+Waldorf,Blofeld,Factory Presets 2012,H006,Duck Lambada,7,,5,,,FX,8,,6,,,,
+Waldorf,Blofeld,Factory Presets 2012,H007,EffEmmEffIxx,7,,6,,,FX,8,,7,,,,
+Waldorf,Blofeld,Factory Presets 2012,H008,Fade FX.,7,,7,,,FX,8,,8,,,,
+Waldorf,Blofeld,Factory Presets 2012,H009,Final Choice,7,,8,,,FX,8,,9,,,,
+Waldorf,Blofeld,Factory Presets 2012,H010,FlangedNoise,7,,9,,,FX,8,,10,WMF,Wolfram Franke,1,FlangedNoise WMF
+Waldorf,Blofeld,Factory Presets 2012,H011,Flangeplosion,7,,10,,,FX,8,,11,WMF,Wolfram Franke,0,FlangeplosionWMF
+Waldorf,Blofeld,Factory Presets 2012,H012,Flying Teapot,7,,11,,,FX,8,,12,,,,
+Waldorf,Blofeld,Factory Presets 2012,H013,FM Comb FX,7,,12,,,FX,8,,13,,,,
+Waldorf,Blofeld,Factory Presets 2012,H014,FM Noises,7,,13,,,FX,8,,14,,,,
+Waldorf,Blofeld,Factory Presets 2012,H015,Gastrology,7,,14,,,FX,8,,15,,,,
+Waldorf,Blofeld,Factory Presets 2012,H016,HawaiGlider,7,,15,,,FX,8,,16,,,,
+Waldorf,Blofeld,Factory Presets 2012,H017,Into Mouth,7,,16,,,FX,8,,17,,,,
+Waldorf,Blofeld,Factory Presets 2012,H018,LFO  Speeddwn,7,,17,,,FX,8,,18,,,,
+Waldorf,Blofeld,Factory Presets 2012,H019,LFO  Speedup,7,,18,,,FX,8,,19,,,,
+Waldorf,Blofeld,Factory Presets 2012,H020,LilaBells,7,,19,,,FX,8,,20,,,,
+Waldorf,Blofeld,Factory Presets 2012,H021,Living Water,7,,20,,,FX,8,,21,,,,
+Waldorf,Blofeld,Factory Presets 2012,H022,LosAngeles2019,7,,21,,,FX,8,,22,,,,
+Waldorf,Blofeld,Factory Presets 2012,H023,Maschinenraum,7,,22,,,FX,8,,23,,,,
+Waldorf,Blofeld,Factory Presets 2012,H024,Newtronic,7,,23,,,FX,8,,24,,,,
+Waldorf,Blofeld,Factory Presets 2012,H025,Noise Move,7,,24,,,FX,8,,25,,,,
+Waldorf,Blofeld,Factory Presets 2012,H026,NoiseSlapper,7,,25,,,FX,8,,26,,,,
+Waldorf,Blofeld,Factory Presets 2012,H027,NoRobotsHere,7,,26,,,FX,8,,27,,,,
+Waldorf,Blofeld,Factory Presets 2012,H028,Power Down,7,,27,,,FX,8,,28,,,,
+Waldorf,Blofeld,Factory Presets 2012,H029,Q Wars,7,,28,,,FX,8,,29,,,,
+Waldorf,Blofeld,Factory Presets 2012,H030,Reverse-ecioV,7,,29,,,FX,8,,30,,,,
+Waldorf,Blofeld,Factory Presets 2012,H031,RingDaBell,7,,30,,,FX,8,,31,,,,
+Waldorf,Blofeld,Factory Presets 2012,H032,Ring Steps,7,,31,,,FX,8,,32,,,,
+Waldorf,Blofeld,Factory Presets 2012,H033,Rise&Fall,7,,32,,,FX,8,,33,,,,
+Waldorf,Blofeld,Factory Presets 2012,H034,Robotalk =:b,7,,33,,,FX,8,,34,,,,
+Waldorf,Blofeld,Factory Presets 2012,H035,Score FX Pad,7,,34,,,FX,8,,35,,,,
+Waldorf,Blofeld,Factory Presets 2012,H036,Shoot Goose!,7,,35,,,FX,8,,36,,,,
+Waldorf,Blofeld,Factory Presets 2012,H037,Shore,7,,36,,,FX,8,,37,,,,
+Waldorf,Blofeld,Factory Presets 2012,H038,Short Moment,7,,37,,,FX,8,,38,,,,
+Waldorf,Blofeld,Factory Presets 2012,H039,Shot Tool,7,,38,,,FX,8,,39,,,,
+Waldorf,Blofeld,Factory Presets 2012,H040,Sine Down,7,,39,,,FX,8,,40,,,,
+Waldorf,Blofeld,Factory Presets 2012,H041,Skywalker,7,,40,,,FX,8,,41,,,,
+Waldorf,Blofeld,Factory Presets 2012,H042,SubSineSweep,7,,41,,,FX,8,,42,WMF,Wolfram Franke,1,SubSineSweep WMF
+Waldorf,Blofeld,Factory Presets 2012,H043,The Assault,7,,42,,,FX,8,,43,,,,
+Waldorf,Blofeld,Factory Presets 2012,H044,The BORG,7,,43,,,FX,8,,44,,,,
+Waldorf,Blofeld,Factory Presets 2012,H045,Thunderain,7,,44,,,FX,8,,45,,,,
+Waldorf,Blofeld,Factory Presets 2012,H046,ThunderDrums,7,,45,,,FX,8,,46,,,,
+Waldorf,Blofeld,Factory Presets 2012,H047,Tron Ring Game,7,,46,,,FX,8,,47,,,,
+Waldorf,Blofeld,Factory Presets 2012,H048,Tuxedosun,7,,47,,,FX,8,,48,,,,
+Waldorf,Blofeld,Factory Presets 2012,H049,Why?,7,,48,,,FX,8,,49,,,,
+Waldorf,Blofeld,Factory Presets 2012,H050,Wind Athmo,7,,49,,,FX,8,,50,,,,
+Waldorf,Blofeld,Factory Presets 2012,H051,WipeOut,7,,50,,,FX,8,,51,,,,
+Waldorf,Blofeld,Factory Presets 2012,H052,ZischDeep,7,,51,,,FX,8,,52,,,,
+Waldorf,Blofeld,Factory Presets 2012,H053,Agogo Scrape,7,,52,,,Perc,8,,53,,,,
+Waldorf,Blofeld,Factory Presets 2012,H054,All Thumbs,7,,53,,,Perc,8,,54,,,,
+Waldorf,Blofeld,Factory Presets 2012,H055,AnalogBongo 1,7,,54,,,Perc,8,,55,,,,
+Waldorf,Blofeld,Factory Presets 2012,H056,Analog HH op,7,,55,,,Perc,8,,56,,,,
+Waldorf,Blofeld,Factory Presets 2012,H057,AnalogStick 1,7,,56,,,Perc,8,,57,,,,
+Waldorf,Blofeld,Factory Presets 2012,H058,Bass Drum,7,,57,,,Drum,8,,58,WMF,Wolfram Franke,4,Bass Drum    WMF
+Waldorf,Blofeld,Factory Presets 2012,H059,BD 90ies Drum,7,,58,,,Perc,8,,59,,,,
+Waldorf,Blofeld,Factory Presets 2012,H060,BD 808 @ 2002,7,,59,,,Perc,8,,60,,,,
+Waldorf,Blofeld,Factory Presets 2012,H061,BD analg80ies,7,,60,,,Perc,8,,61,,,,
+Waldorf,Blofeld,Factory Presets 2012,H062,BD analog 02,7,,61,,,Perc,8,,62,,,,
+Waldorf,Blofeld,Factory Presets 2012,H063,BD analog 03,7,,62,,,Perc,8,,63,,,,
+Waldorf,Blofeld,Factory Presets 2012,H064,BD AnalogRand,7,,63,,,Perc,8,,64,,,,
+Waldorf,Blofeld,Factory Presets 2012,H065,BD Club 01,7,,64,,,Perc,8,,65,,,,
+Waldorf,Blofeld,Factory Presets 2012,H066,BD Deep Zap,7,,65,,,Perc,8,,66,,,,
+Waldorf,Blofeld,Factory Presets 2012,H067,BD Disto 808,7,,66,,,Perc,8,,67,,,,
+Waldorf,Blofeld,Factory Presets 2012,H068,BD DoorSlam,7,,67,,,Perc,8,,68,,,,
+Waldorf,Blofeld,Factory Presets 2012,H069,BD Hardcore,7,,68,,,Perc,8,,69,,,,
+Waldorf,Blofeld,Factory Presets 2012,H070,BD HighKick,7,,69,,,Perc,8,,70,,,,
+Waldorf,Blofeld,Factory Presets 2012,H071,BD On Stage,7,,70,,,Perc,8,,71,,,,
+Waldorf,Blofeld,Factory Presets 2012,H072,BD Plock!,7,,71,,,Perc,8,,72,,,,
+Waldorf,Blofeld,Factory Presets 2012,H073,BD Smack It!,7,,72,,,Perc,8,,73,,,,
+Waldorf,Blofeld,Factory Presets 2012,H074,BD SpectroZap,7,,73,,,Perc,8,,74,,,,
+Waldorf,Blofeld,Factory Presets 2012,H075,BD SubDrum,7,,74,,,Perc,8,,75,,,,
+Waldorf,Blofeld,Factory Presets 2012,H076,BD Woof&Pock,7,,75,,,Perc,8,,76,,,,
+Waldorf,Blofeld,Factory Presets 2012,H077,BD ZapDrum,7,,76,,,Perc,8,,77,,,,
+Waldorf,Blofeld,Factory Presets 2012,H078,Bended Metal,7,,77,,,Perc,8,,78,,,,
+Waldorf,Blofeld,Factory Presets 2012,H079,Brush HH,7,,78,,,Perc,8,,79,,,,
+Waldorf,Blofeld,Factory Presets 2012,H080,Clap 01,7,,79,,,Perc,8,,80,,,,
+Waldorf,Blofeld,Factory Presets 2012,H081,Clap 03,7,,80,,,Perc,8,,81,,,,
+Waldorf,Blofeld,Factory Presets 2012,H082,Clap 04,7,,81,,,Perc,8,,82,,,,
+Waldorf,Blofeld,Factory Presets 2012,H083,ClapsMuehle,7,,82,,,Perc,8,,83,,,,
+Waldorf,Blofeld,Factory Presets 2012,H084,Deep Bell,7,,83,,,Perc,8,,84,,,,
+Waldorf,Blofeld,Factory Presets 2012,H085,DivX Pad,7,,84,,,Pad,8,,85,,,,
+Waldorf,Blofeld,Factory Presets 2012,H086,DoubleHHclose,7,,85,,,Perc,8,,86,,,,
+Waldorf,Blofeld,Factory Presets 2012,H087,Dry BD,7,,86,,,Perc,8,,87,,,,
+Waldorf,Blofeld,Factory Presets 2012,H088,Dry BD 2,7,,87,,,Perc,8,,88,,,,
+Waldorf,Blofeld,Factory Presets 2012,H089,FM HHcl,7,,88,,,Perc,8,,89,,,,
+Waldorf,Blofeld,Factory Presets 2012,H090,FM HHop,7,,89,,,Perc,8,,90,,,,
+Waldorf,Blofeld,Factory Presets 2012,H091,HammerBell,7,,90,,,Perc,8,,91,,,,
+Waldorf,Blofeld,Factory Presets 2012,H092,HH closed 01,7,,91,,,Perc,8,,92,,,,
+Waldorf,Blofeld,Factory Presets 2012,H093,HH closed 02,7,,92,,,Perc,8,,93,,,,
+Waldorf,Blofeld,Factory Presets 2012,H094,HH closed 03,7,,93,,,Perc,8,,94,,,,
+Waldorf,Blofeld,Factory Presets 2012,H095,HH closed 04,7,,94,,,Perc,8,,95,,,,
+Waldorf,Blofeld,Factory Presets 2012,H096,HH closed 05,7,,95,,,Perc,8,,96,,,,
+Waldorf,Blofeld,Factory Presets 2012,H097,HH closed 06,7,,96,,,Perc,8,,97,,,,
+Waldorf,Blofeld,Factory Presets 2012,H098,HH closed 08,7,,97,,,Perc,8,,98,,,,
+Waldorf,Blofeld,Factory Presets 2012,H099,HH closed 09,7,,98,,,Perc,8,,99,,,,
+Waldorf,Blofeld,Factory Presets 2012,H100,HH open 01,7,,99,,,Perc,8,,100,,,,
+Waldorf,Blofeld,Factory Presets 2012,H101,HH open 02,7,,100,,,Perc,8,,101,,,,
+Waldorf,Blofeld,Factory Presets 2012,H102,HH open 03,7,,101,,,Perc,8,,102,,,,
+Waldorf,Blofeld,Factory Presets 2012,H103,HH open 06,7,,102,,,Perc,8,,103,,,,
+Waldorf,Blofeld,Factory Presets 2012,H104,HH open 07,7,,103,,,Perc,8,,104,,,,
+Waldorf,Blofeld,Factory Presets 2012,H105,HH open 08,7,,104,,,Perc,8,,105,,,,
+Waldorf,Blofeld,Factory Presets 2012,H106,High PulseZap,7,,105,,,Perc,8,,106,,,,
+Waldorf,Blofeld,Factory Presets 2012,H107,PPG Zaps,7,,106,,,Perc,8,,107,,,,
+Waldorf,Blofeld,Factory Presets 2012,H108,Punchy SN,7,,107,,,Perc,8,,108,,,,
+Waldorf,Blofeld,Factory Presets 2012,H109,Q-La Shaker,7,,108,,,Perc,8,,109,,,,
+Waldorf,Blofeld,Factory Presets 2012,H110,Skellington,7,,109,,,Perc,8,,110,,,,
+Waldorf,Blofeld,Factory Presets 2012,H111,SN NeoAnalog,7,,110,,,Perc,8,,111,,,,
+Waldorf,Blofeld,Factory Presets 2012,H112,SN Real Snare,7,,111,,,Perc,8,,112,,,,
+Waldorf,Blofeld,Factory Presets 2012,H113,SN RimSnare,7,,112,,,Perc,8,,113,,,,
+Waldorf,Blofeld,Factory Presets 2012,H114,SN SnAir ;-),7,,113,,,Perc,8,,114,,,,
+Waldorf,Blofeld,Factory Presets 2012,H115,SN Thinny,7,,114,,,Perc,8,,115,,,,
+Waldorf,Blofeld,Factory Presets 2012,H116,SN Zappada,7,,115,,,Perc,8,,116,,,,
+Waldorf,Blofeld,Factory Presets 2012,H117,SN ZapSnare,7,,116,,,Perc,8,,117,,,,
+Waldorf,Blofeld,Factory Presets 2012,H118,Surrr,7,,117,,,Perc,8,,118,,,,
+Waldorf,Blofeld,Factory Presets 2012,H119,Tombola 1,7,,118,,,Perc,8,,119,,,,
+Waldorf,Blofeld,Factory Presets 2012,H120,TR66 Hihat,7,,119,,,Drum,8,,120,WMF,Wolfram Franke,3,TR66 Hihat   WMF
+Waldorf,Blofeld,Factory Presets 2012,H121,Various Metal,7,,120,,,Perc,8,,121,,,,
+Waldorf,Blofeld,Factory Presets 2012,H122,Woodpicker,7,,121,,,Perc,8,,122,,,,
+Waldorf,Blofeld,Factory Presets 2012,H123,Zap 1,7,,122,,,Perc,8,,123,,,,
+Waldorf,Blofeld,Factory Presets 2012,H124,Zap 2,7,,123,,,Perc,8,,124,,,,
+Waldorf,Blofeld,Factory Presets 2012,H125,Zap BD,7,,124,,,Perc,8,,125,,,,
+Waldorf,Blofeld,Factory Presets 2012,H126,Zappy :),7,,125,,,Perc,8,,126,,,,
+Waldorf,Blofeld,Factory Presets 2012,H127,Zap Stick,7,,126,,,Perc,8,,127,,,,
+Waldorf,Blofeld,Factory Presets 2012,H128,Init,7,,127,,,Init,8,,128,,,,
