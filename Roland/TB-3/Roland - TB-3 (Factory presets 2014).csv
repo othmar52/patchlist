@@ -1,0 +1,135 @@
+manufacturer,device,patchset,displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,val-saw,val-sqr,val-pink,val-white,val-decay,val-volume,val-disttype,val-efx1,val-efx2
+Roland,TB-3,Factory presets 2014,A01,Untitled A01,0,,0,,,Bass,1,,1,127,,,,20,92,none,Bypass,Bypass
+Roland,TB-3,Factory presets 2014,A02,Untitled A02,0,,1,,,Bass,1,,2,,127,,,20,92,none,Bypass,Bypass
+Roland,TB-3,Factory presets 2014,A03,Untitled A03,0,,2,,,Bass,1,,3,127,,,,0,98,none,Bypass,Reverb
+Roland,TB-3,Factory presets 2014,A04,Untitled A04,0,,3,,,Bass,1,,4,,127,,,0,97,none,Bypass,Reverb
+Roland,TB-3,Factory presets 2014,A05,Untitled A05,0,,4,,,Bass,1,,5,107,,,,0,82,none,Chorus,Compression
+Roland,TB-3,Factory presets 2014,A06,Untitled A06,0,,5,,,Bass,1,,6,,109,,,0,86,none,Chorus,Compression
+Roland,TB-3,Factory presets 2014,A07,Untitled A07,0,,6,,,Bass,1,,7,127,,,,127,97,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,A08,Untitled A08,0,,7,,,Bass,1,,8,,127,,,127,100,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,A09,Untitled A09,0,,8,,,Bass,1,,9,127,,,,20,74,none,Flanger,Delay
+Roland,TB-3,Factory presets 2014,A10,Untitled A10,0,,9,,,Bass,1,,10,,127,,,20,74,none,Flanger,Delay
+Roland,TB-3,Factory presets 2014,A11,Untitled A11,0,,10,,,Bass,1,,11,127,,,,127,95,Distortion,Compression,Bypass
+Roland,TB-3,Factory presets 2014,A12,Untitled A12,0,,11,,,Bass,1,,12,,127,,,127,93,Distortion,Compression,Bypass
+Roland,TB-3,Factory presets 2014,A13,Untitled A13,0,,12,,,Bass,1,,13,127,,,,127,88,Turbo OD,Bypass,Bypass
+Roland,TB-3,Factory presets 2014,A14,Untitled A14,0,,13,,,Bass,1,,14,,127,,,127,88,Turbo OD,Bypass,Bypass
+Roland,TB-3,Factory presets 2014,A15,Untitled A15,0,,14,,,Bass,1,,15,127,,,,105,88,Lead,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,A16,Untitled A16,0,,15,,,Bass,1,,16,,127,,,105,86,Lead,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,A17,Untitled A17,0,,16,,,Bass,1,,17,127,,,,127,95,Distortion,Compression,Delay
+Roland,TB-3,Factory presets 2014,A18,Untitled A18,0,,17,,,Bass,1,,18,,127,,,127,97,Distortion,Compression,Delay
+Roland,TB-3,Factory presets 2014,A19,Untitled A19,0,,18,,,Bass,1,,19,127,,,,127,98,OD-1,Compression,Delay
+Roland,TB-3,Factory presets 2014,A20,Untitled A20,0,,19,,,Bass,1,,20,,127,,,127,95,OD-1,Compression,Delay
+Roland,TB-3,Factory presets 2014,A21,Untitled A21,0,,20,,,Bass,1,,21,127,,,,121,71,Turbo OD,Chorus,Delay
+Roland,TB-3,Factory presets 2014,A22,Untitled A22,0,,21,,,Bass,1,,22,,127,,,121,71,Turbo OD,Chorus,Delay
+Roland,TB-3,Factory presets 2014,A23,Untitled A23,0,,22,,,Bass,1,,23,127,,,,127,62,Blues OD,Bitcrush,Bypass
+Roland,TB-3,Factory presets 2014,A24,Untitled A24,0,,23,,,Bass,1,,24,,127,,,127,60,Blues OD,Bitcrush,Bypass
+Roland,TB-3,Factory presets 2014,A25,Untitled A25,0,,24,,,Bass,1,,25,127,,,,90,64,T-Scream,Phaser,Delay
+Roland,TB-3,Factory presets 2014,A26,Untitled A26,0,,25,,,Bass,1,,26,,127,,,90,62,T-Scream,Phaser,Delay
+Roland,TB-3,Factory presets 2014,B01,Untitled B01,1,,0,,,Bass,2,,1,91,98,,,110,79,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,B02,Untitled B02,1,,1,,,Bass,2,,2,75,42,,,30,105,Treble,Delay,Bypass
+Roland,TB-3,Factory presets 2014,B03,Untitled B03,1,,2,,,Bass,2,,3,63,0,,,15,80,none,Bypass,Delay
+Roland,TB-3,Factory presets 2014,B04,Untitled B04,1,,3,,,Bass,2,,4,127,127,,,44,72,none,Compression,Delay
+Roland,TB-3,Factory presets 2014,B05,Untitled B05,1,,4,,,Bass,2,,5,52,,,,127,62,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,B06,Untitled B06,1,,5,,,Bass,2,,6,60,127,,,11,102,Warm OD,Compression,Reverb
+Roland,TB-3,Factory presets 2014,B07,Untitled B07,1,,6,,,Bass,2,,7,51,114,,,0,91,none,Bypass,Chorus
+Roland,TB-3,Factory presets 2014,B08,Untitled B08,1,,7,,,Bass,2,,8,,127,,,39,109,none,Chorus,Bypass
+Roland,TB-3,Factory presets 2014,B09,Untitled B09,1,,8,,,Bass,2,,9,43,50,,,42,70,none,Chorus,RingMod
+Roland,TB-3,Factory presets 2014,B10,Untitled B10,1,,9,,,Bass,2,,10,127,36,4,,0,93,none,Phaser,Reverb
+Roland,TB-3,Factory presets 2014,B11,Untitled B11,1,,10,,,Bass,2,,11,13,127,,,0,90,Solid DS,Compression,Delay
+Roland,TB-3,Factory presets 2014,B12,Untitled B12,1,,11,,,Bass,2,,12,77,127,,,0,40,none,Chorus,Compression
+Roland,TB-3,Factory presets 2014,B13,Untitled B13,1,,12,,,Bass,2,,13,,64,,,58,39,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,B14,Untitled B14,1,,13,,,Bass,2,,14,73,127,,,0,50,none,Compression,Chorus
+Roland,TB-3,Factory presets 2014,B15,Untitled B15,1,,14,,,Bass,2,,15,127,,,,0,82,none,Bypass,Chorus
+Roland,TB-3,Factory presets 2014,B16,Untitled B16,1,,15,,,Bass,2,,16,60,0,,,0,106,none,Tremelo,Chorus
+Roland,TB-3,Factory presets 2014,B17,Untitled B17,1,,16,,,Bass,2,,17,127,127,,1,127,28,Clean Boost,Compression,Chorus
+Roland,TB-3,Factory presets 2014,B18,Untitled B18,1,,17,,,Bass,2,,18,,,,,0,35,Mid Boost,Compression,Bypass
+Roland,TB-3,Factory presets 2014,B19,Untitled B19,1,,18,,,Bass,2,,19,,,,,107,60,Mid Boost,Compression,Delay
+Roland,TB-3,Factory presets 2014,B20,Untitled B20,1,,19,,,Bass,2,,20,,127,,,127,53,Clean Boost,Chorus,Compression
+Roland,TB-3,Factory presets 2014,B21,Untitled B21,1,,20,,,Bass,2,,21,,,0,,108,64,GUV DS,Compression,Flanger
+Roland,TB-3,Factory presets 2014,B22,Untitled B22,1,,21,,,Bass,2,,22,13,0,,,13,62,Clean Boost,PitchShift,Bypass
+Roland,TB-3,Factory presets 2014,B23,Untitled B23,1,,22,,,Bass,2,,23,127,13,,,20,64,none,Compression,Reverb
+Roland,TB-3,Factory presets 2014,B24,Untitled B24,1,,23,,,Bass,2,,24,115,,0,,127,62,Mid Boost,Compression,Delay
+Roland,TB-3,Factory presets 2014,B25,Untitled B25,1,,24,,,Bass,2,,25,11,95,,,0,72,none,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,B26,Untitled B26,1,,25,,,Bass,2,,26,110,127,,,0,65,Mild DS,Phaser,Delay
+Roland,TB-3,Factory presets 2014,B27,Untitled B27,1,,26,,,Bass,2,,27,127,61,,,34,55,Modern DS,Compression,Chorus
+Roland,TB-3,Factory presets 2014,B28,Untitled B28,1,,27,,,Bass,2,,28,127,,,,50,59,RAT,Compression,Chorus
+Roland,TB-3,Factory presets 2014,B29,Untitled B29,1,,28,,,Bass,2,,29,103,,,,0,62,Lead,Chorus,Compression
+Roland,TB-3,Factory presets 2014,B30,Untitled B30,1,,29,,,Bass,2,,30,3,127,,,6,82,RAT,Compression,Delay
+Roland,TB-3,Factory presets 2014,B31,Untitled B31,1,,30,,,Bass,2,,31,127,127,,,80,90,Modern DS,Compression,Reverb
+Roland,TB-3,Factory presets 2014,B32,Untitled B32,1,,31,,,Bass,2,,32,91,98,,,58,51,DST+,Chorus,Bypass
+Roland,TB-3,Factory presets 2014,B33,Untitled B33,1,,32,,,Bass,2,,33,,127,,,34,82,Metal,Chorus,Bypass
+Roland,TB-3,Factory presets 2014,B34,Untitled B34,1,,33,,,Bass,2,,34,64,63,,,45,90,Blues OD,Chorus,Bypass
+Roland,TB-3,Factory presets 2014,B35,Untitled B35,1,,34,,,Bass,2,,35,39,26,,,0,50,Treble,Bypass,Reverb
+Roland,TB-3,Factory presets 2014,B36,Untitled B36,1,,35,,,Bass,2,,36,51,51,,,51,44,Natural OD,Phaser,Delay
+Roland,TB-3,Factory presets 2014,B37,Untitled B37,1,,36,,,Bass,2,,37,89,38,3,,56,52,T-Scream,Flanger,Reverb
+Roland,TB-3,Factory presets 2014,B38,Untitled B38,1,,37,,,Bass,2,,38,24,59,,,76,65,none,Delay,Reverb
+Roland,TB-3,Factory presets 2014,B39,Untitled B39,1,,38,,,Bass,2,,39,127,,,,32,42,Warm OD,Compression,Flanger
+Roland,TB-3,Factory presets 2014,B40,Untitled B40,1,,39,,,Bass,2,,40,52,,,,0,50,DST+,Phaser,Chorus
+Roland,TB-3,Factory presets 2014,B41,Untitled B41,1,,40,,,Bass,2,,41,127,,,,0,60,Stack,Chorus,Bypass
+Roland,TB-3,Factory presets 2014,B42,Untitled B42,1,,41,,,Bass,2,,42,,126,,,0,70,Mild DS,Chorus,Chorus
+Roland,TB-3,Factory presets 2014,B43,Untitled B43,1,,42,,,Bass,2,,43,,19,0,,91,95,GUV DS,Compression,Bitcrush
+Roland,TB-3,Factory presets 2014,B44,Untitled B44,1,,43,,,Bass,2,,44,25,127,,,0,74,none,Flanger,Delay
+Roland,TB-3,Factory presets 2014,B45,Untitled B45,1,,44,,,Bass,2,,45,127,127,15,,119,54,Mid Boost,Delay,Reverb
+Roland,TB-3,Factory presets 2014,B46,Untitled B46,1,,45,,,Bass,2,,46,127,,,3,67,60,Distortion,Compression,Delay
+Roland,TB-3,Factory presets 2014,B47,Untitled B47,1,,46,,,Bass,2,,47,0,0,,,0,62,none,Bypass,Reverb
+Roland,TB-3,Factory presets 2014,B48,Untitled B48,1,,47,,,Bass,2,,48,,,,,108,20,none,PitchShift,Reverb
+Roland,TB-3,Factory presets 2014,B49,Untitled B49,1,,48,,,Bass,2,,49,46,83,,,36,66,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,B50,Untitled B50,1,,49,,,Bass,2,,50,,127,,,127,86,Oct,Compression,Reverb
+Roland,TB-3,Factory presets 2014,B51,Untitled B51,1,,50,,,Bass,2,,51,,127,,,44,78,Oct,Compression,Delay
+Roland,TB-3,Factory presets 2014,C01,Untitled C01,2,,0,,,Bass,3,,1,67,2,,,127,80,Blues OD,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,C02,Untitled C02,2,,1,,,Bass,3,,2,127,12,,,0,67,Lead,Compression,Delay
+Roland,TB-3,Factory presets 2014,C03,Untitled C03,2,,2,,,Bass,3,,3,,,,,127,56,Lead,Bitcrush,Delay
+Roland,TB-3,Factory presets 2014,C04,Untitled C04,2,,3,,,Bass,3,,4,127,127,,,0,75,Distortion,Phaser,Delay
+Roland,TB-3,Factory presets 2014,C05,Untitled C05,2,,4,,,Bass,3,,5,127,,,,127,62,Modern DS,Flanger,Delay
+Roland,TB-3,Factory presets 2014,C06,Untitled C06,2,,5,,,Bass,3,,6,127,95,,,80,78,Crunch,Tremelo,Delay
+Roland,TB-3,Factory presets 2014,C07,Untitled C07,2,,6,,,Bass,3,,7,127,17,,,30,74,DST+,Delay,Delay
+Roland,TB-3,Factory presets 2014,C08,Untitled C08,2,,7,,,Bass,3,,8,127,95,,,6,92,Warm OD,Chorus,Delay
+Roland,TB-3,Factory presets 2014,C09,Untitled C09,2,,8,,,Bass,3,,9,127,127,,,23,74,none,Compression,Delay
+Roland,TB-3,Factory presets 2014,C10,Untitled C10,2,,9,,,Bass,3,,10,57,67,,,0,104,none,Bypass,Chorus
+Roland,TB-3,Factory presets 2014,C11,Untitled C11,2,,10,,,Bass,3,,11,,127,,,23,86,none,Compression,Delay
+Roland,TB-3,Factory presets 2014,C12,Untitled C12,2,,11,,,Bass,3,,12,57,,,,0,61,DST+,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C13,Untitled C13,2,,12,,,Bass,3,,13,37,28,,,4,96,none,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C14,Untitled C14,2,,13,,,Bass,3,,14,0,0,,,0,113,Clean Boost,Tremelo,Reverb
+Roland,TB-3,Factory presets 2014,C15,Untitled C15,2,,14,,,Bass,3,,15,79,33,,,21,115,none,Tremelo,Delay
+Roland,TB-3,Factory presets 2014,C16,Untitled C16,2,,15,,,Bass,3,,16,,8,,,0,54,DST+,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C17,Untitled C17,2,,16,,,Bass,3,,17,58,,,,0,110,none,Tremelo,Reverb
+Roland,TB-3,Factory presets 2014,C18,Untitled C18,2,,17,,,Bass,3,,18,,79,,,0,105,none,Tremelo,Reverb
+Roland,TB-3,Factory presets 2014,C19,Untitled C19,2,,18,,,Bass,3,,19,127,,,,53,105,none,Bypass,Delay
+Roland,TB-3,Factory presets 2014,C20,Untitled C20,2,,19,,,Bass,3,,20,20,106,,,0,77,Mild DS,Chorus,Chorus
+Roland,TB-3,Factory presets 2014,C21,Untitled C21,2,,20,,,Bass,3,,21,12,,,,127,107,none,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,C22,Untitled C22,2,,21,,,Bass,3,,22,112,31,,,125,82,Mid Boost,Delay,Compression
+Roland,TB-3,Factory presets 2014,C23,Untitled C23,2,,22,,,Bass,3,,23,127,,4,,0,75,60s,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C24,Untitled C24,2,,23,,,Bass,3,,24,127,75,,,90,70,Natural OD,Compression,Delay
+Roland,TB-3,Factory presets 2014,C25,Untitled C25,2,,24,,,Bass,3,,25,17,126,,,108,86,Solid DS,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C26,Untitled C26,2,,25,,,Bass,3,,26,127,106,,,23,62,none,Compression,Delay
+Roland,TB-3,Factory presets 2014,C27,Untitled C27,2,,26,,,Bass,3,,27,127,106,,,23,78,none,Compression,Delay
+Roland,TB-3,Factory presets 2014,C28,Untitled C28,2,,27,,,Bass,3,,28,61,,,,127,76,none,Chorus,Delay
+Roland,TB-3,Factory presets 2014,C29,Untitled C29,2,,28,,,Bass,3,,29,127,25,,,0,82,Mid DS,Chorus,Chorus
+Roland,TB-3,Factory presets 2014,C30,Untitled C30,2,,29,,,Bass,3,,30,75,4,,,0,90,RAT,Phaser,Chorus
+Roland,TB-3,Factory presets 2014,C31,Untitled C31,2,,30,,,Bass,3,,31,127,95,,,121,68,RAT,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C32,Untitled C32,2,,31,,,Bass,3,,32,87,61,,,0,90,RAT,Delay,Reverb
+Roland,TB-3,Factory presets 2014,C33,Untitled C33,2,,32,,,Bass,3,,33,20,127,,,0,61,Mild DS,Chorus,Chorus
+Roland,TB-3,Factory presets 2014,C34,Untitled C34,2,,33,,,Bass,3,,34,52,15,,,0,60,DST+,Chorus,Chorus
+Roland,TB-3,Factory presets 2014,C35,Untitled C35,2,,34,,,Bass,3,,35,80,27,,,127,124,RAT,Bitcrush,Delay
+Roland,TB-3,Factory presets 2014,C36,Untitled C36,2,,35,,,Bass,3,,36,127,16,,,127,100,Distortion,Bypass,Reverb
+Roland,TB-3,Factory presets 2014,C37,Untitled C37,2,,36,,,Bass,3,,37,58,45,,,89,88,none,Bitcrush,Reverb
+Roland,TB-3,Factory presets 2014,C38,Untitled C38,2,,37,,,Bass,3,,38,127,84,,,127,95,Metal,Phaser,Phaser
+Roland,TB-3,Factory presets 2014,C39,Untitled C39,2,,38,,,Bass,3,,39,127,23,,,127,40,Loud,Phaser,Reverb
+Roland,TB-3,Factory presets 2014,C40,Untitled C40,2,,39,,,Bass,3,,40,106,57,,,127,38,Loud,Phaser,Tremelo
+Roland,TB-3,Factory presets 2014,D01,Untitled D01,3,,0,,,Bass,4,,1,127,,,,50,90,Distortion,Bypass,RingMod
+Roland,TB-3,Factory presets 2014,D02,Untitled D02,3,,1,,,Bass,4,,2,,,,,127,45,Clean Boost,Bitcrush,Bypass
+Roland,TB-3,Factory presets 2014,D03,Untitled D03,3,,2,,,Bass,4,,3,80,,,6,0,78,none,Bitcrush,Delay
+Roland,TB-3,Factory presets 2014,D04,Untitled D04,3,,3,,,Bass,4,,4,127,127,,10,62,90,Clean Boost,PitchShift,Delay
+Roland,TB-3,Factory presets 2014,D05,Untitled D05,3,,4,,,Bass,4,,5,,,,,55,43,none,Chorus,Reverb
+Roland,TB-3,Factory presets 2014,D06,Untitled D06,3,,5,,,Bass,4,,6,,,,45,10,102,Clean Boost,Delay,Bypass
+Roland,TB-3,Factory presets 2014,D07,Untitled D07,3,,6,,,Bass,4,,7,,,,127,33,10,Clean Boost,Phaser,Delay
+Roland,TB-3,Factory presets 2014,D08,Untitled D08,3,,7,,,Bass,4,,8,,68,,,102,80,Crunch,Flanger,Reverb
+Roland,TB-3,Factory presets 2014,D09,Untitled D09,3,,8,,,Bass,4,,9,127,127,,22,0,50,Treble Bst,Chorus,Delay
+Roland,TB-3,Factory presets 2014,D10,Untitled D10,3,,9,,,Bass,4,,10,127,,,,127,60,Mid DS,RingMod,Reverb
+Roland,TB-3,Factory presets 2014,D11,Untitled D11,3,,10,,,Bass,4,,11,127,95,,,0,60,none,Delay,Reverb
+Roland,TB-3,Factory presets 2014,D12,Untitled D12,3,,11,,,Bass,4,,12,,,,,0,20,Stack,Chorus,Delay
+Roland,TB-3,Factory presets 2014,D13,Untitled D13,3,,12,,,Bass,4,,13,127,,,5,0,85,GUV DS,Tremelo,Delay
+Roland,TB-3,Factory presets 2014,D14,Untitled D14,3,,13,,,Bass,4,,14,127,,5,,0,86,Stack,Delay,Reverb
+Roland,TB-3,Factory presets 2014,D15,Untitled D15,3,,14,,,Bass,4,,15,,,127,,0,70,GUV DS,Delay,Reverb
+Roland,TB-3,Factory presets 2014,D16,Untitled D16,3,,15,,,Bass,4,,16,28,60,,,0,85,Clean Boost,PitchShift,Delay
+Roland,TB-3,Factory presets 2014,D17,Untitled D17,3,,16,,,Bass,4,,17,,,,,127,30,Lead,PitchShift,Delay
